@@ -1,15 +1,10 @@
-#!/bin/bash
+#!/bin/sh
 
 # Config
 basePath="mediawiki/extensions/"
 
 # Script to add any missing submodules and update them to HEAD
-for p in `ssh -p 29418 gerrit.wikimedia.org gerrit ls-projects`
+ssh -p 29418 gerrit.wikimedia.org gerrit ls-projects | grep "^${basePath}" | sed "s,${basePath},," | while read PROJECT
 do
-	if [[ $p = $basePath* ]]; then
-		ext=${p:${#basePath}}
-		if grep -v $ext .gitmodules; then
-			`git submodule --quiet add ssh://gerrit.wikimedia.org:29418/$basePath$ext.git $ext`
-		fi
-	fi
+	[ ! -d "${PROJECT}" ] && git submodule --quiet add "ssh://gerrit.wikimedia.org:29418/${basePath}${PROJECT}.git" "${PROJECT}"
 done
