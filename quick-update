@@ -1,0 +1,52 @@
+#!/bin/bash
+
+# Code is released into public domain
+
+PROCNUM=10
+TARGET=${1:-all}
+MODE=${2:-update}
+
+FONT_BOLD=`tput bold`
+FONT_NORMAL=`tput sgr0`
+
+cd $( dirname "${BASH_SOURCE[0]}" )
+
+if [[ $TARGET != 'all' && ! -d "$TARGET" ]]
+then
+	echo "Extension $TARGET does not exists"
+	exit 1
+fi
+
+if [[ $TARGET == 'all' ]]
+then
+	find -maxdepth 1 -type d | sed -e'/^.$/d' -e'/.git/d' | xargs -n 1 -P $PROCNUM -I '{}' ./quick-update '{}' $MODE
+else
+	cd $TARGET
+	if [[ ! -d ".git" ]]
+	then
+		echo "Extension $TARGET does not seem like a valid git repository"
+		exit 1
+	fi
+
+	case "$MODE" in
+		"update" )
+			if [[ -n $( git branch --no-color | grep "* master" ) ]]
+			then
+				echo "Updating extension ${TARGET}..."
+				git fetch origin
+				git rebase origin/master
+			else
+				echo "${FONT_BOLD}${TARGET} is not on master. Fetching data and leaving up to you what to do${FONT_NORMAL}"
+				git fetch
+			fi
+			;;
+		"fetch" )
+			echo "Fetching the extension ${TARGET}..."
+			git fetch origin
+			;;
+		* )
+			echo "Invalid mode specified"
+			exit 1
+		
+	esac
+fi
