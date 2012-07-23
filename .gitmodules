@@ -1058,3 +1058,155 @@
 	path = WikivoteMapsYandex
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikivoteMapsYandex.git
 	branch = .
+[submodule "BiblioPlus"]
+	path = BiblioPlus
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/BiblioPlus.git
+	branch = .
+[submodule "Carp"]
+	path = Carp
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Carp.git
+	branch = .
+[submodule "CommentPages"]
+	path = CommentPages
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CommentPages.git
+	branch = .
+[submodule "ConfirmAccount"]
+	path = ConfirmAccount
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ConfirmAccount.git
+	branch = .
+[submodule "CopyToClipboard"]
+	path = CopyToClipboard
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CopyToClipboard.git
+	branch = .
+[submodule "CreditTab"]
+	path = CreditTab
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CreditTab.git
+	branch = .
+[submodule "Diagnosis"]
+	path = Diagnosis
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Diagnosis.git
+	branch = .
+[submodule "Diff"]
+	path = Diff
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Diff.git
+	branch = .
+[submodule "Drafts"]
+	path = Drafts
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Drafts.git
+	branch = .
+[submodule "ExtTab"]
+	path = ExtTab
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ExtTab.git
+	branch = .
+[submodule "FormatNum"]
+	path = FormatNum
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/FormatNum.git
+	branch = .
+[submodule "Genderize"]
+	path = Genderize
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Genderize.git
+	branch = .
+[submodule "GlobalUserGroups"]
+	path = GlobalUserGroups
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GlobalUserGroups.git
+	branch = .
+[submodule "GoogleCustomWikiSearch"]
+	path = GoogleCustomWikiSearch
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GoogleCustomWikiSearch.git
+	branch = .
+[submodule "HeaderTabs"]
+	path = HeaderTabs
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/HeaderTabs.git
+	branch = .
+[submodule "HelpCommons"]
+	path = HelpCommons
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/HelpCommons.git
+	branch = .
+[submodule "HidePrefix"]
+	path = HidePrefix
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/HidePrefix.git
+	branch = .
+[submodule "ISO3166"]
+	path = ISO3166
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ISO3166.git
+	branch = .
+[submodule "LightweightRDFa"]
+	path = LightweightRDFa
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/LightweightRDFa.git
+	branch = .
+[submodule "LinkedWiki"]
+	path = LinkedWiki
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/LinkedWiki.git
+	branch = .
+[submodule "MathSearch"]
+	path = MathSearch
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MathSearch.git
+	branch = .
+[submodule "Mpdf"]
+	path = Mpdf
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Mpdf.git
+	branch = .
+[submodule "OfflineImportLexicon"]
+	path = OfflineImportLexicon
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/OfflineImportLexicon.git
+	branch = .
+[submodule "Poll"]
+	path = Poll
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Poll.git
+	branch = .
+[submodule "ReassignEdits"]
+	path = ReassignEdits
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ReassignEdits.git
+	branch = .
+[submodule "RelationLinks"]
+	path = RelationLinks
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/RelationLinks.git
+	branch = .
+[submodule "SVGEdit"]
+	path = SVGEdit
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SVGEdit.git
+	branch = .
+[submodule "SemanticBundle"]
+	path = SemanticBundle
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticBundle.git
+	branch = .
+[submodule "SemanticPageMaker"]
+	path = SemanticPageMaker
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticPageMaker.git
+	branch = .
+[submodule "SemanticTitle"]
+	path = SemanticTitle
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticTitle.git
+	branch = .
+[submodule "SharedCssJs"]
+	path = SharedCssJs
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SharedCssJs.git
+	branch = .
+[submodule "SkelJS"]
+	path = SkelJS
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SkelJS.git
+	branch = .
+[submodule "StickToThatLanguage"]
+	path = StickToThatLanguage
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/StickToThatLanguage.git
+	branch = .
+[submodule "SubpageSortkey"]
+	path = SubpageSortkey
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SubpageSortkey.git
+	branch = .
+[submodule "Tabber"]
+	path = Tabber
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Tabber.git
+	branch = .
+[submodule "ThumbParser"]
+	path = ThumbParser
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ThumbParser.git
+	branch = .
+[submodule "WhiteSpace"]
+	path = WhiteSpace
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WhiteSpace.git
+	branch = .
+[submodule "WikiObjectModel"]
+	path = WikiObjectModel
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikiObjectModel.git
+	branch = .
