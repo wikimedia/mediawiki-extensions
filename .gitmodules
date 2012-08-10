@@ -1222,3 +1222,30 @@
 [submodule "BlameMaps"]
 	path = BlameMaps
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extesions/BlameMaps.git
+[submodule "ArticleRatings"]
+	path = ArticleRatings
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ArticleRatings.git
+[submodule "DumpHTML"]
+	path = DumpHTML
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DumpHTML.git
+[submodule "DynamicSidebar"]
+	path = DynamicSidebar
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DynamicSidebar.git
+[submodule "FacebookOpenGraph"]
+	path = FacebookOpenGraph
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/FacebookOpenGraph.git
+[submodule "JSBreadCrumbs"]
+	path = JSBreadCrumbs
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/JSBreadCrumbs.git
+[submodule "Nonlinear"]
+	path = Nonlinear
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Nonlinear.git
+[submodule "Parsoid"]
+	path = Parsoid
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Parsoid.git
+[submodule "SemanticGenealogy"]
+	path = SemanticGenealogy
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticGenealogy.git
+[submodule "SmoothGallery"]
+	path = SmoothGallery
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SmoothGallery.git
