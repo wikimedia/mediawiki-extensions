@@ -1210,3 +1210,15 @@
 	path = WikiObjectModel
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikiObjectModel.git
 	branch = .
+[submodule "WikiLovesMonuments"]
+	path = WikiLovesMonuments
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extesions/WikiLovesMonuments.git
+[submodule "Phalanx"]
+	path = Phalanx
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extesions/Phalanx.git
+[submodule "RevisionCommentSupplement"]
+	path = RevisionCommentSupplement
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extesions/RevisionCommentSupplement.git
+[submodule "BlameMaps"]
+	path = BlameMaps
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extesions/BlameMaps.git
