@@ -1213,39 +1213,52 @@
 [submodule "WikiLovesMonuments"]
 	path = WikiLovesMonuments
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikiLovesMonuments.git
+	branch = .
 [submodule "Phalanx"]
 	path = Phalanx
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Phalanx.git
+	branch = .
 [submodule "RevisionCommentSupplement"]
 	path = RevisionCommentSupplement
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/RevisionCommentSupplement.git
+	branch = .
 [submodule "BlameMaps"]
 	path = BlameMaps
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/BlameMaps.git
+	branch = .
 [submodule "ArticleRatings"]
 	path = ArticleRatings
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ArticleRatings.git
+	branch = .
 [submodule "DumpHTML"]
 	path = DumpHTML
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DumpHTML.git
+	branch = .
 [submodule "DynamicSidebar"]
 	path = DynamicSidebar
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DynamicSidebar.git
+	branch = .
 [submodule "FacebookOpenGraph"]
 	path = FacebookOpenGraph
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/FacebookOpenGraph.git
+	branch = .
 [submodule "JSBreadCrumbs"]
 	path = JSBreadCrumbs
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/JSBreadCrumbs.git
+	branch = .
 [submodule "Nonlinear"]
 	path = Nonlinear
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Nonlinear.git
+	branch = .
 [submodule "Parsoid"]
 	path = Parsoid
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Parsoid.git
+	branch = .
 [submodule "SemanticGenealogy"]
 	path = SemanticGenealogy
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticGenealogy.git
+	branch = .
 [submodule "SmoothGallery"]
 	path = SmoothGallery
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SmoothGallery.git
+	branch = .
