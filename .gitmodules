@@ -1212,16 +1212,16 @@
 	branch = .
 [submodule "WikiLovesMonuments"]
 	path = WikiLovesMonuments
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extesions/WikiLovesMonuments.git
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikiLovesMonuments.git
 [submodule "Phalanx"]
 	path = Phalanx
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extesions/Phalanx.git
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Phalanx.git
 [submodule "RevisionCommentSupplement"]
 	path = RevisionCommentSupplement
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extesions/RevisionCommentSupplement.git
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/RevisionCommentSupplement.git
 [submodule "BlameMaps"]
 	path = BlameMaps
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extesions/BlameMaps.git
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/BlameMaps.git
 [submodule "ArticleRatings"]
 	path = ArticleRatings
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ArticleRatings.git
