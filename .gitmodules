@@ -1286,10 +1286,6 @@
 	path = FilterListUsers
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/FilterListUsers.git
 	branch = .
-[submodule "Gitweb"]
-	path = Gitweb
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Gitweb.git
-	branch = .
 [submodule "GlobalNotice"]
 	path = GlobalNotice
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GlobalNotice.git
