@@ -1406,3 +1406,23 @@
 	path = WikiTextLoggedInOut
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikiTextLoggedInOut.git
 	branch = .
+[submodule "DataValues"]
+	path = DataValues
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DataValues.git
+	branch = .
+[submodule "Gitweb"]
+	path = Gitweb
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Gitweb.git
+	branch = .
+[submodule "ProxyListDb"]
+	path = ProxyListDb
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ProxyListDb.git
+	branch = .
+[submodule "TwoFactorAuthentication"]
+	path = TwoFactorAuthentication
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/TwoFactorAuthentication.git
+	branch = .
+[submodule "URNames"]
+	path = URNames
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/URNames.git
+	branch = .
