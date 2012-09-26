@@ -694,14 +694,6 @@
 	path = WikiShare
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikiShare.git
 	branch = .
-[submodule "WikidataClient"]
-	path = WikidataClient
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikidataClient.git
-	branch = .
-[submodule "WikidataRepo"]
-	path = WikidataRepo
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikidataRepo.git
-	branch = .
 [submodule "WikimediaIncubator"]
 	path = WikimediaIncubator
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikimediaIncubator.git
@@ -1041,14 +1033,6 @@
 [submodule "Wikibase"]
 	path = Wikibase
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Wikibase.git
-	branch = .
-[submodule "WikibaseClient"]
-	path = WikibaseClient
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseClient.git
-	branch = .
-[submodule "WikibaseLib"]
-	path = WikibaseLib
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseLib.git
 	branch = .
 [submodule "WikimediaShopLink"]
 	path = WikimediaShopLink
