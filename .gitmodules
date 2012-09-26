@@ -1410,3 +1410,83 @@
 	path = URNames
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/URNames.git
 	branch = .
+[submodule "BibManager"]
+	path = BibManager
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/BibManager.git
+	branch = .
+[submodule "Description2"]
+	path = Description2
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Description2.git
+	branch = .
+[submodule "FeedsFromPrivateWikis"]
+	path = FeedsFromPrivateWikis
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/FeedsFromPrivateWikis.git
+	branch = .
+[submodule "FormatDates"]
+	path = FormatDates
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/FormatDates.git
+	branch = .
+[submodule "LogEntry"]
+	path = LogEntry
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/LogEntry.git
+	branch = .
+[submodule "Memento"]
+	path = Memento
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Memento.git
+	branch = .
+[submodule "NamespacePaths"]
+	path = NamespacePaths
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/NamespacePaths.git
+	branch = .
+[submodule "Negref"]
+	path = Negref
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Negref.git
+	branch = .
+[submodule "NumberOfWikis"]
+	path = NumberOfWikis
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/NumberOfWikis.git
+	branch = .
+[submodule "OpenGraphMeta"]
+	path = OpenGraphMeta
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/OpenGraphMeta.git
+	branch = .
+[submodule "PageCredits"]
+	path = PageCredits
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PageCredits.git
+	branch = .
+[submodule "PostEdit"]
+	path = PostEdit
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PostEdit.git
+	branch = .
+[submodule "ProtectedTitles"]
+	path = ProtectedTitles
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ProtectedTitles.git
+	branch = .
+[submodule "ReplaceSet"]
+	path = ReplaceSet
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ReplaceSet.git
+	branch = .
+[submodule "SecureHTML"]
+	path = SecureHTML
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SecureHTML.git
+	branch = .
+[submodule "SlimboxThumbs"]
+	path = SlimboxThumbs
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SlimboxThumbs.git
+	branch = .
+[submodule "StalkerLog"]
+	path = StalkerLog
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/StalkerLog.git
+	branch = .
+[submodule "UrlGetParameters"]
+	path = UrlGetParameters
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/UrlGetParameters.git
+	branch = .
+[submodule "VisualWiki"]
+	path = VisualWiki
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/VisualWiki.git
+	branch = .
+[submodule "YouTube"]
+	path = YouTube
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/YouTube.git
+	branch = .
