@@ -1541,3 +1541,9 @@
 [submodule "WikivoyageMessages"]
 	path = WikivoyageMessages
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikivoyageMessages.git
+[submodule "PageCredit"]
+	path = PageCredit
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PageCredit.git
+[submodule "SocialLogin"]
+	path = SocialLogin
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SocialLogin.git
