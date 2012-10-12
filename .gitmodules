@@ -1493,57 +1493,76 @@
 [submodule "ArticleIndex"]
 	path = ArticleIndex
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ArticleIndex.git
+	branch = .
 [submodule "CreditSource"]
 	path = CreditSource
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CreditSource.git
+	branch = .
 [submodule "CustomData"]
 	path = CustomData
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CustomData.git
+	branch = .
 [submodule "GeoMath"]
 	path = GeoMath
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GeoMath.git
+	branch = .
 [submodule "Insider"]
 	path = Insider
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Insider.git
+	branch = .
 [submodule "Listings"]
 	path = Listings
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Listings.git
+	branch = .
 [submodule "MapSources"]
 	path = MapSources
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MapSources.git
+	branch = .
 [submodule "OpenStreetMapSlippyMap"]
 	path = OpenStreetMapSlippyMap
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/OpenStreetMapSlippyMap.git
+	branch = .
 [submodule "Persona"]
 	path = Persona
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Persona.git
+	branch = .
 [submodule "PrefixExport"]
 	path = PrefixExport
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PrefixExport.git
+	branch = .
 [submodule "RelatedArticles"]
 	path = RelatedArticles
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/RelatedArticles.git
+	branch = .
 [submodule "RelatedSites"]
 	path = RelatedSites
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/RelatedSites.git
+	branch = .
 [submodule "SSLClientAuthentication"]
 	path = SSLClientAuthentication
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SSLClientAuthentication.git
+	branch = .
 [submodule "SearchExtraNS"]
 	path = SearchExtraNS
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SearchExtraNS.git
+	branch = .
 [submodule "SpecialNamespaces"]
 	path = SpecialNamespaces
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SpecialNamespaces.git
+	branch = .
 [submodule "TocTree"]
 	path = TocTree
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/TocTree.git
+	branch = .
 [submodule "WikivoyageMessages"]
 	path = WikivoyageMessages
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikivoyageMessages.git
+	branch = .
 [submodule "PageCredit"]
 	path = PageCredit
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PageCredit.git
+	branch = .
 [submodule "SocialLogin"]
 	path = SocialLogin
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SocialLogin.git
+	branch = .
