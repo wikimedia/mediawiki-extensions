@@ -1492,52 +1492,52 @@
 	branch = .
 [submodule "ArticleIndex"]
 	path = ArticleIndex
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions//var/www/wiki/mediawiki/extensions/ArticleIndex.git
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ArticleIndex.git
 [submodule "CreditSource"]
 	path = CreditSource
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions//var/www/wiki/mediawiki/extensions/CreditSource.git
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CreditSource.git
 [submodule "CustomData"]
 	path = CustomData
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions//var/www/wiki/mediawiki/extensions/CustomData.git
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CustomData.git
 [submodule "GeoMath"]
 	path = GeoMath
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions//var/www/wiki/mediawiki/extensions/GeoMath.git
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GeoMath.git
 [submodule "Insider"]
 	path = Insider
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions//var/www/wiki/mediawiki/extensions/Insider.git
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Insider.git
 [submodule "Listings"]
 	path = Listings
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions//var/www/wiki/mediawiki/extensions/Listings.git
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Listings.git
 [submodule "MapSources"]
 	path = MapSources
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions//var/www/wiki/mediawiki/extensions/MapSources.git
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MapSources.git
 [submodule "OpenStreetMapSlippyMap"]
 	path = OpenStreetMapSlippyMap
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions//var/www/wiki/mediawiki/extensions/OpenStreetMapSlippyMap.git
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/OpenStreetMapSlippyMap.git
 [submodule "Persona"]
 	path = Persona
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions//var/www/wiki/mediawiki/extensions/Persona.git
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Persona.git
 [submodule "PrefixExport"]
 	path = PrefixExport
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions//var/www/wiki/mediawiki/extensions/PrefixExport.git
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PrefixExport.git
 [submodule "RelatedArticles"]
 	path = RelatedArticles
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions//var/www/wiki/mediawiki/extensions/RelatedArticles.git
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/RelatedArticles.git
 [submodule "RelatedSites"]
 	path = RelatedSites
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions//var/www/wiki/mediawiki/extensions/RelatedSites.git
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/RelatedSites.git
 [submodule "SSLClientAuthentication"]
 	path = SSLClientAuthentication
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions//var/www/wiki/mediawiki/extensions/SSLClientAuthentication.git
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SSLClientAuthentication.git
 [submodule "SearchExtraNS"]
 	path = SearchExtraNS
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions//var/www/wiki/mediawiki/extensions/SearchExtraNS.git
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SearchExtraNS.git
 [submodule "SpecialNamespaces"]
 	path = SpecialNamespaces
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions//var/www/wiki/mediawiki/extensions/SpecialNamespaces.git
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SpecialNamespaces.git
 [submodule "TocTree"]
 	path = TocTree
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions//var/www/wiki/mediawiki/extensions/TocTree.git
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/TocTree.git
 [submodule "WikivoyageMessages"]
 	path = WikivoyageMessages
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions//var/www/wiki/mediawiki/extensions/WikivoyageMessages.git
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikivoyageMessages.git
