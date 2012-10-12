@@ -1566,3 +1566,7 @@
 	path = SocialLogin
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SocialLogin.git
 	branch = .
+[submodule "Calendar"]
+	path = Calendar
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Calendar.git
+        branch = .
