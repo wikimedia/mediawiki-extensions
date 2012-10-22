@@ -1570,3 +1570,35 @@
 	path = Calendar
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Calendar.git
         branch = .
+[submodule "Agora"]
+	path = Agora
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Agora.git
+	branch = .
+[submodule "CreditsSource"]
+	path = CreditsSource
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CreditsSource.git
+	branch = .
+[submodule "Josa"]
+	path = Josa
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Josa.git
+	branch = .
+[submodule "MirrorTools"]
+	path = MirrorTools
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MirrorTools.git
+	branch = .
+[submodule "Solarium"]
+	path = Solarium
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Solarium.git
+	branch = .
+[submodule "TemplateDocumentation"]
+	path = TemplateDocumentation
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/TemplateDocumentation.git
+	branch = .
+[submodule "ViewFiles"]
+	path = ViewFiles
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ViewFiles.git
+	branch = .
+[submodule "WikibaseSolr"]
+	path = WikibaseSolr
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseSolr.git
+	branch = .
