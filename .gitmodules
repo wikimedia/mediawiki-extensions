@@ -1494,10 +1494,6 @@
 	path = ArticleIndex
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ArticleIndex.git
 	branch = .
-[submodule "CreditSource"]
-	path = CreditSource
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CreditSource.git
-	branch = .
 [submodule "CustomData"]
 	path = CustomData
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CustomData.git
@@ -1557,10 +1553,6 @@
 [submodule "WikivoyageMessages"]
 	path = WikivoyageMessages
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikivoyageMessages.git
-	branch = .
-[submodule "PageCredit"]
-	path = PageCredit
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PageCredit.git
 	branch = .
 [submodule "SocialLogin"]
 	path = SocialLogin
