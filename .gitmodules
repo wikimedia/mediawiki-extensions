@@ -1590,3 +1590,155 @@
 	path = WikibaseSolr
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseSolr.git
 	branch = .
+[submodule "AJAXPoll"]
+	path = AJAXPoll
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/AJAXPoll.git
+	branch = .
+[submodule "ApiExplorer"]
+	path = ApiExplorer
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ApiExplorer.git
+	branch = .
+[submodule "ApiSVGProxy"]
+	path = ApiSVGProxy
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ApiSVGProxy.git
+	branch = .
+[submodule "BatchUserRights"]
+	path = BatchUserRights
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/BatchUserRights.git
+	branch = .
+[submodule "CategorySortHeaders"]
+	path = CategorySortHeaders
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CategorySortHeaders.git
+	branch = .
+[submodule "CreateRedirect"]
+	path = CreateRedirect
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CreateRedirect.git
+	branch = .
+[submodule "CreditSource"]
+	path = CreditSource
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CreditSource.git
+	branch = .
+[submodule "DidYouMean"]
+	path = DidYouMean
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DidYouMean.git
+	branch = .
+[submodule "DynamicPageList"]
+	path = DynamicPageList
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DynamicPageList.git
+	branch = .
+[submodule "EtherpadLite"]
+	path = EtherpadLite
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/EtherpadLite.git
+	branch = .
+[submodule "EventLogging"]
+	path = EventLogging
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/EventLogging.git
+	branch = .
+[submodule "GroupsSidebar"]
+	path = GroupsSidebar
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GroupsSidebar.git
+	branch = .
+[submodule "HTMLets"]
+	path = HTMLets
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/HTMLets.git
+	branch = .
+[submodule "Hanp"]
+	path = Hanp
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Hanp.git
+	branch = .
+[submodule "InteractiveBlockMessage"]
+	path = InteractiveBlockMessage
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/InteractiveBlockMessage.git
+	branch = .
+[submodule "Lockdown"]
+	path = Lockdown
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Lockdown.git
+	branch = .
+[submodule "LookupUser"]
+	path = LookupUser
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/LookupUser.git
+	branch = .
+[submodule "MediaFunctions"]
+	path = MediaFunctions
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MediaFunctions.git
+	branch = .
+[submodule "NaturalLanguageList"]
+	path = NaturalLanguageList
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/NaturalLanguageList.git
+	branch = .
+[submodule "OpenID"]
+	path = OpenID
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/OpenID.git
+	branch = .
+[submodule "PageInCat"]
+	path = PageInCat
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PageInCat.git
+	branch = .
+[submodule "PageNotice"]
+	path = PageNotice
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PageNotice.git
+	branch = .
+[submodule "PurgeClickThrough"]
+	path = PurgeClickThrough
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PurgeClickThrough.git
+	branch = .
+[submodule "SidebarDonateBox"]
+	path = SidebarDonateBox
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SidebarDonateBox.git
+	branch = .
+[submodule "SimpleSecurity"]
+	path = SimpleSecurity
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SimpleSecurity.git
+	branch = .
+[submodule "SlippyMap"]
+	path = SlippyMap
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SlippyMap.git
+	branch = .
+[submodule "SocialLogin"]
+	path = SocialLogin
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SocialLogin.git
+	branch = .
+[submodule "SoundManager2Button"]
+	path = SoundManager2Button
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SoundManager2Button.git
+	branch = .
+[submodule "Special404"]
+	path = Special404
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Special404.git
+	branch = .
+[submodule "StarterWiki"]
+	path = StarterWiki
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/StarterWiki.git
+	branch = .
+[submodule "Sudo"]
+	path = Sudo
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Sudo.git
+	branch = .
+[submodule "Suhosin"]
+	path = Suhosin
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Suhosin.git
+	branch = .
+[submodule "SwarmExport"]
+	path = SwarmExport
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SwarmExport.git
+	branch = .
+[submodule "TemplateInfo"]
+	path = TemplateInfo
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/TemplateInfo.git
+	branch = .
+[submodule "ThemeDesigner"]
+	path = ThemeDesigner
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ThemeDesigner.git
+	branch = .
+[submodule "Transliterator"]
+	path = Transliterator
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Transliterator.git
+	branch = .
+[submodule "WikiArticleFeeds"]
+	path = WikiArticleFeeds
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikiArticleFeeds.git
+	branch = .
+[submodule "WikiCategoryTagCloud"]
+	path = WikiCategoryTagCloud
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikiCategoryTagCloud.git
+	branch = .
