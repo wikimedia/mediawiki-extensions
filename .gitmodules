@@ -1610,10 +1610,6 @@
 	path = CreateRedirect
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CreateRedirect.git
 	branch = .
-[submodule "CreditSource"]
-	path = CreditSource
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CreditSource.git
-	branch = .
 [submodule "DidYouMean"]
 	path = DidYouMean
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DidYouMean.git
