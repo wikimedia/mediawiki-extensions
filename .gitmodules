@@ -1498,10 +1498,6 @@
 	path = CustomData
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CustomData.git
 	branch = .
-[submodule "GeoMath"]
-	path = GeoMath
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GeoMath.git
-	branch = .
 [submodule "Insider"]
 	path = Insider
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Insider.git
@@ -1689,10 +1685,6 @@
 [submodule "SimpleSecurity"]
 	path = SimpleSecurity
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SimpleSecurity.git
-	branch = .
-[submodule "SlippyMap"]
-	path = SlippyMap
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SlippyMap.git
 	branch = .
 [submodule "SocialLogin"]
 	path = SocialLogin
