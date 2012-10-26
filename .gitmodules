@@ -1742,3 +1742,12 @@
 	path = WikiCategoryTagCloud
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikiCategoryTagCloud.git
 	branch = .
+[submodule "GeoCrumbs"]
+	path = GeoCrumbs
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GeoCrumbs.git
+[submodule "PlaceNewSection"]
+	path = PlaceNewSection
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PlaceNewSection.git
+[submodule "WikiFarm"]
+	path = WikiFarm
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikiFarm.git
