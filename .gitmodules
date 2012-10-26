@@ -1745,9 +1745,12 @@
 [submodule "GeoCrumbs"]
 	path = GeoCrumbs
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GeoCrumbs.git
+	branch = .
 [submodule "PlaceNewSection"]
 	path = PlaceNewSection
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PlaceNewSection.git
+	branch = .
 [submodule "WikiFarm"]
 	path = WikiFarm
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikiFarm.git
+	branch = .
