@@ -1742,3 +1742,31 @@
 	path = WikiFarm
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikiFarm.git
 	branch = .
+[submodule "GWToolset"]
+	path = GWToolset
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GWToolset.git
+	branch = .
+[submodule "GoogleMaps"]
+	path = GoogleMaps
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GoogleMaps.git
+	branch = .
+[submodule "HTMLTags"]
+	path = HTMLTags
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/HTMLTags.git
+	branch = .
+[submodule "HostStats"]
+	path = HostStats
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/HostStats.git
+	branch = .
+[submodule "SemanticExtraSpecialProperties"]
+	path = SemanticExtraSpecialProperties
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticExtraSpecialProperties.git
+	branch = .
+[submodule "googleAnalytics"]
+	path = googleAnalytics
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/googleAnalytics.git
+	branch = .
+[submodule "SemanticImageAnnotator"]
+	path = SemanticImageAnnotator
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticImageAnnotator.git
+	branch = .
