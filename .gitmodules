@@ -1770,3 +1770,7 @@
 	path = SemanticImageAnnotator
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticImageAnnotator.git
 	branch = .
+[submodule "TemplateSandbox"]
+	path = TemplateSandbox
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/TemplateSandbox.git
+	branch = .
