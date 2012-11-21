@@ -1774,3 +1774,43 @@
 	path = TemplateSandbox
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/TemplateSandbox.git
 	branch = .
+[submodule "Contributors"]
+	path = Contributors
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Contributors.git
+	branch = .
+[submodule "DPLforum"]
+	path = DPLforum
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DPLforum.git
+	branch = .
+[submodule "DownloadCounter"]
+	path = DownloadCounter
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DownloadCounter.git
+	branch = .
+[submodule "Editcount"]
+	path = Editcount
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Editcount.git
+	branch = .
+[submodule "InterwikiMap"]
+	path = InterwikiMap
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/InterwikiMap.git
+	branch = .
+[submodule "LogoFunctions"]
+	path = LogoFunctions
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/LogoFunctions.git
+	branch = .
+[submodule "MediaWikiAuth"]
+	path = MediaWikiAuth
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MediaWikiAuth.git
+	branch = .
+[submodule "NewestPages"]
+	path = NewestPages
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/NewestPages.git
+	branch = .
+[submodule "RandomImage"]
+	path = RandomImage
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/RandomImage.git
+	branch = .
+[submodule "WhoIsWatching"]
+	path = WhoIsWatching
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WhoIsWatching.git
+	branch = .
