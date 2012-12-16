@@ -742,10 +742,6 @@
 	path = timeline
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/timeline.git
 	branch = .
-[submodule "wikidiff2"]
-	path = wikidiff2
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/wikidiff2.git
-	branch = .
 [submodule "wikihiero"]
 	path = wikihiero
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/wikihiero.git
