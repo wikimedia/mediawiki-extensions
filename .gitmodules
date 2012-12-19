@@ -842,6 +842,10 @@
 	path = GerritTools
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GerritTools.git
 	branch = .
+[submodule "GettingStarted"]
+	path = GettingStarted
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GettingStarted.git
+	branch = .
 [submodule "GoogleAdSense"]
 	path = GoogleAdSense
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GoogleAdSense.git
