@@ -1814,3 +1814,63 @@
 	path = WhoIsWatching
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WhoIsWatching.git
 	branch = .
+[submodule "CharRangeSpan"]
+	path = CharRangeSpan
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CharRangeSpan.git
+[submodule "CreditSource"]
+	path = CreditSource
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CreditSource.git
+[submodule "EImage"]
+	path = EImage
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/EImage.git
+[submodule "GeoMath"]
+	path = GeoMath
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GeoMath.git
+[submodule "GuidedTour"]
+	path = GuidedTour
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GuidedTour.git
+[submodule "MagicNoCache"]
+	path = MagicNoCache
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MagicNoCache.git
+[submodule "MobileSections"]
+	path = MobileSections
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MobileSections.git
+[submodule "MyVariables"]
+	path = MyVariables
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MyVariables.git
+[submodule "NavigationTiming"]
+	path = NavigationTiming
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/NavigationTiming.git
+[submodule "PGFTikZ"]
+	path = PGFTikZ
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PGFTikZ.git
+[submodule "PageCredit"]
+	path = PageCredit
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PageCredit.git
+[submodule "PerPageLicense"]
+	path = PerPageLicense
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PerPageLicense.git
+[submodule "SecureSessions"]
+	path = SecureSessions
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SecureSessions.git
+[submodule "SlippyMap"]
+	path = SlippyMap
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SlippyMap.git
+[submodule "TimelineTable"]
+	path = TimelineTable
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/TimelineTable.git
+[submodule "WikibaseClient"]
+	path = WikibaseClient
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseClient.git
+[submodule "WikibaseLib"]
+	path = WikibaseLib
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseLib.git
+[submodule "WikidataClient"]
+	path = WikidataClient
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikidataClient.git
+[submodule "WikidataRepo"]
+	path = WikidataRepo
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikidataRepo.git
+[submodule "Wikilog"]
+	path = Wikilog
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Wikilog.git
