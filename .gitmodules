@@ -1874,3 +1874,15 @@
 [submodule "Wikilog"]
 	path = Wikilog
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Wikilog.git
+[submodule "Disambiguator"]
+	path = Disambiguator
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Disambiguator.git
+[submodule "Git2Pages"]
+	path = Git2Pages
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Git2Pages.git
+[submodule "InviteSignup"]
+	path = InviteSignup
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/InviteSignup.git
+[submodule "PageCreationNotif"]
+	path = PageCreationNotif
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PageCreationNotif.git
