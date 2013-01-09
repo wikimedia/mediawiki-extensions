@@ -1886,3 +1886,45 @@
 [submodule "PageCreationNotif"]
 	path = PageCreationNotif
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PageCreationNotif.git
+[submodule "AWSSDK"]
+	path = AWSSDK
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/AWSSDK.git
+	branch = .
+[submodule "AzureSDK"]
+	path = AzureSDK
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/AzureSDK.git
+	branch = .
+[submodule "CategoryMagicWords"]
+	path = CategoryMagicWords
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CategoryMagicWords.git
+	branch = .
+[submodule "DataModel"]
+	path = DataModel
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DataModel.git
+	branch = .
+	branch = .
+[submodule "Numbertext"]
+	path = Numbertext
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Numbertext.git
+	branch = .
+	branch = .
+[submodule "Polyglot"]
+	path = Polyglot
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Polyglot.git
+	branch = .
+[submodule "RDFIO"]
+	path = RDFIO
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/RDFIO.git
+	branch = .
+[submodule "SyntaxHighlighter"]
+	path = SyntaxHighlighter
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SyntaxHighlighter.git
+	branch = .
+[submodule "TwitterCards"]
+	path = TwitterCards
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/TwitterCards.git
+	branch = .
+[submodule "WikiLexicalData"]
+	path = WikiLexicalData
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikiLexicalData.git
+	branch = .
