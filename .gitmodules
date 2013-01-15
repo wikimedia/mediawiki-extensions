@@ -1859,18 +1859,6 @@
 [submodule "TimelineTable"]
 	path = TimelineTable
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/TimelineTable.git
-[submodule "WikibaseClient"]
-	path = WikibaseClient
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseClient.git
-[submodule "WikibaseLib"]
-	path = WikibaseLib
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseLib.git
-[submodule "WikidataClient"]
-	path = WikidataClient
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikidataClient.git
-[submodule "WikidataRepo"]
-	path = WikidataRepo
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikidataRepo.git
 [submodule "Wikilog"]
 	path = Wikilog
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Wikilog.git
