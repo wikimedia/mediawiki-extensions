@@ -1916,3 +1916,12 @@
 	path = WikiLexicalData
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikiLexicalData.git
 	branch = .
+[submodule "NamespaceRelations"]
+	path = NamespaceRelations
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/NamespaceRelations.git
+[submodule "PHPExcel"]
+	path = PHPExcel
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PHPExcel.git
+[submodule "SwedishCollation"]
+	path = SwedishCollation
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SwedishCollation.git
