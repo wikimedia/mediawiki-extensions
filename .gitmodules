@@ -1925,3 +1925,72 @@
 [submodule "SwedishCollation"]
 	path = SwedishCollation
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SwedishCollation.git
+[submodule "Ask"]
+	path = Ask
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Ask.git
+[submodule "ContextComments"]
+	path = ContextComments
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ContextComments.git
+[submodule "Foxway"]
+	path = Foxway
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Foxway.git
+[submodule "GoogleSiteSearch"]
+	path = GoogleSiteSearch
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GoogleSiteSearch.git
+[submodule "JsonData"]
+	path = JsonData
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/JsonData.git
+[submodule "LightboxGallery"]
+	path = LightboxGallery
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/LightboxGallery.git
+[submodule "MaintenanceShell"]
+	path = MaintenanceShell
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MaintenanceShell.git
+[submodule "MultiMaps"]
+	path = MultiMaps
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MultiMaps.git
+[submodule "NetworkAuth"]
+	path = NetworkAuth
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/NetworkAuth.git
+[submodule "NoTitle"]
+	path = NoTitle
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/NoTitle.git
+[submodule "PDBHandler"]
+	path = PDBHandler
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PDBHandler.git
+[submodule "ParserHooks"]
+	path = ParserHooks
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ParserHooks.git
+[submodule "SOLRSearch"]
+	path = SOLRSearch
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SOLRSearch.git
+[submodule "Sarcasm"]
+	path = Sarcasm
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Sarcasm.git
+[submodule "SemanticComments"]
+	path = SemanticComments
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticComments.git
+[submodule "SemanticWebBrowser"]
+	path = SemanticWebBrowser
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticWebBrowser.git
+[submodule "ShareThisWidget"]
+	path = ShareThisWidget
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ShareThisWidget.git
+[submodule "SpellingApi"]
+	path = SpellingApi
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SpellingApi.git
+[submodule "TemplateData"]
+	path = TemplateData
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/TemplateData.git
+[submodule "ThrottleOverride"]
+	path = ThrottleOverride
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ThrottleOverride.git
+[submodule "UIFeedback"]
+	path = UIFeedback
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/UIFeedback.git
+[submodule "WebPlatformAuth"]
+	path = WebPlatformAuth
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WebPlatformAuth.git
+[submodule "WebPlatformSearchAutocomplete"]
+	path = WebPlatformSearchAutocomplete
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WebPlatformSearchAutocomplete.git
