@@ -1823,9 +1823,6 @@
 [submodule "EImage"]
 	path = EImage
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/EImage.git
-[submodule "GeoMath"]
-	path = GeoMath
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GeoMath.git
 [submodule "GuidedTour"]
 	path = GuidedTour
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GuidedTour.git
