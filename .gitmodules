@@ -1991,3 +1991,49 @@
 [submodule "WebPlatformSearchAutocomplete"]
 	path = WebPlatformSearchAutocomplete
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WebPlatformSearchAutocomplete.git
+[submodule "AWS"]
+	path = AWS
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/AWS.git
+	branch = .
+[submodule "AccountAudit"]
+	path = AccountAudit
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/AccountAudit.git
+	branch = .
+[submodule "CryoKey"]
+	path = CryoKey
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CryoKey.git
+	branch = .
+[submodule "DeleteOwn"]
+	path = DeleteOwn
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DeleteOwn.git
+	branch = .
+	branch = .
+	branch = .
+[submodule "OdbcDatabase"]
+	path = OdbcDatabase
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/OdbcDatabase.git
+	branch = .
+	branch = .
+	branch = .
+	branch = .
+[submodule "PopupPages"]
+	path = PopupPages
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PopupPages.git
+	branch = .
+	branch = .
+[submodule "SelectCategory"]
+	path = SelectCategory
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SelectCategory.git
+	branch = .
+[submodule "Thanks"]
+	path = Thanks
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Thanks.git
+	branch = .
+[submodule "WYSIWYG"]
+	path = WYSIWYG
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WYSIWYG.git
+	branch = .
+[submodule "WikivotePageSchemas"]
+	path = WikivotePageSchemas
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikivotePageSchemas.git
+	branch = .
