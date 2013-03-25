@@ -1817,9 +1817,6 @@
 [submodule "CharRangeSpan"]
 	path = CharRangeSpan
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CharRangeSpan.git
-[submodule "CreditSource"]
-	path = CreditSource
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CreditSource.git
 [submodule "EImage"]
 	path = EImage
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/EImage.git
