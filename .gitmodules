@@ -1838,9 +1838,6 @@
 [submodule "PGFTikZ"]
 	path = PGFTikZ
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PGFTikZ.git
-[submodule "PageCredit"]
-	path = PageCredit
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PageCredit.git
 [submodule "PerPageLicense"]
 	path = PerPageLicense
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PerPageLicense.git
