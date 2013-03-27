@@ -1844,9 +1844,6 @@
 [submodule "SecureSessions"]
 	path = SecureSessions
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SecureSessions.git
-[submodule "SlippyMap"]
-	path = SlippyMap
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SlippyMap.git
 [submodule "TimelineTable"]
 	path = TimelineTable
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/TimelineTable.git
@@ -2001,19 +1998,13 @@
 	path = DeleteOwn
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DeleteOwn.git
 	branch = .
-	branch = .
-	branch = .
 [submodule "OdbcDatabase"]
 	path = OdbcDatabase
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/OdbcDatabase.git
 	branch = .
-	branch = .
-	branch = .
-	branch = .
 [submodule "PopupPages"]
 	path = PopupPages
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PopupPages.git
-	branch = .
 	branch = .
 [submodule "SelectCategory"]
 	path = SelectCategory
@@ -2030,4 +2021,8 @@
 [submodule "WikivotePageSchemas"]
 	path = WikivotePageSchemas
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikivotePageSchemas.git
+	branch = .
+[submodule "QueryResult"]
+	path = QueryResult
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/QueryResult.git
 	branch = .
