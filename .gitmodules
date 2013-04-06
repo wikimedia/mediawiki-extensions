@@ -1866,10 +1866,6 @@
 	path = AWSSDK
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/AWSSDK.git
 	branch = .
-[submodule "AzureSDK"]
-	path = AzureSDK
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/AzureSDK.git
-	branch = .
 [submodule "CategoryMagicWords"]
 	path = CategoryMagicWords
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CategoryMagicWords.git
