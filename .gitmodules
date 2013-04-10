@@ -2018,3 +2018,7 @@
 	path = QueryResult
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/QueryResult.git
 	branch = .
+[submodule "Nostalgia"]
+	path = Nostalgia
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Nostalgia.git
+	branch = .
