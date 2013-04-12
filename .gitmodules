@@ -2022,3 +2022,7 @@
 	path = Nostalgia
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Nostalgia.git
 	branch = .
+[submodule "FundraisingEmailUnsubscribe"]
+	path = FundraisingEmailUnsubscribe
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/FundraisingEmailUnsubscribe.git
+	branch = .
