@@ -2026,3 +2026,31 @@
 	path = FundraisingEmailUnsubscribe
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/FundraisingEmailUnsubscribe.git
 	branch = .
+[submodule "BreadCrumbs2"]
+	path = BreadCrumbs2
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/BreadCrumbs2.git
+	branch = .
+[submodule "GooglePlusOne"]
+	path = GooglePlusOne
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GooglePlusOne.git
+	branch = .
+[submodule "Hovergallery"]
+	path = Hovergallery
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Hovergallery.git
+	branch = .
+[submodule "Moodle"]
+	path = Moodle
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Moodle.git
+	branch = .
+[submodule "MsLinks"]
+	path = MsLinks
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MsLinks.git
+	branch = .
+[submodule "MsUpload"]
+	path = MsUpload
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MsUpload.git
+	branch = .
+[submodule "PurposeCentricSearch"]
+	path = PurposeCentricSearch
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PurposeCentricSearch.git
+	branch = .
