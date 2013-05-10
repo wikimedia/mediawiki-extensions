@@ -2104,3 +2104,35 @@
 	path = TwnMainPage
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/TwnMainPage.git
 	branch = .
+[submodule "Censor"]
+	path = Censor
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Censor.git
+	branch = .
+[submodule "DjangoAnalytics"]
+	path = DjangoAnalytics
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DjangoAnalytics.git
+	branch = .
+[submodule "ListTransclusions"]
+	path = ListTransclusions
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ListTransclusions.git
+	branch = .
+[submodule "LoopFunctions"]
+	path = LoopFunctions
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/LoopFunctions.git
+	branch = .
+[submodule "OAuth"]
+	path = OAuth
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/OAuth.git
+	branch = .
+[submodule "StoryParagraph"]
+	path = StoryParagraph
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/StoryParagraph.git
+	branch = .
+[submodule "TimezoneSelector"]
+	path = TimezoneSelector
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/TimezoneSelector.git
+	branch = .
+[submodule "UserSnoop"]
+	path = UserSnoop
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/UserSnoop.git
+	branch = .
