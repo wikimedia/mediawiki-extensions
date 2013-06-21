@@ -2172,9 +2172,6 @@
 [submodule "CoreEvents"]
 	path = CoreEvents
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CoreEvents.git
-[submodule "DataTypes"]
-	path = DataTypes
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DataTypes.git
 [submodule "Duplicator"]
 	path = Duplicator
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Duplicator.git
@@ -2205,18 +2202,6 @@
 [submodule "SearchRealnames"]
 	path = SearchRealnames
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SearchRealnames.git
-[submodule "ValueFormatters"]
-	path = ValueFormatters
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ValueFormatters.git
-[submodule "ValueParsers"]
-	path = ValueParsers
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ValueParsers.git
-[submodule "ValueValidators"]
-	path = ValueValidators
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ValueValidators.git
-[submodule "ValueView"]
-	path = ValueView
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ValueView.git
 [submodule "WikibaseDataModel"]
 	path = WikibaseDataModel
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseDataModel.git
