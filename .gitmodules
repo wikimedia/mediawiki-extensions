@@ -2139,78 +2139,104 @@
 [submodule "AddMetaAndTitle"]
 	path = AddMetaAndTitle
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/AddMetaAndTitle.git
+	branch = .
 [submodule "Ads"]
 	path = Ads
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Ads.git
+	branch = .
 [submodule "Annotator"]
 	path = Annotator
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Annotator.git
+	branch = .
 [submodule "AutoCreateCategoryPages"]
 	path = AutoCreateCategoryPages
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/AutoCreateCategoryPages.git
+	branch = .
 [submodule "BlockAndNuke"]
 	path = BlockAndNuke
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/BlockAndNuke.git
+	branch = .
 [submodule "BlueSpiceExtensions"]
 	path = BlueSpiceExtensions
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/BlueSpiceExtensions.git
+	branch = .
 [submodule "BlueSpiceFoundation"]
 	path = BlueSpiceFoundation
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/BlueSpiceFoundation.git
+	branch = .
 [submodule "Bootstrap"]
 	path = Bootstrap
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Bootstrap.git
+	branch = .
 [submodule "Campaigns"]
 	path = Campaigns
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Campaigns.git
+	branch = .
 [submodule "CirrusSearch"]
 	path = CirrusSearch
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CirrusSearch.git
+	branch = .
 [submodule "CommunityTwitter"]
 	path = CommunityTwitter
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CommunityTwitter.git
+	branch = .
 [submodule "CoreEvents"]
 	path = CoreEvents
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CoreEvents.git
+	branch = .
 [submodule "Duplicator"]
 	path = Duplicator
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Duplicator.git
+	branch = .
 [submodule "ExtensionStatus"]
 	path = ExtensionStatus
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ExtensionStatus.git
+	branch = .
 [submodule "ExternalArticles"]
 	path = ExternalArticles
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ExternalArticles.git
+	branch = .
 [submodule "Less"]
 	path = Less
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Less.git
+	branch = .
 [submodule "MetaDescriptionTag"]
 	path = MetaDescriptionTag
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MetaDescriptionTag.git
+	branch = .
 [submodule "MultiAudioVideo"]
 	path = MultiAudioVideo
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MultiAudioVideo.git
+	branch = .
 [submodule "OracleTextSearch"]
 	path = OracleTextSearch
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/OracleTextSearch.git
+	branch = .
 [submodule "QuickResponse"]
 	path = QuickResponse
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/QuickResponse.git
+	branch = .
 [submodule "RealNames"]
 	path = RealNames
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/RealNames.git
+	branch = .
 [submodule "SearchRealnames"]
 	path = SearchRealnames
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SearchRealnames.git
+	branch = .
 [submodule "WikibaseDataModel"]
 	path = WikibaseDataModel
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseDataModel.git
+	branch = .
 [submodule "WikibaseDatabase"]
 	path = WikibaseDatabase
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseDatabase.git
+	branch = .
 [submodule "WikibaseQuery"]
 	path = WikibaseQuery
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseQuery.git
+	branch = .
 [submodule "WikibaseQueryEngine"]
 	path = WikibaseQueryEngine
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseQueryEngine.git
+	branch = .
