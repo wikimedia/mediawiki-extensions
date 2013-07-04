@@ -2240,3 +2240,47 @@
 	path = WikibaseQueryEngine
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseQueryEngine.git
 	branch = .
+[submodule "BookManagerv2"]
+	path = BookManagerv2
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/BookManagerv2.git
+	branch = .
+[submodule "CloseWikis"]
+	path = CloseWikis
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CloseWikis.git
+	branch = .
+[submodule "FlashPlayer"]
+	path = FlashPlayer
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/FlashPlayer.git
+	branch = .
+[submodule "HaloTripleStoreConnector"]
+	path = HaloTripleStoreConnector
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/HaloTripleStoreConnector.git
+	branch = .
+[submodule "InlineCategorizer"]
+	path = InlineCategorizer
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/InlineCategorizer.git
+	branch = .
+[submodule "PageLanguage"]
+	path = PageLanguage
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PageLanguage.git
+	branch = .
+[submodule "PronunciationRecording"]
+	path = PronunciationRecording
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PronunciationRecording.git
+	branch = .
+[submodule "SMWHalo"]
+	path = SMWHalo
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SMWHalo.git
+	branch = .
+[submodule "SlippyMap"]
+	path = SlippyMap
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SlippyMap.git
+	branch = .
+[submodule "WikiTwidget"]
+	path = WikiTwidget
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikiTwidget.git
+	branch = .
+[submodule "WikidataEntitySuggester"]
+	path = WikidataEntitySuggester
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikidataEntitySuggester.git
+	branch = .
