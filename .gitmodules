@@ -1886,11 +1886,9 @@
 	path = DataModel
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DataModel.git
 	branch = .
-	branch = .
 [submodule "Numbertext"]
 	path = Numbertext
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Numbertext.git
-	branch = .
 	branch = .
 [submodule "Polyglot"]
 	path = Polyglot
