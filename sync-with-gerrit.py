@@ -31,7 +31,10 @@ def main():
             continue
         if not os.path.isdir(basename):
             log.info("Adding submodule for %s" % p)
-            submodule_add(p)
+            try:
+                submodule_add(p)
+            except subprocess.CalledProcessError:
+                log.error("Git reported an issue adding module %s" % p)
 
     log.info("Rewriting .gitmodules")
     f = open('.gitmodules', 'w')
