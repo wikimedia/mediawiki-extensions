@@ -20,15 +20,15 @@ log = logging.getLogger()
 def main():
     log.info("Fetching projects from gerrit (prefix: %s)" % basepath)
     projects = gerrit('ls-projects', ['-p', basepath]).splitlines()
+
+    # strip out subprojects in extensions
+    projects = [p for p in projects if '/' not in project_basename(p)]
+
     projects.sort()
 
     log.info("Checking modules")
     for p in projects:
         basename = project_basename(p)
-        # Skip subprojects in extensions
-        if '/' in basename:
-            log.debug("Skipped %s" % basename)
-            continue
         if not os.path.isdir(basename):
             log.info("Adding submodule for %s" % p)
             try:
