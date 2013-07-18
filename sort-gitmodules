@@ -1,0 +1,6 @@
+#!/bin/bash
+TMP_FILE=`mktemp -t mwextmodsortXXXXX`
+paste -s -d "€€€\n" .gitmodules|sort|tr "€" "\n" > "$TMP_FILE"
+mv "$TMP_FILE" .gitmodules
+rm -f "$TMP_FILE"
+echo "Sorted .gitmodules. Review output and commit."
