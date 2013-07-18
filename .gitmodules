@@ -158,6 +158,10 @@
 	path = BatchUserRights
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/BatchUserRights.git
 	branch = .
+[submodule "BetaFeatures"]
+	path = BetaFeatures
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/BetaFeatures.git
+	branch = .
 [submodule "BibManager"]
 	path = BibManager
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/BibManager.git
@@ -217,7 +221,7 @@
 [submodule "Calendar"]
 	path = Calendar
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Calendar.git
-        branch = .
+	branch = .
 [submodule "Campaigns"]
 	path = Campaigns
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Campaigns.git
@@ -229,6 +233,10 @@
 [submodule "CategoryMagicWords"]
 	path = CategoryMagicWords
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CategoryMagicWords.git
+	branch = .
+[submodule "CategorySlideShow"]
+	path = CategorySlideShow
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CategorySlideShow.git
 	branch = .
 [submodule "CategorySortHeaders"]
 	path = CategorySortHeaders
@@ -442,6 +450,10 @@
 	path = DataTransfer
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DataTransfer.git
 	branch = .
+[submodule "DataTypes"]
+	path = DataTypes
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DataTypes.git
+	branch = .
 [submodule "DataValues"]
 	path = DataValues
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DataValues.git
@@ -645,6 +657,14 @@
 [submodule "FlashPlayer"]
 	path = FlashPlayer
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/FlashPlayer.git
+	branch = .
+[submodule "Flow"]
+	path = Flow
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Flow.git
+	branch = .
+[submodule "FlvHandler"]
+	path = FlvHandler
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/FlvHandler.git
 	branch = .
 [submodule "ForcePreview"]
 	path = ForcePreview
@@ -1001,6 +1021,14 @@
 [submodule "MarkAsHelpful"]
 	path = MarkAsHelpful
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MarkAsHelpful.git
+	branch = .
+[submodule "MassEditRegex"]
+	path = MassEditRegex
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MassEditRegex.git
+	branch = .
+[submodule "MassMessage"]
+	path = MassMessage
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MassMessage.git
 	branch = .
 [submodule "Math"]
 	path = Math
@@ -1398,6 +1426,10 @@
 	path = Push
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Push.git
 	branch = .
+[submodule "PushToWatch"]
+	path = PushToWatch
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PushToWatch.git
+	branch = .
 [submodule "Quantcast"]
 	path = Quantcast
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Quantcast.git
@@ -1681,6 +1713,10 @@
 [submodule "SemanticWebBrowser"]
 	path = SemanticWebBrowser
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticWebBrowser.git
+	branch = .
+[submodule "Serialization"]
+	path = Serialization
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Serialization.git
 	branch = .
 [submodule "ShareThisWidget"]
 	path = ShareThisWidget
@@ -2058,6 +2094,22 @@
 	path = Validator
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Validator.git
 	branch = .
+[submodule "ValueFormatters"]
+	path = ValueFormatters
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ValueFormatters.git
+	branch = .
+[submodule "ValueParsers"]
+	path = ValueParsers
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ValueParsers.git
+	branch = .
+[submodule "ValueValidators"]
+	path = ValueValidators
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ValueValidators.git
+	branch = .
+[submodule "ValueView"]
+	path = ValueView
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ValueView.git
+	branch = .
 [submodule "Variables"]
 	path = Variables
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Variables.git
@@ -2109,6 +2161,10 @@
 [submodule "WebPlatformSearchAutocomplete"]
 	path = WebPlatformSearchAutocomplete
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WebPlatformSearchAutocomplete.git
+	branch = .
+[submodule "WhichImageIsBetter"]
+	path = WhichImageIsBetter
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WhichImageIsBetter.git
 	branch = .
 [submodule "WhiteSpace"]
 	path = WhiteSpace
