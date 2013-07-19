@@ -2338,3 +2338,6 @@
 	path = wikihiero
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/wikihiero.git
 	branch = .
+[submodule "HotCat"]
+	path = HotCat
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/HotCat.git
