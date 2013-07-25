@@ -2341,3 +2341,9 @@
 [submodule "HotCat"]
 	path = HotCat
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/HotCat.git
+[submodule "News"]
+	path = News
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/News.git
+[submodule "UpdateMediaWiki"]
+	path = UpdateMediaWiki
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/UpdateMediaWiki.git
