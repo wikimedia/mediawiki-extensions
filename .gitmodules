@@ -2347,3 +2347,21 @@
 [submodule "UpdateMediaWiki"]
 	path = UpdateMediaWiki
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/UpdateMediaWiki.git
+[submodule "BayesianFilter"]
+	path = BayesianFilter
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/BayesianFilter.git
+[submodule "LifeWeb"]
+	path = LifeWeb
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/LifeWeb.git
+[submodule "LifeWebCore"]
+	path = LifeWebCore
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/LifeWebCore.git
+[submodule "MultimediaViewer"]
+	path = MultimediaViewer
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MultimediaViewer.git
+[submodule "QuizTabulate"]
+	path = QuizTabulate
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/QuizTabulate.git
+[submodule "VersionView"]
+	path = VersionView
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/VersionView.git
