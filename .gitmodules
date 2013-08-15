@@ -2337,27 +2337,40 @@
 [submodule "HotCat"]
 	path = HotCat
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/HotCat.git
+	branch = .
 [submodule "News"]
 	path = News
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/News.git
+	branch = .
 [submodule "UpdateMediaWiki"]
 	path = UpdateMediaWiki
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/UpdateMediaWiki.git
+	branch = .
 [submodule "BayesianFilter"]
 	path = BayesianFilter
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/BayesianFilter.git
+	branch = .
 [submodule "LifeWeb"]
 	path = LifeWeb
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/LifeWeb.git
+	branch = .
 [submodule "LifeWebCore"]
 	path = LifeWebCore
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/LifeWebCore.git
+	branch = .
 [submodule "MultimediaViewer"]
 	path = MultimediaViewer
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MultimediaViewer.git
+	branch = .
 [submodule "QuizTabulate"]
 	path = QuizTabulate
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/QuizTabulate.git
+	branch = .
 [submodule "VersionView"]
 	path = VersionView
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/VersionView.git
+	branch = .
+[submodule "VisualEditor"]
+	path = VisualEditor
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/VisualEditor.git
+	branch = .
