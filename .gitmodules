@@ -2114,6 +2114,10 @@
 	path = Variables
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Variables.git
 	branch = .
+[submodule "Vector"]
+	path = Vector
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Vector.git
+	branch = .
 [submodule "Video"]
 	path = Video
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Video.git
