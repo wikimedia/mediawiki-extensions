@@ -2130,10 +2130,6 @@
 	path = VipsScaler
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/VipsScaler.git
 	branch = .
-[submodule "VisualEditor"]
-	path = VisualEditor
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/VisualEditor.git
-	branch = .
 [submodule "VisualWiki"]
 	path = VisualWiki
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/VisualWiki.git
