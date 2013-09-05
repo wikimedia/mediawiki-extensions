@@ -2162,18 +2162,6 @@
 	path = Validator
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Validator.git
 	branch = .
-[submodule "ValueFormatters"]
-	path = ValueFormatters
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ValueFormatters.git
-	branch = .
-[submodule "ValueParsers"]
-	path = ValueParsers
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ValueParsers.git
-	branch = .
-[submodule "ValueValidators"]
-	path = ValueValidators
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ValueValidators.git
-	branch = .
 [submodule "ValueView"]
 	path = ValueView
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ValueView.git
