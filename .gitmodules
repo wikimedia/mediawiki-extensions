@@ -1850,10 +1850,6 @@
 	path = SlimboxThumbs
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SlimboxThumbs.git
 	branch = .
-[submodule "SlippyMap"]
-	path = SlippyMap
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SlippyMap.git
-	branch = .
 [submodule "SmoothGallery"]
 	path = SmoothGallery
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SmoothGallery.git
