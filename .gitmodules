@@ -246,6 +246,10 @@
 	path = CategorySortHeaders
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CategorySortHeaders.git
 	branch = .
+[submodule "CategoryTagSorter"]
+	path = CategoryTagSorter
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CategoryTagSorter.git
+	branch = .
 [submodule "CategoryTests"]
 	path = CategoryTests
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CategoryTests.git
@@ -466,9 +470,17 @@
 	path = DataTypes
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DataTypes.git
 	branch = .
+[submodule "DataValueImplementations"]
+	path = DataValueImplementations
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DataValueImplementations.git
+	branch = .
 [submodule "DataValues"]
 	path = DataValues
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DataValues.git
+	branch = .
+[submodule "DataValuesInterfaces"]
+	path = DataValuesInterfaces
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DataValuesInterfaces.git
 	branch = .
 [submodule "DebianISOCodes"]
 	path = DebianISOCodes
@@ -525,6 +537,10 @@
 [submodule "DismissableSiteNotice"]
 	path = DismissableSiteNotice
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DismissableSiteNotice.git
+	branch = .
+[submodule "DisqusTag"]
+	path = DisqusTag
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DisqusTag.git
 	branch = .
 [submodule "DjangoAnalytics"]
 	path = DjangoAnalytics
@@ -593,6 +609,10 @@
 [submodule "EducationProgram"]
 	path = EducationProgram
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/EducationProgram.git
+	branch = .
+[submodule "Elastica"]
+	path = Elastica
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Elastica.git
 	branch = .
 [submodule "EmailCapture"]
 	path = EmailCapture
@@ -769,6 +789,10 @@
 [submodule "GoogleCustomWikiSearch"]
 	path = GoogleCustomWikiSearch
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GoogleCustomWikiSearch.git
+	branch = .
+[submodule "GoogleDocTag"]
+	path = GoogleDocTag
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GoogleDocTag.git
 	branch = .
 [submodule "GoogleDocs4MW"]
 	path = GoogleDocs4MW
@@ -1086,6 +1110,10 @@
 	path = MetaDescriptionTag
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MetaDescriptionTag.git
 	branch = .
+[submodule "Minifier"]
+	path = Minifier
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Minifier.git
+	branch = .
 [submodule "MirrorTools"]
 	path = MirrorTools
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MirrorTools.git
@@ -1198,6 +1226,10 @@
 	path = News
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/News.git
 	branch = .
+[submodule "Newsletter"]
+	path = Newsletter
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Newsletter.git
+	branch = .
 [submodule "NoTitle"]
 	path = NoTitle
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/NoTitle.git
@@ -1225,6 +1257,10 @@
 [submodule "Numbertext"]
 	path = Numbertext
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Numbertext.git
+	branch = .
+[submodule "NumerAlpha"]
+	path = NumerAlpha
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/NumerAlpha.git
 	branch = .
 [submodule "OAI"]
 	path = OAI
@@ -1313,6 +1349,10 @@
 [submodule "PageCredits"]
 	path = PageCredits
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PageCredits.git
+	branch = .
+[submodule "PageDisqus"]
+	path = PageDisqus
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PageDisqus.git
 	branch = .
 [submodule "PageImages"]
 	path = PageImages
@@ -2142,6 +2182,10 @@
 	path = UserOptionStats
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/UserOptionStats.git
 	branch = .
+[submodule "UserPageViewTracker"]
+	path = UserPageViewTracker
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/UserPageViewTracker.git
+	branch = .
 [submodule "UserSnoop"]
 	path = UserSnoop
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/UserSnoop.git
@@ -2322,6 +2366,10 @@
 	path = WikibaseSolr
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseSolr.git
 	branch = .
+[submodule "Wikidata"]
+	path = Wikidata
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Wikidata.git
+	branch = .
 [submodule "WikidataEntitySuggester"]
 	path = WikidataEntitySuggester
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikidataEntitySuggester.git
@@ -2366,6 +2414,10 @@
 	path = WindowsAzureStorage
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WindowsAzureStorage.git
 	branch = .
+[submodule "YetAnotherKeywords"]
+	path = YetAnotherKeywords
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/YetAnotherKeywords.git
+	branch = .
 [submodule "YouTube"]
 	path = YouTube
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/YouTube.git
@@ -2406,6 +2458,3 @@
 	path = wikihiero
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/wikihiero.git
 	branch = .
-[submodule "Elastica"]
-	path = Elastica
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Elastica.git
