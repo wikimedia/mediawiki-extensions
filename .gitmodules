@@ -2458,3 +2458,12 @@
 	path = wikihiero
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/wikihiero.git
 	branch = .
+[submodule "HelpPages"]
+	path = HelpPages
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/HelpPages.git
+[submodule "TimeMachine"]
+	path = TimeMachine
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/TimeMachine.git
+[submodule "WikimediaEvents"]
+	path = WikimediaEvents
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikimediaEvents.git
