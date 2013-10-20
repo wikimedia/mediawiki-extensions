@@ -858,6 +858,10 @@
 	path = HelpCommons
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/HelpCommons.git
 	branch = .
+[submodule "HelpPages"]
+	path = HelpPages
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/HelpPages.git
+	branch = .
 [submodule "HidePrefix"]
 	path = HidePrefix
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/HidePrefix.git
@@ -2062,6 +2066,10 @@
 	path = ThumbParser
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ThumbParser.git
 	branch = .
+[submodule "TimeMachine"]
+	path = TimeMachine
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/TimeMachine.git
+	branch = .
 [submodule "TimedMediaHandler"]
 	path = TimedMediaHandler
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/TimedMediaHandler.git
@@ -2213,6 +2221,10 @@
 [submodule "Vector"]
 	path = Vector
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Vector.git
+	branch = .
+[submodule "VectorBeta"]
+	path = VectorBeta
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/VectorBeta.git
 	branch = .
 [submodule "VersionView"]
 	path = VersionView
@@ -2378,6 +2390,10 @@
 	path = Wikilog
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Wikilog.git
 	branch = .
+[submodule "WikimediaEvents"]
+	path = WikimediaEvents
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikimediaEvents.git
+	branch = .
 [submodule "WikimediaIncubator"]
 	path = WikimediaIncubator
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikimediaIncubator.git
@@ -2458,12 +2474,21 @@
 	path = wikihiero
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/wikihiero.git
 	branch = .
-[submodule "HelpPages"]
-	path = HelpPages
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/HelpPages.git
-[submodule "TimeMachine"]
-	path = TimeMachine
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/TimeMachine.git
-[submodule "WikimediaEvents"]
-	path = WikimediaEvents
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikimediaEvents.git
+[submodule "ContentTranslation"]
+	path = ContentTranslation
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ContentTranslation.git
+[submodule "SemanticSifter"]
+	path = SemanticSifter
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticSifter.git
+[submodule "TitleIcon"]
+	path = TitleIcon
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/TitleIcon.git
+[submodule "WikibaseClient"]
+	path = WikibaseClient
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseClient.git
+[submodule "WikibaseLib"]
+	path = WikibaseLib
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseLib.git
+[submodule "WikibaseRepo"]
+	path = WikibaseRepo
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseRepo.git
