@@ -2358,10 +2358,6 @@
 	path = WikibaseDataModel
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseDataModel.git
 	branch = .
-[submodule "WikibaseDatabase"]
-	path = WikibaseDatabase
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseDatabase.git
-	branch = .
 [submodule "WikibaseMobile"]
 	path = WikibaseMobile
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseMobile.git
