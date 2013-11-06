@@ -386,6 +386,10 @@
 	path = ContactPageFundraiser
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ContactPageFundraiser.git
 	branch = .
+[submodule "ContentTranslation"]
+	path = ContentTranslation
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ContentTranslation.git
+	branch = .
 [submodule "Contest"]
 	path = Contest
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Contest.git
@@ -894,6 +898,10 @@
 	path = ImageMap
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ImageMap.git
 	branch = .
+[submodule "ImportBibliography"]
+	path = ImportBibliography
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ImportBibliography.git
+	branch = .
 [submodule "IndexFunction"]
 	path = IndexFunction
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/IndexFunction.git
@@ -922,6 +930,10 @@
 	path = Interwiki
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Interwiki.git
 	branch = .
+[submodule "InterwikiExistence"]
+	path = InterwikiExistence
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/InterwikiExistence.git
+	branch = .
 [submodule "InterwikiMagic"]
 	path = InterwikiMagic
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/InterwikiMagic.git
@@ -933,6 +945,10 @@
 [submodule "InviteSignup"]
 	path = InviteSignup
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/InviteSignup.git
+	branch = .
+[submodule "IssueTracker"]
+	path = IssueTracker
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/IssueTracker.git
 	branch = .
 [submodule "JSBreadCrumbs"]
 	path = JSBreadCrumbs
@@ -1061,6 +1077,10 @@
 [submodule "MagicNoCache"]
 	path = MagicNoCache
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MagicNoCache.git
+	branch = .
+[submodule "MailChimpSubscription"]
+	path = MailChimpSubscription
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MailChimpSubscription.git
 	branch = .
 [submodule "Maintenance"]
 	path = Maintenance
@@ -1406,6 +1426,10 @@
 	path = Parsoid
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Parsoid.git
 	branch = .
+[submodule "PartitionQuery"]
+	path = PartitionQuery
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PartitionQuery.git
+	branch = .
 [submodule "PdfExport"]
 	path = PdfExport
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PdfExport.git
@@ -1746,9 +1770,17 @@
 	path = SemanticForms
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticForms.git
 	branch = .
+[submodule "SemanticFormsDisplayTitle"]
+	path = SemanticFormsDisplayTitle
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticFormsDisplayTitle.git
+	branch = .
 [submodule "SemanticFormsInputs"]
 	path = SemanticFormsInputs
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticFormsInputs.git
+	branch = .
+[submodule "SemanticFormsUniqueValue"]
+	path = SemanticFormsUniqueValue
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticFormsUniqueValue.git
 	branch = .
 [submodule "SemanticGenealogy"]
 	path = SemanticGenealogy
@@ -1786,9 +1818,17 @@
 	path = SemanticPageSeries
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticPageSeries.git
 	branch = .
+[submodule "SemanticRating"]
+	path = SemanticRating
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticRating.git
+	branch = .
 [submodule "SemanticResultFormats"]
 	path = SemanticResultFormats
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticResultFormats.git
+	branch = .
+[submodule "SemanticSifter"]
+	path = SemanticSifter
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticSifter.git
 	branch = .
 [submodule "SemanticSignup"]
 	path = SemanticSignup
@@ -2086,6 +2126,10 @@
 	path = TitleBlacklist
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/TitleBlacklist.git
 	branch = .
+[submodule "TitleIcon"]
+	path = TitleIcon
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/TitleIcon.git
+	branch = .
 [submodule "TitleKey"]
 	path = TitleKey
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/TitleKey.git
@@ -2354,9 +2398,17 @@
 	path = Wikibase
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Wikibase.git
 	branch = .
+[submodule "WikibaseClient"]
+	path = WikibaseClient
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseClient.git
+	branch = .
 [submodule "WikibaseDataModel"]
 	path = WikibaseDataModel
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseDataModel.git
+	branch = .
+[submodule "WikibaseLib"]
+	path = WikibaseLib
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseLib.git
 	branch = .
 [submodule "WikibaseMobile"]
 	path = WikibaseMobile
@@ -2369,6 +2421,10 @@
 [submodule "WikibaseQueryEngine"]
 	path = WikibaseQueryEngine
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseQueryEngine.git
+	branch = .
+[submodule "WikibaseRepo"]
+	path = WikibaseRepo
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseRepo.git
 	branch = .
 [submodule "WikibaseSolr"]
 	path = WikibaseSolr
@@ -2470,21 +2526,3 @@
 	path = wikihiero
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/wikihiero.git
 	branch = .
-[submodule "ContentTranslation"]
-	path = ContentTranslation
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ContentTranslation.git
-[submodule "SemanticSifter"]
-	path = SemanticSifter
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticSifter.git
-[submodule "TitleIcon"]
-	path = TitleIcon
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/TitleIcon.git
-[submodule "WikibaseClient"]
-	path = WikibaseClient
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseClient.git
-[submodule "WikibaseLib"]
-	path = WikibaseLib
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseLib.git
-[submodule "WikibaseRepo"]
-	path = WikibaseRepo
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseRepo.git
