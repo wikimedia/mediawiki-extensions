@@ -118,10 +118,6 @@
 	path = ArticleRatings
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ArticleRatings.git
 	branch = .
-[submodule "Ask"]
-	path = Ask
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Ask.git
-	branch = .
 [submodule "AssertEdit"]
 	path = AssertEdit
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/AssertEdit.git
@@ -1869,10 +1865,6 @@
 [submodule "SemanticWebBrowser"]
 	path = SemanticWebBrowser
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticWebBrowser.git
-	branch = .
-[submodule "Serialization"]
-	path = Serialization
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Serialization.git
 	branch = .
 [submodule "ShareThisWidget"]
 	path = ShareThisWidget
