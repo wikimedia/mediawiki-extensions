@@ -230,6 +230,10 @@
 	path = Campaigns
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Campaigns.git
 	branch = .
+[submodule "Capiunto"]
+	path = Capiunto
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Capiunto.git
+	branch = .
 [submodule "Carp"]
 	path = Carp
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Carp.git
@@ -774,6 +778,10 @@
 	path = GlobalBlocking
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GlobalBlocking.git
 	branch = .
+[submodule "GlobalCssJs"]
+	path = GlobalCssJs
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GlobalCssJs.git
+	branch = .
 [submodule "GlobalNotice"]
 	path = GlobalNotice
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GlobalNotice.git
@@ -973,6 +981,10 @@
 [submodule "LanguageSelector"]
 	path = LanguageSelector
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/LanguageSelector.git
+	branch = .
+[submodule "LanguageTag"]
+	path = LanguageTag
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/LanguageTag.git
 	branch = .
 [submodule "LastModified"]
 	path = LastModified
@@ -1181,6 +1193,10 @@
 [submodule "MultiMaps"]
 	path = MultiMaps
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MultiMaps.git
+	branch = .
+[submodule "MultiUpload"]
+	path = MultiUpload
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MultiUpload.git
 	branch = .
 [submodule "MultimediaViewer"]
 	path = MultimediaViewer
@@ -2034,6 +2050,10 @@
 	path = SubpageSortkey
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SubpageSortkey.git
 	branch = .
+[submodule "SubpageWatchlist"]
+	path = SubpageWatchlist
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SubpageWatchlist.git
+	branch = .
 [submodule "Sudo"]
 	path = Sudo
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Sudo.git
@@ -2485,6 +2505,10 @@
 [submodule "YetAnotherKeywords"]
 	path = YetAnotherKeywords
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/YetAnotherKeywords.git
+	branch = .
+[submodule "YotpoReviews"]
+	path = YotpoReviews
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/YotpoReviews.git
 	branch = .
 [submodule "YouTube"]
 	path = YouTube
