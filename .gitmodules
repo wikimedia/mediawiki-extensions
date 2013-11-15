@@ -1150,6 +1150,10 @@
 	path = MirrorTools
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MirrorTools.git
 	branch = .
+[submodule "MobileApp"]
+	path = MobileApp
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MobileApp.git
+	branch = .
 [submodule "MobileFrontend"]
 	path = MobileFrontend
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MobileFrontend.git
