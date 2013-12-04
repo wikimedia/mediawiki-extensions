@@ -66,6 +66,10 @@
 	path = AllTimeZones
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/AllTimeZones.git
 	branch = .
+[submodule "AnchorHandler"]
+	path = AnchorHandler
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/AnchorHandler.git
+	branch = .
 [submodule "Annotator"]
 	path = Annotator
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Annotator.git
@@ -481,6 +485,10 @@
 [submodule "DataValues"]
 	path = DataValues
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DataValues.git
+	branch = .
+[submodule "DataValuesCommon"]
+	path = DataValuesCommon
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DataValuesCommon.git
 	branch = .
 [submodule "DataValuesInterfaces"]
 	path = DataValuesInterfaces
@@ -950,6 +958,10 @@
 	path = InviteSignup
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/InviteSignup.git
 	branch = .
+[submodule "Isbn"]
+	path = Isbn
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Isbn.git
+	branch = .
 [submodule "IssueTracker"]
 	path = IssueTracker
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/IssueTracker.git
@@ -961,6 +973,10 @@
 [submodule "Josa"]
 	path = Josa
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Josa.git
+	branch = .
+[submodule "JsonConfig"]
+	path = JsonConfig
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/JsonConfig.git
 	branch = .
 [submodule "JsonData"]
 	path = JsonData
@@ -1414,6 +1430,10 @@
 	path = PageSchemas
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PageSchemas.git
 	branch = .
+[submodule "PageTools"]
+	path = PageTools
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PageTools.git
+	branch = .
 [submodule "PageTriage"]
 	path = PageTriage
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PageTriage.git
@@ -1545,6 +1565,10 @@
 [submodule "ProxyListDb"]
 	path = ProxyListDb
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ProxyListDb.git
+	branch = .
+[submodule "PubSubHubbub"]
+	path = PubSubHubbub
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PubSubHubbub.git
 	branch = .
 [submodule "PurgeClickThrough"]
 	path = PurgeClickThrough
