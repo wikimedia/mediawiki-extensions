@@ -790,6 +790,10 @@
 	path = GlobalNotice
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GlobalNotice.git
 	branch = .
+[submodule "GlobalPreferences"]
+	path = GlobalPreferences
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GlobalPreferences.git
+	branch = .
 [submodule "GlobalUsage"]
 	path = GlobalUsage
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GlobalUsage.git
@@ -1149,6 +1153,10 @@
 [submodule "MediaWikiAuth"]
 	path = MediaWikiAuth
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MediaWikiAuth.git
+	branch = .
+[submodule "MediaWikiChat"]
+	path = MediaWikiChat
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MediaWikiChat.git
 	branch = .
 [submodule "Memento"]
 	path = Memento
@@ -2042,6 +2050,10 @@
 	path = StickToThatLanguage
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/StickToThatLanguage.git
 	branch = .
+[submodule "StopForumSpam"]
+	path = StopForumSpam
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/StopForumSpam.git
+	branch = .
 [submodule "StoryParagraph"]
 	path = StoryParagraph
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/StoryParagraph.git
@@ -2125,6 +2137,10 @@
 [submodule "TemplateSandbox"]
 	path = TemplateSandbox
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/TemplateSandbox.git
+	branch = .
+[submodule "TextExtracts"]
+	path = TextExtracts
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/TextExtracts.git
 	branch = .
 [submodule "Thanks"]
 	path = Thanks
