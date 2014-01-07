@@ -1382,6 +1382,10 @@
 	path = OnlyRecentRecentChanges
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/OnlyRecentRecentChanges.git
 	branch = .
+[submodule "OpenBadges"]
+	path = OpenBadges
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/OpenBadges.git
+	branch = .
 [submodule "OpenGraphMeta"]
 	path = OpenGraphMeta
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/OpenGraphMeta.git
