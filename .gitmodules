@@ -978,6 +978,10 @@
 	path = InviteSignup
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/InviteSignup.git
 	branch = .
+[submodule "Ipernity"]
+	path = Ipernity
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Ipernity.git
+	branch = .
 [submodule "Isbn"]
 	path = Isbn
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Isbn.git
@@ -1497,6 +1501,10 @@
 [submodule "PartitionQuery"]
 	path = PartitionQuery
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PartitionQuery.git
+	branch = .
+[submodule "PdfBook"]
+	path = PdfBook
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PdfBook.git
 	branch = .
 [submodule "PdfExport"]
 	path = PdfExport
@@ -2146,6 +2154,10 @@
 	path = Tabber
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Tabber.git
 	branch = .
+[submodule "Tabs"]
+	path = Tabs
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Tabs.git
+	branch = .
 [submodule "TemplateData"]
 	path = TemplateData
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/TemplateData.git
@@ -2565,6 +2577,10 @@
 [submodule "WindowsAzureStorage"]
 	path = WindowsAzureStorage
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WindowsAzureStorage.git
+	branch = .
+[submodule "Workflow"]
+	path = Workflow
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Workflow.git
 	branch = .
 [submodule "YetAnotherKeywords"]
 	path = YetAnotherKeywords
