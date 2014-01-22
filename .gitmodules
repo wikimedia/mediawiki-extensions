@@ -2514,10 +2514,6 @@
 	path = WikibaseQuery
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseQuery.git
 	branch = .
-[submodule "WikibaseQueryEngine"]
-	path = WikibaseQueryEngine
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseQueryEngine.git
-	branch = .
 [submodule "WikibaseRepo"]
 	path = WikibaseRepo
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseRepo.git
