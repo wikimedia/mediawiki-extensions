@@ -150,6 +150,10 @@
 	path = Awesomeness
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Awesomeness.git
 	branch = .
+[submodule "AzharAuth"]
+	path = AzharAuth
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/AzharAuth.git
+	branch = .
 [submodule "Babel"]
 	path = Babel
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Babel.git
@@ -850,6 +854,10 @@
 	path = GoogleSiteSearch
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GoogleSiteSearch.git
 	branch = .
+[submodule "GoogleTagManager"]
+	path = GoogleTagManager
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GoogleTagManager.git
+	branch = .
 [submodule "GraphViz"]
 	path = GraphViz
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GraphViz.git
@@ -977,6 +985,10 @@
 [submodule "InviteSignup"]
 	path = InviteSignup
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/InviteSignup.git
+	branch = .
+[submodule "Ipernity"]
+	path = Ipernity
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Ipernity.git
 	branch = .
 [submodule "Ipernity"]
 	path = Ipernity
@@ -1506,6 +1518,10 @@
 	path = PdfBook
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PdfBook.git
 	branch = .
+[submodule "PdfBook"]
+	path = PdfBook
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PdfBook.git
+	branch = .
 [submodule "PdfExport"]
 	path = PdfExport
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PdfExport.git
@@ -1529,6 +1545,38 @@
 [submodule "PhpHighlight"]
 	path = PhpHighlight
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PhpHighlight.git
+	branch = .
+[submodule "PhpMaps"]
+	path = PhpMaps
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PhpMaps.git
+	branch = .
+[submodule "PhpTags"]
+	path = PhpTags
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PhpTags.git
+	branch = .
+[submodule "PhpTagsCodeEditor"]
+	path = PhpTagsCodeEditor
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PhpTagsCodeEditor.git
+	branch = .
+[submodule "PhpTagsDebugger"]
+	path = PhpTagsDebugger
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PhpTagsDebugger.git
+	branch = .
+[submodule "PhpTagsFunctions"]
+	path = PhpTagsFunctions
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PhpTagsFunctions.git
+	branch = .
+[submodule "PhpTagsMaps"]
+	path = PhpTagsMaps
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PhpTagsMaps.git
+	branch = .
+[submodule "PhpTagsWidgets"]
+	path = PhpTagsWidgets
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PhpTagsWidgets.git
+	branch = .
+[submodule "PhpTagsWiki"]
+	path = PhpTagsWiki
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PhpTagsWiki.git
 	branch = .
 [submodule "PictureGame"]
 	path = PictureGame
@@ -1593,6 +1641,10 @@
 [submodule "ProofreadPage"]
 	path = ProofreadPage
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ProofreadPage.git
+	branch = .
+[submodule "PropertySuggester"]
+	path = PropertySuggester
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PropertySuggester.git
 	branch = .
 [submodule "ProtectSite"]
 	path = ProtectSite
