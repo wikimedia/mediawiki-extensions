@@ -990,10 +990,6 @@
 	path = Ipernity
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Ipernity.git
 	branch = .
-[submodule "Ipernity"]
-	path = Ipernity
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Ipernity.git
-	branch = .
 [submodule "Isbn"]
 	path = Isbn
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Isbn.git
@@ -1513,10 +1509,6 @@
 [submodule "PartitionQuery"]
 	path = PartitionQuery
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PartitionQuery.git
-	branch = .
-[submodule "PdfBook"]
-	path = PdfBook
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PdfBook.git
 	branch = .
 [submodule "PdfBook"]
 	path = PdfBook
