@@ -1602,6 +1602,10 @@
 	path = PopupPages
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PopupPages.git
 	branch = .
+[submodule "Popups"]
+	path = Popups
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Popups.git
+	branch = .
 [submodule "PostEdit"]
 	path = PostEdit
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PostEdit.git
