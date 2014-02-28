@@ -30,6 +30,10 @@
 	path = AccountAudit
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/AccountAudit.git
 	branch = .
+[submodule "AccountInfo"]
+	path = AccountInfo
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/AccountInfo.git
+	branch = .
 [submodule "ActiveAbstract"]
 	path = ActiveAbstract
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ActiveAbstract.git
@@ -345,6 +349,10 @@
 [submodule "Comments"]
 	path = Comments
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Comments.git
+	branch = .
+[submodule "CommonMessages"]
+	path = CommonMessages
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CommonMessages.git
 	branch = .
 [submodule "CommonsMetadata"]
 	path = CommonsMetadata
@@ -753,6 +761,10 @@
 [submodule "FundraiserLandingPage"]
 	path = FundraiserLandingPage
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/FundraiserLandingPage.git
+	branch = .
+[submodule "FundraisingChart"]
+	path = FundraisingChart
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/FundraisingChart.git
 	branch = .
 [submodule "FundraisingEmailUnsubscribe"]
 	path = FundraisingEmailUnsubscribe
@@ -1329,6 +1341,10 @@
 [submodule "NoTitle"]
 	path = NoTitle
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/NoTitle.git
+	branch = .
+[submodule "NoUnwrap"]
+	path = NoUnwrap
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/NoUnwrap.git
 	branch = .
 [submodule "Nonlinear"]
 	path = Nonlinear
