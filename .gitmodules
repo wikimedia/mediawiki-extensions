@@ -34,6 +34,10 @@
 	path = AccountInfo
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/AccountInfo.git
 	branch = .
+[submodule "ActionEditSubmit"]
+	path = ActionEditSubmit
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ActionEditSubmit.git
+	branch = .
 [submodule "ActiveAbstract"]
 	path = ActiveAbstract
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ActiveAbstract.git
@@ -949,6 +953,10 @@
 [submodule "ISO639"]
 	path = ISO639
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ISO639.git
+	branch = .
+[submodule "IframePage"]
+	path = IframePage
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/IframePage.git
 	branch = .
 [submodule "ImageMap"]
 	path = ImageMap
@@ -1938,6 +1946,10 @@
 	path = SemanticGlossary
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticGlossary.git
 	branch = .
+[submodule "SemanticHighcharts"]
+	path = SemanticHighcharts
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticHighcharts.git
+	branch = .
 [submodule "SemanticImageAnnotator"]
 	path = SemanticImageAnnotator
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticImageAnnotator.git
@@ -2022,6 +2034,10 @@
 	path = ShoutWikiAds
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ShoutWikiAds.git
 	branch = .
+[submodule "ShrinkTheWeb"]
+	path = ShrinkTheWeb
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ShrinkTheWeb.git
+	branch = .
 [submodule "SideBarMenu"]
 	path = SideBarMenu
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SideBarMenu.git
@@ -2045,6 +2061,10 @@
 [submodule "SimpleFarm"]
 	path = SimpleFarm
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SimpleFarm.git
+	branch = .
+[submodule "SimpleSamlAuth"]
+	path = SimpleSamlAuth
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SimpleSamlAuth.git
 	branch = .
 [submodule "SimpleSecurity"]
 	path = SimpleSecurity
