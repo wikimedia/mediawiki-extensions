@@ -2026,6 +2026,10 @@
 	path = ShortUrl
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ShortUrl.git
 	branch = .
+[submodule "ShortUrlApi"]
+	path = ShortUrlApi
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ShortUrlApi.git
+	branch = .
 [submodule "ShoutBox"]
 	path = ShoutBox
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ShoutBox.git
@@ -2494,6 +2498,10 @@
 	path = WantedPagesFromNS
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WantedPagesFromNS.git
 	branch = .
+[submodule "WatchSubpages"]
+	path = WatchSubpages
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WatchSubpages.git
+	branch = .
 [submodule "WebChat"]
 	path = WebChat
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WebChat.git
@@ -2537,6 +2545,10 @@
 [submodule "WikiCategoryTagCloud"]
 	path = WikiCategoryTagCloud
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikiCategoryTagCloud.git
+	branch = .
+[submodule "WikiCortex"]
+	path = WikiCortex
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikiCortex.git
 	branch = .
 [submodule "WikiEditor"]
 	path = WikiEditor
