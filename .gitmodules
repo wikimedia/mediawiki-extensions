@@ -1366,6 +1366,10 @@
 	path = Nuke
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Nuke.git
 	branch = .
+[submodule "NukeDPL"]
+	path = NukeDPL
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/NukeDPL.git
+	branch = .
 [submodule "NumberFormat"]
 	path = NumberFormat
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/NumberFormat.git
