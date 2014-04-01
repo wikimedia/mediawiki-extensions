@@ -446,10 +446,6 @@
 	path = CopyToClipboard
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CopyToClipboard.git
 	branch = .
-[submodule "CoreEvents"]
-	path = CoreEvents
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CoreEvents.git
-	branch = .
 [submodule "CreatePage"]
 	path = CreatePage
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CreatePage.git
@@ -502,10 +498,6 @@
 	path = DataValueImplementations
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DataValueImplementations.git
 	branch = .
-[submodule "DataValues"]
-	path = DataValues
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DataValues.git
-	branch = .
 [submodule "DataValuesCommon"]
 	path = DataValuesCommon
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DataValuesCommon.git
@@ -553,10 +545,6 @@
 [submodule "DidYouMean"]
 	path = DidYouMean
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DidYouMean.git
-	branch = .
-[submodule "Diff"]
-	path = Diff
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Diff.git
 	branch = .
 [submodule "DisableAccount"]
 	path = DisableAccount
@@ -2601,10 +2589,6 @@
 [submodule "WikibaseClient"]
 	path = WikibaseClient
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseClient.git
-	branch = .
-[submodule "WikibaseDataModel"]
-	path = WikibaseDataModel
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseDataModel.git
 	branch = .
 [submodule "WikibaseLib"]
 	path = WikibaseLib
