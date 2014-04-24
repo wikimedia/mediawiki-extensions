@@ -1558,10 +1558,6 @@
 	path = PhpHighlight
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PhpHighlight.git
 	branch = .
-[submodule "PhpMaps"]
-	path = PhpMaps
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PhpMaps.git
-	branch = .
 [submodule "PhpTags"]
 	path = PhpTags
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PhpTags.git
