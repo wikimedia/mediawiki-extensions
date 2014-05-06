@@ -686,6 +686,10 @@
 	path = ExternalData
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ExternalData.git
 	branch = .
+[submodule "ExtraLanguageLink"]
+	path = ExtraLanguageLink
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ExtraLanguageLink.git
+	branch = .
 [submodule "FacebookOpenGraph"]
 	path = FacebookOpenGraph
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/FacebookOpenGraph.git
