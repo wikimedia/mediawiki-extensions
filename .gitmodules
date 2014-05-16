@@ -62,9 +62,17 @@
 	path = Ads
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Ads.git
 	branch = .
+[submodule "AdvancedMeta"]
+	path = AdvancedMeta
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/AdvancedMeta.git
+	branch = .
 [submodule "Agora"]
 	path = Agora
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Agora.git
+	branch = .
+[submodule "AjaxLogin"]
+	path = AjaxLogin
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/AjaxLogin.git
 	branch = .
 [submodule "AkismetKlik"]
 	path = AkismetKlik
@@ -73,6 +81,10 @@
 [submodule "AllTimeZones"]
 	path = AllTimeZones
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/AllTimeZones.git
+	branch = .
+[submodule "AmazonLookup"]
+	path = AmazonLookup
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/AmazonLookup.git
 	branch = .
 [submodule "AnchorHandler"]
 	path = AnchorHandler
@@ -830,6 +842,10 @@
 	path = GlobalUserGroups
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GlobalUserGroups.git
 	branch = .
+[submodule "GlobalUserPage"]
+	path = GlobalUserPage
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GlobalUserPage.git
+	branch = .
 [submodule "GlobalUserrights"]
 	path = GlobalUserrights
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GlobalUserrights.git
@@ -837,6 +853,10 @@
 [submodule "GoogleAdSense"]
 	path = GoogleAdSense
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GoogleAdSense.git
+	branch = .
+[submodule "GoogleAppEngine"]
+	path = GoogleAppEngine
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GoogleAppEngine.git
 	branch = .
 [submodule "GoogleCustomWikiSearch"]
 	path = GoogleCustomWikiSearch
@@ -1074,6 +1094,10 @@
 	path = LightweightRDFa
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/LightweightRDFa.git
 	branch = .
+[submodule "Limn"]
+	path = Limn
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Limn.git
+	branch = .
 [submodule "Lingo"]
 	path = Lingo
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Lingo.git
@@ -1162,6 +1186,10 @@
 	path = MaintenanceShell
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MaintenanceShell.git
 	branch = .
+[submodule "Mantle"]
+	path = Mantle
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Mantle.git
+	branch = .
 [submodule "MapSources"]
 	path = MapSources
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MapSources.git
@@ -1233,6 +1261,10 @@
 [submodule "Model"]
 	path = Model
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Model.git
+	branch = .
+[submodule "MolHandler"]
+	path = MolHandler
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MolHandler.git
 	branch = .
 [submodule "MoodBar"]
 	path = MoodBar
@@ -1550,9 +1582,17 @@
 	path = PerPageLicense
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PerPageLicense.git
 	branch = .
+[submodule "PerformanceMonitor"]
+	path = PerformanceMonitor
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PerformanceMonitor.git
+	branch = .
 [submodule "Persona"]
 	path = Persona
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Persona.git
+	branch = .
+[submodule "Petition"]
+	path = Petition
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Petition.git
 	branch = .
 [submodule "Phalanx"]
 	path = Phalanx
@@ -1678,6 +1718,10 @@
 	path = PubSubHubbub
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PubSubHubbub.git
 	branch = .
+[submodule "PubSubHubbubSubscriber"]
+	path = PubSubHubbubSubscriber
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PubSubHubbubSubscriber.git
+	branch = .
 [submodule "PurgeClickThrough"]
 	path = PurgeClickThrough
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PurgeClickThrough.git
@@ -1801,6 +1845,10 @@
 [submodule "Renameuser"]
 	path = Renameuser
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Renameuser.git
+	branch = .
+[submodule "ReorderParserPhases"]
+	path = ReorderParserPhases
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ReorderParserPhases.git
 	branch = .
 [submodule "ReplaceSet"]
 	path = ReplaceSet
@@ -2054,6 +2102,10 @@
 	path = SimpleAntiSpam
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SimpleAntiSpam.git
 	branch = .
+[submodule "SimpleChanges"]
+	path = SimpleChanges
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SimpleChanges.git
+	branch = .
 [submodule "SimpleFarm"]
 	path = SimpleFarm
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SimpleFarm.git
@@ -2077,6 +2129,10 @@
 [submodule "SiteMetrics"]
 	path = SiteMetrics
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SiteMetrics.git
+	branch = .
+[submodule "SiteSettings"]
+	path = SiteSettings
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SiteSettings.git
 	branch = .
 [submodule "SkelJS"]
 	path = SkelJS
@@ -2469,6 +2525,10 @@
 [submodule "VipsScaler"]
 	path = VipsScaler
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/VipsScaler.git
+	branch = .
+[submodule "VisualChat"]
+	path = VisualChat
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/VisualChat.git
 	branch = .
 [submodule "VisualEditor"]
 	path = VisualEditor
