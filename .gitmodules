@@ -966,6 +966,10 @@
 	path = ISO639
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ISO639.git
 	branch = .
+[submodule "IfTemplates"]
+	path = IfTemplates
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/IfTemplates.git
+	branch = .
 [submodule "IframePage"]
 	path = IframePage
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/IframePage.git
@@ -2554,6 +2558,10 @@
 	path = WatchSubpages
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WatchSubpages.git
 	branch = .
+[submodule "WebCache"]
+	path = WebCache
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WebCache.git
+	branch = .
 [submodule "WebChat"]
 	path = WebChat
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WebChat.git
@@ -2737,6 +2745,14 @@
 [submodule "YouTube"]
 	path = YouTube
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/YouTube.git
+	branch = .
+[submodule "ZeroBanner"]
+	path = ZeroBanner
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ZeroBanner.git
+	branch = .
+[submodule "ZeroPortal"]
+	path = ZeroPortal
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ZeroPortal.git
 	branch = .
 [submodule "ZeroRatedMobileAccess"]
 	path = ZeroRatedMobileAccess
