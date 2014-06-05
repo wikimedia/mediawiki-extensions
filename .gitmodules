@@ -1318,6 +1318,10 @@
 	path = NSFileRepo
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/NSFileRepo.git
 	branch = .
+[submodule "NamespaceHTML"]
+	path = NamespaceHTML
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/NamespaceHTML.git
+	branch = .
 [submodule "NamespacePaths"]
 	path = NamespacePaths
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/NamespacePaths.git
