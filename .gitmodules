@@ -42,6 +42,10 @@
 	path = ActiveAbstract
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ActiveAbstract.git
 	branch = .
+[submodule "ActivityMonitor"]
+	path = ActivityMonitor
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ActivityMonitor.git
+	branch = .
 [submodule "AdManager"]
 	path = AdManager
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/AdManager.git
@@ -2465,6 +2469,10 @@
 [submodule "UserFunctions"]
 	path = UserFunctions
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/UserFunctions.git
+	branch = .
+[submodule "UserGroups"]
+	path = UserGroups
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/UserGroups.git
 	branch = .
 [submodule "UserMerge"]
 	path = UserMerge
