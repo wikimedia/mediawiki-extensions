@@ -2486,10 +2486,6 @@
 	path = UserGroups
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/UserGroups.git
 	branch = .
-[submodule "UserGroups"]
-	path = UserGroups
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/UserGroups.git
-	branch = .
 [submodule "UserMerge"]
 	path = UserMerge
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/UserMerge.git
