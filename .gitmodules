@@ -238,6 +238,10 @@
 	path = Bootstrap
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Bootstrap.git
 	branch = .
+[submodule "BounceHandler"]
+	path = BounceHandler
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/BounceHandler.git
+	branch = .
 [submodule "BreadCrumbs"]
 	path = BreadCrumbs
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/BreadCrumbs.git
@@ -1125,6 +1129,10 @@
 [submodule "LiquidThreads"]
 	path = LiquidThreads
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/LiquidThreads.git
+	branch = .
+[submodule "ListSignup"]
+	path = ListSignup
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ListSignup.git
 	branch = .
 [submodule "ListTransclusions"]
 	path = ListTransclusions
@@ -2462,6 +2470,10 @@
 	path = UrlGetParameters
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/UrlGetParameters.git
 	branch = .
+[submodule "UrlShortener"]
+	path = UrlShortener
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/UrlShortener.git
+	branch = .
 [submodule "UserDailyContribs"]
 	path = UserDailyContribs
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/UserDailyContribs.git
@@ -2469,6 +2481,10 @@
 [submodule "UserFunctions"]
 	path = UserFunctions
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/UserFunctions.git
+	branch = .
+[submodule "UserGroups"]
+	path = UserGroups
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/UserGroups.git
 	branch = .
 [submodule "UserGroups"]
 	path = UserGroups
@@ -2537,6 +2553,10 @@
 [submodule "Views"]
 	path = Views
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Views.git
+	branch = .
+[submodule "Vine"]
+	path = Vine
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Vine.git
 	branch = .
 [submodule "VipsScaler"]
 	path = VipsScaler
@@ -2745,6 +2765,10 @@
 [submodule "Workflow"]
 	path = Workflow
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Workflow.git
+	branch = .
+[submodule "XMLContentExtension"]
+	path = XMLContentExtension
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/XMLContentExtension.git
 	branch = .
 [submodule "YetAnotherKeywords"]
 	path = YetAnotherKeywords
