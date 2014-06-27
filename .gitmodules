@@ -50,6 +50,10 @@
 	path = AdManager
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/AdManager.git
 	branch = .
+[submodule "AddMessages"]
+	path = AddMessages
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/AddMessages.git
+	branch = .
 [submodule "AddMetaAndTitle"]
 	path = AddMetaAndTitle
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/AddMetaAndTitle.git
@@ -333,6 +337,10 @@
 [submodule "Cite"]
 	path = Cite
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Cite.git
+	branch = .
+[submodule "Citoid"]
+	path = Citoid
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Citoid.git
 	branch = .
 [submodule "CleanChanges"]
 	path = CleanChanges
@@ -786,6 +794,10 @@
 	path = FundraisingEmailUnsubscribe
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/FundraisingEmailUnsubscribe.git
 	branch = .
+[submodule "FundraisingTranslateWorkflow"]
+	path = FundraisingTranslateWorkflow
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/FundraisingTranslateWorkflow.git
+	branch = .
 [submodule "GWToolset"]
 	path = GWToolset
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GWToolset.git
@@ -877,6 +889,10 @@
 [submodule "GoogleDocs4MW"]
 	path = GoogleDocs4MW
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GoogleDocs4MW.git
+	branch = .
+[submodule "GoogleLogin"]
+	path = GoogleLogin
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GoogleLogin.git
 	branch = .
 [submodule "GoogleMaps"]
 	path = GoogleMaps
@@ -1261,6 +1277,10 @@
 [submodule "MirrorTools"]
 	path = MirrorTools
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MirrorTools.git
+	branch = .
+[submodule "MixedNamespaceSearchSuggestions"]
+	path = MixedNamespaceSearchSuggestions
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MixedNamespaceSearchSuggestions.git
 	branch = .
 [submodule "MobileApp"]
 	path = MobileApp
@@ -1973,6 +1993,10 @@
 [submodule "SemanticDrilldown"]
 	path = SemanticDrilldown
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticDrilldown.git
+	branch = .
+[submodule "SemanticDummyEditor"]
+	path = SemanticDummyEditor
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticDummyEditor.git
 	branch = .
 [submodule "SemanticExpressiveness"]
 	path = SemanticExpressiveness
