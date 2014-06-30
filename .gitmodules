@@ -2326,6 +2326,10 @@
 	path = SwiftCloudFiles
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SwiftCloudFiles.git
 	branch = .
+[submodule "SwiftMailer"]
+	path = SwiftMailer
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SwiftMailer.git
+	branch = .
 [submodule "SyntaxHighlight_GeSHi"]
 	path = SyntaxHighlight_GeSHi
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SyntaxHighlight_GeSHi.git
