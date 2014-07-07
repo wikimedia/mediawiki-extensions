@@ -998,6 +998,10 @@
 	path = IframePage
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/IframePage.git
 	branch = .
+[submodule "ImageLink"]
+	path = ImageLink
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ImageLink.git
+	branch = .
 [submodule "ImageMap"]
 	path = ImageMap
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ImageMap.git
