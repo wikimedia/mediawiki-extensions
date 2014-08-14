@@ -918,6 +918,10 @@
 	path = GoogleTagManager
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GoogleTagManager.git
 	branch = .
+[submodule "Graph"]
+	path = Graph
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Graph.git
+	branch = .
 [submodule "GraphViz"]
 	path = GraphViz
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GraphViz.git
