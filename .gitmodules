@@ -1554,10 +1554,6 @@
 	path = PhpTags
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PhpTags.git
 	branch = .
-[submodule "PhpTagsCodeEditor"]
-	path = PhpTagsCodeEditor
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PhpTagsCodeEditor.git
-	branch = .
 [submodule "PhpTagsDebugger"]
 	path = PhpTagsDebugger
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PhpTagsDebugger.git
