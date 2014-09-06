@@ -366,6 +366,10 @@
 	path = CodeEditor
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CodeEditor.git
 	branch = .
+[submodule "CodeMirror"]
+	path = CodeMirror
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CodeMirror.git
+	branch = .
 [submodule "CodeReview"]
 	path = CodeReview
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CodeReview.git
@@ -874,6 +878,10 @@
 	path = GlobalUserrights
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GlobalUserrights.git
 	branch = .
+[submodule "GoToShell"]
+	path = GoToShell
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GoToShell.git
+	branch = .
 [submodule "GoogleAdSense"]
 	path = GoogleAdSense
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GoogleAdSense.git
@@ -1053,6 +1061,10 @@
 [submodule "InterwikiExistence"]
 	path = InterwikiExistence
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/InterwikiExistence.git
+	branch = .
+[submodule "InterwikiIntegration"]
+	path = InterwikiIntegration
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/InterwikiIntegration.git
 	branch = .
 [submodule "InterwikiMagic"]
 	path = InterwikiMagic
@@ -1786,6 +1798,10 @@
 	path = PubSubHubbubSubscriber
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PubSubHubbubSubscriber.git
 	branch = .
+[submodule "PureWikiDeletion"]
+	path = PureWikiDeletion
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PureWikiDeletion.git
+	branch = .
 [submodule "PurgeClickThrough"]
 	path = PurgeClickThrough
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PurgeClickThrough.git
@@ -1829,6 +1845,10 @@
 [submodule "RDFIO"]
 	path = RDFIO
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/RDFIO.git
+	branch = .
+[submodule "RPED"]
+	path = RPED
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/RPED.git
 	branch = .
 [submodule "RSS"]
 	path = RSS
@@ -1881,6 +1901,10 @@
 [submodule "ReassignEdits"]
 	path = ReassignEdits
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ReassignEdits.git
+	branch = .
+[submodule "RecentActivityFeed"]
+	path = RecentActivityFeed
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/RecentActivityFeed.git
 	branch = .
 [submodule "RefreshSpecial"]
 	path = RefreshSpecial
@@ -1945,6 +1969,14 @@
 [submodule "SVGEdit"]
 	path = SVGEdit
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SVGEdit.git
+	branch = .
+[submodule "SacredText"]
+	path = SacredText
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SacredText.git
+	branch = .
+[submodule "SandboxLink"]
+	path = SandboxLink
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SandboxLink.git
 	branch = .
 [submodule "Sarcasm"]
 	path = Sarcasm
@@ -2378,6 +2410,10 @@
 	path = Tabs
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Tabs.git
 	branch = .
+[submodule "Teahouse"]
+	path = Teahouse
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Teahouse.git
+	branch = .
 [submodule "TemplateData"]
 	path = TemplateData
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/TemplateData.git
@@ -2449,6 +2485,10 @@
 [submodule "TocTree"]
 	path = TocTree
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/TocTree.git
+	branch = .
+[submodule "Tooltip"]
+	path = Tooltip
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Tooltip.git
 	branch = .
 [submodule "TorBlock"]
 	path = TorBlock
@@ -2825,6 +2865,10 @@
 [submodule "Workflow"]
 	path = Workflow
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Workflow.git
+	branch = .
+[submodule "XAnalytics"]
+	path = XAnalytics
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/XAnalytics.git
 	branch = .
 [submodule "XMLContentExtension"]
 	path = XMLContentExtension
