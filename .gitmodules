@@ -534,10 +534,6 @@
 	path = DataValueImplementations
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DataValueImplementations.git
 	branch = .
-[submodule "DataValuesCommon"]
-	path = DataValuesCommon
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DataValuesCommon.git
-	branch = .
 [submodule "DataValuesInterfaces"]
 	path = DataValuesInterfaces
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DataValuesInterfaces.git
@@ -2169,10 +2165,6 @@
 [submodule "ShortUrl"]
 	path = ShortUrl
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ShortUrl.git
-	branch = .
-[submodule "ShortUrlApi"]
-	path = ShortUrlApi
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ShortUrlApi.git
 	branch = .
 [submodule "ShoutBox"]
 	path = ShoutBox
