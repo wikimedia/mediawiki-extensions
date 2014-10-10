@@ -2062,10 +2062,6 @@
 	path = SemanticForms
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticForms.git
 	branch = .
-[submodule "SemanticFormsDisplayTitle"]
-	path = SemanticFormsDisplayTitle
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticFormsDisplayTitle.git
-	branch = .
 [submodule "SemanticFormsInputs"]
 	path = SemanticFormsInputs
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticFormsInputs.git
