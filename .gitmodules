@@ -1634,10 +1634,6 @@
 	path = Parsoid
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Parsoid.git
 	branch = .
-[submodule "PartitionQuery"]
-	path = PartitionQuery
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PartitionQuery.git
-	branch = .
 [submodule "PdfBook"]
 	path = PdfBook
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PdfBook.git
