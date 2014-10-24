@@ -2910,3 +2910,72 @@
 	path = wikihiero
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/wikihiero.git
 	branch = .
+[submodule "Challenge"]
+	path = Challenge
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Challenge.git
+[submodule "ContributionsList"]
+	path = ContributionsList
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ContributionsList.git
+[submodule "DebugMode"]
+	path = DebugMode
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DebugMode.git
+[submodule "DetectLanguage"]
+	path = DetectLanguage
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DetectLanguage.git
+[submodule "EditSimilar"]
+	path = EditSimilar
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/EditSimilar.git
+[submodule "Farmer"]
+	path = Farmer
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Farmer.git
+[submodule "FixedHeaderTable"]
+	path = FixedHeaderTable
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/FixedHeaderTable.git
+[submodule "HierarchyBuilder"]
+	path = HierarchyBuilder
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/HierarchyBuilder.git
+[submodule "HitCounters"]
+	path = HitCounters
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/HitCounters.git
+[submodule "ImageTagging"]
+	path = ImageTagging
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ImageTagging.git
+[submodule "MiniInvite"]
+	path = MiniInvite
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MiniInvite.git
+[submodule "MobileDetect"]
+	path = MobileDetect
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MobileDetect.git
+[submodule "MsCatSelect"]
+	path = MsCatSelect
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MsCatSelect.git
+[submodule "OAuthAuthentication"]
+	path = OAuthAuthentication
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/OAuthAuthentication.git
+[submodule "OpenIDConnect"]
+	path = OpenIDConnect
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/OpenIDConnect.git
+[submodule "PluggableAuth"]
+	path = PluggableAuth
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PluggableAuth.git
+[submodule "SemanticDependency"]
+	path = SemanticDependency
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticDependency.git
+[submodule "SimpleSAMLphp"]
+	path = SimpleSAMLphp
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SimpleSAMLphp.git
+[submodule "SiteScout"]
+	path = SiteScout
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SiteScout.git
+[submodule "VIKI"]
+	path = VIKI
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/VIKI.git
+[submodule "VikiSemanticTitle"]
+	path = VikiSemanticTitle
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/VikiSemanticTitle.git
+[submodule "WikEdDiff"]
+	path = WikEdDiff
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikEdDiff.git
+[submodule "WikiGrok"]
+	path = WikiGrok
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikiGrok.git
