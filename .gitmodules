@@ -266,6 +266,10 @@
 	path = Capiunto
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Capiunto.git
 	branch = .
+[submodule "Cargo"]
+	path = Cargo
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Cargo.git
+	branch = .
 [submodule "Carp"]
 	path = Carp
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Carp.git
@@ -2701,6 +2705,10 @@
 [submodule "WikibaseClient"]
 	path = WikibaseClient
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseClient.git
+	branch = .
+[submodule "WikibaseJavaScriptApi"]
+	path = WikibaseJavaScriptApi
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseJavaScriptApi.git
 	branch = .
 [submodule "WikibaseLib"]
 	path = WikibaseLib
