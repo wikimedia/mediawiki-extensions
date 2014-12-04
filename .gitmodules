@@ -522,22 +522,6 @@
 	path = DataTypes
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DataTypes.git
 	branch = .
-[submodule "DataValueImplementations"]
-	path = DataValueImplementations
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DataValueImplementations.git
-	branch = .
-[submodule "DataValuesCommon"]
-	path = DataValuesCommon
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DataValuesCommon.git
-	branch = .
-[submodule "DataValuesInterfaces"]
-	path = DataValuesInterfaces
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DataValuesInterfaces.git
-	branch = .
-[submodule "DataValuesJavascript"]
-	path = DataValuesJavascript
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DataValuesJavascript.git
-	branch = .
 [submodule "DebugMode"]
 	path = DebugMode
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DebugMode.git
