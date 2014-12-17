@@ -522,22 +522,6 @@
 	path = DataTypes
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DataTypes.git
 	branch = .
-[submodule "DataValueImplementations"]
-	path = DataValueImplementations
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DataValueImplementations.git
-	branch = .
-[submodule "DataValuesCommon"]
-	path = DataValuesCommon
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DataValuesCommon.git
-	branch = .
-[submodule "DataValuesInterfaces"]
-	path = DataValuesInterfaces
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DataValuesInterfaces.git
-	branch = .
-[submodule "DataValuesJavascript"]
-	path = DataValuesJavascript
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DataValuesJavascript.git
-	branch = .
 [submodule "DebugMode"]
 	path = DebugMode
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DebugMode.git
@@ -717,10 +701,6 @@
 [submodule "ExtraLanguageLink"]
 	path = ExtraLanguageLink
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ExtraLanguageLink.git
-	branch = .
-[submodule "FacebookOpenGraph"]
-	path = FacebookOpenGraph
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/FacebookOpenGraph.git
 	branch = .
 [submodule "FanBoxes"]
 	path = FanBoxes
@@ -2101,6 +2081,10 @@
 [submodule "SemanticWebBrowser"]
 	path = SemanticWebBrowser
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticWebBrowser.git
+	branch = .
+[submodule "Sentry"]
+	path = Sentry
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Sentry.git
 	branch = .
 [submodule "SharedCssJs"]
 	path = SharedCssJs
