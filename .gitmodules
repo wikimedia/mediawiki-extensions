@@ -2082,6 +2082,10 @@
 	path = SemanticWebBrowser
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticWebBrowser.git
 	branch = .
+[submodule "Sentry"]
+	path = Sentry
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Sentry.git
+	branch = .
 [submodule "SharedCssJs"]
 	path = SharedCssJs
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SharedCssJs.git
