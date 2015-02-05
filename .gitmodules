@@ -2814,3 +2814,59 @@
 	path = wikihiero
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/wikihiero.git
 	branch = .
+[submodule "Buggy"]
+	path = Buggy
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Buggy.git
+	branch = .
+[submodule "ContributorsAddon"]
+	path = ContributorsAddon
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ContributorsAddon.git
+	branch = .
+[submodule "GitHub"]
+	path = GitHub
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GitHub.git
+	branch = .
+[submodule "Html2Wiki"]
+	path = Html2Wiki
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Html2Wiki.git
+	branch = .
+[submodule "Link_Attributes"]
+	path = Link_Attributes
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Link_Attributes.git
+	branch = .
+[submodule "MultiBoilerplate"]
+	path = MultiBoilerplate
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MultiBoilerplate.git
+	branch = .
+[submodule "OOUIPlayground"]
+	path = OOUIPlayground
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/OOUIPlayground.git
+	branch = .
+[submodule "PaginateText"]
+	path = PaginateText
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PaginateText.git
+	branch = .
+[submodule "RestBaseUpdateJobs"]
+	path = RestBaseUpdateJobs
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/RestBaseUpdateJobs.git
+	branch = .
+[submodule "SemanticBreadcrumbLinks"]
+	path = SemanticBreadcrumbLinks
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticBreadcrumbLinks.git
+	branch = .
+[submodule "SemanticInterlanguageLinks"]
+	path = SemanticInterlanguageLinks
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticInterlanguageLinks.git
+	branch = .
+[submodule "VikiTitleIcon"]
+	path = VikiTitleIcon
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/VikiTitleIcon.git
+	branch = .
+[submodule "WikibaseView"]
+	path = WikibaseView
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseView.git
+	branch = .
+[submodule "WikidataQuality"]
+	path = WikidataQuality
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikidataQuality.git
+	branch = .
