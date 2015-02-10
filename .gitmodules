@@ -790,6 +790,10 @@
 	path = Gadgets
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Gadgets.git
 	branch = .
+[submodule "Gather"]
+	path = Gather
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Gather.git
+	branch = .
 [submodule "Genderize"]
 	path = Genderize
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Genderize.git
