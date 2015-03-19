@@ -250,6 +250,10 @@
 	path = BreadCrumbs2
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/BreadCrumbs2.git
 	branch = .
+[submodule "Buggy"]
+	path = Buggy
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Buggy.git
+	branch = .
 [submodule "CSS"]
 	path = CSS
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CSS.git
@@ -469,6 +473,10 @@
 [submodule "Contributors"]
 	path = Contributors
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Contributors.git
+	branch = .
+[submodule "ContributorsAddon"]
+	path = ContributorsAddon
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ContributorsAddon.git
 	branch = .
 [submodule "ConventionExtension"]
 	path = ConventionExtension
@@ -710,6 +718,10 @@
 	path = Farmer
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Farmer.git
 	branch = .
+[submodule "Favorites"]
+	path = Favorites
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Favorites.git
+	branch = .
 [submodule "FeaturedFeeds"]
 	path = FeaturedFeeds
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/FeaturedFeeds.git
@@ -817,6 +829,10 @@
 [submodule "Git2Pages"]
 	path = Git2Pages
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Git2Pages.git
+	branch = .
+[submodule "GitHub"]
+	path = GitHub
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GitHub.git
 	branch = .
 [submodule "Gitweb"]
 	path = Gitweb
@@ -978,6 +994,10 @@
 	path = Hovergallery
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Hovergallery.git
 	branch = .
+[submodule "Html2Wiki"]
+	path = Html2Wiki
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Html2Wiki.git
+	branch = .
 [submodule "I18nTags"]
 	path = I18nTags
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/I18nTags.git
@@ -1094,6 +1114,10 @@
 	path = LastModified
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/LastModified.git
 	branch = .
+[submodule "LastUserLogin"]
+	path = LastUserLogin
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/LastUserLogin.git
+	branch = .
 [submodule "LdapAuthentication"]
 	path = LdapAuthentication
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/LdapAuthentication.git
@@ -1129,6 +1153,14 @@
 [submodule "LinkSuggest"]
 	path = LinkSuggest
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/LinkSuggest.git
+	branch = .
+[submodule "LinkSuggest2"]
+	path = LinkSuggest2
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/LinkSuggest2.git
+	branch = .
+[submodule "Link_Attributes"]
+	path = Link_Attributes
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Link_Attributes.git
 	branch = .
 [submodule "LinkedWiki"]
 	path = LinkedWiki
@@ -1189,6 +1221,10 @@
 [submodule "MWSearch"]
 	path = MWSearch
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MWSearch.git
+	branch = .
+[submodule "MadLib"]
+	path = MadLib
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MadLib.git
 	branch = .
 [submodule "MagicNoCache"]
 	path = MagicNoCache
@@ -1290,6 +1326,10 @@
 	path = Mpdf
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Mpdf.git
 	branch = .
+[submodule "MsCalendar"]
+	path = MsCalendar
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MsCalendar.git
+	branch = .
 [submodule "MsCatSelect"]
 	path = MsCatSelect
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MsCatSelect.git
@@ -1309,6 +1349,10 @@
 [submodule "MsWikiEditor"]
 	path = MsWikiEditor
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MsWikiEditor.git
+	branch = .
+[submodule "MultiBoilerplate"]
+	path = MultiBoilerplate
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MultiBoilerplate.git
 	branch = .
 [submodule "MultiMaps"]
 	path = MultiMaps
@@ -1454,6 +1498,10 @@
 	path = OAuthAuthentication
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/OAuthAuthentication.git
 	branch = .
+[submodule "OOUIPlayground"]
+	path = OOUIPlayground
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/OOUIPlayground.git
+	branch = .
 [submodule "OdbcDatabase"]
 	path = OdbcDatabase
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/OdbcDatabase.git
@@ -1573,6 +1621,10 @@
 [submodule "PagesList"]
 	path = PagesList
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PagesList.git
+	branch = .
+[submodule "PaginateText"]
+	path = PaginateText
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PaginateText.git
 	branch = .
 [submodule "PanScroll"]
 	path = PanScroll
@@ -1870,6 +1922,10 @@
 	path = ReplaceText
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ReplaceText.git
 	branch = .
+[submodule "RestBaseUpdateJobs"]
+	path = RestBaseUpdateJobs
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/RestBaseUpdateJobs.git
+	branch = .
 [submodule "RevealEmail"]
 	path = RevealEmail
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/RevealEmail.git
@@ -1958,6 +2014,10 @@
 	path = SemanticACL
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticACL.git
 	branch = .
+[submodule "SemanticBreadcrumbLinks"]
+	path = SemanticBreadcrumbLinks
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticBreadcrumbLinks.git
+	branch = .
 [submodule "SemanticBundle"]
 	path = SemanticBundle
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticBundle.git
@@ -2018,6 +2078,10 @@
 	path = SemanticImageInput
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticImageInput.git
 	branch = .
+[submodule "SemanticInterlanguageLinks"]
+	path = SemanticInterlanguageLinks
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticInterlanguageLinks.git
+	branch = .
 [submodule "SemanticInternalObjects"]
 	path = SemanticInternalObjects
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticInternalObjects.git
@@ -2029,6 +2093,10 @@
 [submodule "SemanticMediaWiki"]
 	path = SemanticMediaWiki
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticMediaWiki.git
+	branch = .
+[submodule "SemanticMetaTags"]
+	path = SemanticMetaTags
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticMetaTags.git
 	branch = .
 [submodule "SemanticPageMaker"]
 	path = SemanticPageMaker
@@ -2554,6 +2622,10 @@
 	path = VikiSemanticTitle
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/VikiSemanticTitle.git
 	branch = .
+[submodule "VikiTitleIcon"]
+	path = VikiTitleIcon
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/VikiTitleIcon.git
+	branch = .
 [submodule "Vine"]
 	path = Vine
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Vine.git
@@ -2561,6 +2633,10 @@
 [submodule "VipsScaler"]
 	path = VipsScaler
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/VipsScaler.git
+	branch = .
+[submodule "VirtualKeyboard"]
+	path = VirtualKeyboard
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/VirtualKeyboard.git
 	branch = .
 [submodule "VisualChat"]
 	path = VisualChat
@@ -2698,13 +2774,13 @@
 	path = WikibaseQuery
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseQuery.git
 	branch = .
-[submodule "WikibaseRepository"]
-	path = WikibaseRepository
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseRepository.git
-	branch = .
 [submodule "WikibaseSolr"]
 	path = WikibaseSolr
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseSolr.git
+	branch = .
+[submodule "WikibaseView"]
+	path = WikibaseView
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseView.git
 	branch = .
 [submodule "Wikidata"]
 	path = Wikidata
@@ -2713,6 +2789,10 @@
 [submodule "WikidataEntitySuggester"]
 	path = WikidataEntitySuggester
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikidataEntitySuggester.git
+	branch = .
+[submodule "WikidataQuality"]
+	path = WikidataQuality
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikidataQuality.git
 	branch = .
 [submodule "Wikilog"]
 	path = Wikilog
@@ -2817,60 +2897,4 @@
 [submodule "wikihiero"]
 	path = wikihiero
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/wikihiero.git
-	branch = .
-[submodule "Buggy"]
-	path = Buggy
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Buggy.git
-	branch = .
-[submodule "ContributorsAddon"]
-	path = ContributorsAddon
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ContributorsAddon.git
-	branch = .
-[submodule "GitHub"]
-	path = GitHub
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GitHub.git
-	branch = .
-[submodule "Html2Wiki"]
-	path = Html2Wiki
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Html2Wiki.git
-	branch = .
-[submodule "Link_Attributes"]
-	path = Link_Attributes
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Link_Attributes.git
-	branch = .
-[submodule "MultiBoilerplate"]
-	path = MultiBoilerplate
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MultiBoilerplate.git
-	branch = .
-[submodule "OOUIPlayground"]
-	path = OOUIPlayground
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/OOUIPlayground.git
-	branch = .
-[submodule "PaginateText"]
-	path = PaginateText
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PaginateText.git
-	branch = .
-[submodule "RestBaseUpdateJobs"]
-	path = RestBaseUpdateJobs
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/RestBaseUpdateJobs.git
-	branch = .
-[submodule "SemanticBreadcrumbLinks"]
-	path = SemanticBreadcrumbLinks
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticBreadcrumbLinks.git
-	branch = .
-[submodule "SemanticInterlanguageLinks"]
-	path = SemanticInterlanguageLinks
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticInterlanguageLinks.git
-	branch = .
-[submodule "VikiTitleIcon"]
-	path = VikiTitleIcon
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/VikiTitleIcon.git
-	branch = .
-[submodule "WikibaseView"]
-	path = WikibaseView
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseView.git
-	branch = .
-[submodule "WikidataQuality"]
-	path = WikidataQuality
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikidataQuality.git
 	branch = .
