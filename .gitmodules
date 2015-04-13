@@ -954,10 +954,6 @@
 	path = HTMLets
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/HTMLets.git
 	branch = .
-[submodule "Hanp"]
-	path = Hanp
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Hanp.git
-	branch = .
 [submodule "HashTables"]
 	path = HashTables
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/HashTables.git
