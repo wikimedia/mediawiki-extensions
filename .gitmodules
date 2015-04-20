@@ -1022,6 +1022,10 @@
 	path = ImageTagging
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ImageTagging.git
 	branch = .
+[submodule "ImportFreeImages"]
+	path = ImportFreeImages
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ImportFreeImages.git
+	branch = .
 [submodule "IndexFunction"]
 	path = IndexFunction
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/IndexFunction.git
@@ -1249,6 +1253,10 @@
 [submodule "MarkAsHelpful"]
 	path = MarkAsHelpful
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MarkAsHelpful.git
+	branch = .
+[submodule "MassAction"]
+	path = MassAction
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MassAction.git
 	branch = .
 [submodule "MassEditRegex"]
 	path = MassEditRegex
@@ -1866,6 +1874,10 @@
 	path = Ratings
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Ratings.git
 	branch = .
+[submodule "RawImageHandler"]
+	path = RawImageHandler
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/RawImageHandler.git
+	branch = .
 [submodule "ReaderFeedback"]
 	path = ReaderFeedback
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ReaderFeedback.git
@@ -1945,6 +1957,10 @@
 [submodule "SacredText"]
 	path = SacredText
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SacredText.git
+	branch = .
+[submodule "SafeDelete"]
+	path = SafeDelete
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SafeDelete.git
 	branch = .
 [submodule "SandboxLink"]
 	path = SandboxLink
@@ -2158,6 +2174,10 @@
 	path = ShoutBox
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ShoutBox.git
 	branch = .
+[submodule "ShoutWikiAPI"]
+	path = ShoutWikiAPI
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ShoutWikiAPI.git
+	branch = .
 [submodule "ShoutWikiAds"]
 	path = ShoutWikiAds
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ShoutWikiAds.git
@@ -2261,6 +2281,10 @@
 [submodule "SpamBlacklist"]
 	path = SpamBlacklist
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SpamBlacklist.git
+	branch = .
+[submodule "SpamDiffTool"]
+	path = SpamDiffTool
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SpamDiffTool.git
 	branch = .
 [submodule "Spark"]
 	path = Spark
@@ -2770,6 +2794,10 @@
 	path = WikibaseQuery
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseQuery.git
 	branch = .
+[submodule "WikibaseRepository"]
+	path = WikibaseRepository
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseRepository.git
+	branch = .
 [submodule "WikibaseSolr"]
 	path = WikibaseSolr
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseSolr.git
@@ -2786,9 +2814,21 @@
 	path = WikidataEntitySuggester
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikidataEntitySuggester.git
 	branch = .
+[submodule "WikidataPageBanner"]
+	path = WikidataPageBanner
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikidataPageBanner.git
+	branch = .
 [submodule "WikidataQuality"]
 	path = WikidataQuality
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikidataQuality.git
+	branch = .
+[submodule "WikidataQualityConstraints"]
+	path = WikidataQualityConstraints
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikidataQualityConstraints.git
+	branch = .
+[submodule "WikidataQualityExternalValidation"]
+	path = WikidataQualityExternalValidation
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikidataQualityExternalValidation.git
 	branch = .
 [submodule "Wikilog"]
 	path = Wikilog
