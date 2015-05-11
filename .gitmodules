@@ -746,6 +746,10 @@
 	path = FlaggedRevs
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/FlaggedRevs.git
 	branch = .
+[submodule "FlickrAPI"]
+	path = FlickrAPI
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/FlickrAPI.git
+	branch = .
 [submodule "Flow"]
 	path = Flow
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Flow.git
@@ -1158,6 +1162,10 @@
 	path = LinkSuggest2
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/LinkSuggest2.git
 	branch = .
+[submodule "LinkTarget"]
+	path = LinkTarget
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/LinkTarget.git
+	branch = .
 [submodule "Link_Attributes"]
 	path = Link_Attributes
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Link_Attributes.git
@@ -1265,6 +1273,10 @@
 [submodule "MassMessage"]
 	path = MassMessage
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MassMessage.git
+	branch = .
+[submodule "MassMessageEmail"]
+	path = MassMessageEmail
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MassMessageEmail.git
 	branch = .
 [submodule "Math"]
 	path = Math
@@ -1501,6 +1513,10 @@
 [submodule "OAuthAuthentication"]
 	path = OAuthAuthentication
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/OAuthAuthentication.git
+	branch = .
+[submodule "OOJsUIAjaxLogin"]
+	path = OOJsUIAjaxLogin
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/OOJsUIAjaxLogin.git
 	branch = .
 [submodule "OOUIPlayground"]
 	path = OOUIPlayground
@@ -1766,6 +1782,10 @@
 	path = Premoderation
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Premoderation.git
 	branch = .
+[submodule "Prezi"]
+	path = Prezi
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Prezi.git
+	branch = .
 [submodule "PrivateDomains"]
 	path = PrivateDomains
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PrivateDomains.git
@@ -1945,6 +1965,10 @@
 [submodule "RightFunctions"]
 	path = RightFunctions
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/RightFunctions.git
+	branch = .
+[submodule "SMWEnrich"]
+	path = SMWEnrich
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SMWEnrich.git
 	branch = .
 [submodule "SSLClientAuthentication"]
 	path = SSLClientAuthentication
@@ -2317,6 +2341,10 @@
 [submodule "StaffEdits"]
 	path = StaffEdits
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/StaffEdits.git
+	branch = .
+[submodule "StaffPowers"]
+	path = StaffPowers
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/StaffPowers.git
 	branch = .
 [submodule "StalkerLog"]
 	path = StalkerLog
