@@ -150,6 +150,10 @@
 	path = ArticleIndex
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ArticleIndex.git
 	branch = .
+[submodule "ArticlePlaceholder"]
+	path = ArticlePlaceholder
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ArticlePlaceholder.git
+	branch = .
 [submodule "AssertEdit"]
 	path = AssertEdit
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/AssertEdit.git
@@ -1566,6 +1570,10 @@
 	path = OOUIPlayground
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/OOUIPlayground.git
 	branch = .
+[submodule "ORES"]
+	path = ORES
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ORES.git
+	branch = .
 [submodule "OdbcDatabase"]
 	path = OdbcDatabase
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/OdbcDatabase.git
@@ -1889,6 +1897,10 @@
 [submodule "QuickSearchLookup"]
 	path = QuickSearchLookup
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/QuickSearchLookup.git
+	branch = .
+[submodule "QuickSurveys"]
+	path = QuickSurveys
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/QuickSurveys.git
 	branch = .
 [submodule "Quiz"]
 	path = Quiz
