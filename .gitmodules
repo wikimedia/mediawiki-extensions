@@ -546,10 +546,6 @@
 	path = DataTransfer
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DataTransfer.git
 	branch = .
-[submodule "DataTypes"]
-	path = DataTypes
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DataTypes.git
-	branch = .
 [submodule "DateDiff"]
 	path = DateDiff
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DateDiff.git
