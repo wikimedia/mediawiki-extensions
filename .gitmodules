@@ -3074,3 +3074,33 @@
 	path = wikihiero
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/wikihiero.git
 	branch = .
+[submodule "AddHTMLMetaAndTitle"]
+	path = AddHTMLMetaAndTitle
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/AddHTMLMetaAndTitle.git
+[submodule "CookiePolicy"]
+	path = CookiePolicy
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CookiePolicy.git
+[submodule "DeletePagesForGood"]
+	path = DeletePagesForGood
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DeletePagesForGood.git
+[submodule "GPGMail"]
+	path = GPGMail
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GPGMail.git
+[submodule "ImportArticles"]
+	path = ImportArticles
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ImportArticles.git
+[submodule "Latch"]
+	path = Latch
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Latch.git
+[submodule "Patroller"]
+	path = Patroller
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Patroller.git
+[submodule "PipeEscape"]
+	path = PipeEscape
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PipeEscape.git
+[submodule "Reflect"]
+	path = Reflect
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Reflect.git
+[submodule "StatCounter"]
+	path = StatCounter
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/StatCounter.git
