@@ -3104,3 +3104,6 @@
 [submodule "StatCounter"]
 	path = StatCounter
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/StatCounter.git
+[submodule "MP3MediaHandler"]
+	path = MP3MediaHandler
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/MP3MediaHandler.git
