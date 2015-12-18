@@ -1586,6 +1586,10 @@
 	path = Nostalgia
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Nostalgia.git
 	branch = .
+[submodule "NotebookViewer"]
+	path = NotebookViewer
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/NotebookViewer.git
+	branch = .
 [submodule "Nuke"]
 	path = Nuke
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Nuke.git
@@ -1713,6 +1717,10 @@
 [submodule "PHPExcel"]
 	path = PHPExcel
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PHPExcel.git
+	branch = .
+[submodule "PageAssessments"]
+	path = PageAssessments
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PageAssessments.git
 	branch = .
 [submodule "PageBlock"]
 	path = PageBlock
@@ -2966,6 +2974,10 @@
 	path = WikiGrok
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikiGrok.git
 	branch = .
+[submodule "WikiLabels"]
+	path = WikiLabels
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikiLabels.git
+	branch = .
 [submodule "WikiLexicalData"]
 	path = WikiLexicalData
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikiLexicalData.git
@@ -3182,12 +3194,3 @@
 	path = wikihiero
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/wikihiero.git
 	branch = .
-[submodule "NotebookViewer"]
-	path = NotebookViewer
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/NotebookViewer.git
-[submodule "PageAssessments"]
-	path = PageAssessments
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PageAssessments.git
-[submodule "WikiLabels"]
-	path = WikiLabels
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikiLabels.git
