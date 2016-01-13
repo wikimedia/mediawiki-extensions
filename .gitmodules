@@ -402,6 +402,10 @@
 	path = CodeReview
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CodeReview.git
 	branch = .
+[submodule "CollaborationKit"]
+	path = CollaborationKit
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CollaborationKit.git
+	branch = .
 [submodule "CollapsibleVector"]
 	path = CollapsibleVector
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CollapsibleVector.git
@@ -1874,6 +1878,10 @@
 	path = PictureGame
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PictureGame.git
 	branch = .
+[submodule "PipVideoJs"]
+	path = PipVideoJs
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PipVideoJs.git
+	branch = .
 [submodule "PipeEscape"]
 	path = PipeEscape
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PipeEscape.git
@@ -2502,6 +2510,10 @@
 	path = SpellingApi
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SpellingApi.git
 	branch = .
+[submodule "SpellingDictionary"]
+	path = SpellingDictionary
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SpellingDictionary.git
+	branch = .
 [submodule "SphinxSearch"]
 	path = SphinxSearch
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SphinxSearch.git
@@ -3109,6 +3121,10 @@
 [submodule "WikimediaMessages"]
 	path = WikimediaMessages
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikimediaMessages.git
+	branch = .
+[submodule "WikimediaPageViewInfo"]
+	path = WikimediaPageViewInfo
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikimediaPageViewInfo.git
 	branch = .
 [submodule "WikimediaShopLink"]
 	path = WikimediaShopLink
