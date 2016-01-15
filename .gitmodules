@@ -2606,10 +2606,6 @@
 	path = SyntaxHighlight_GeSHi
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SyntaxHighlight_GeSHi.git
 	branch = .
-[submodule "SyntaxHighlight_Pygments"]
-	path = SyntaxHighlight_Pygments
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SyntaxHighlight_Pygments.git
-	branch = .
 [submodule "SyntaxHighlighter"]
 	path = SyntaxHighlighter
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SyntaxHighlighter.git
@@ -2841,10 +2837,6 @@
 [submodule "Validator"]
 	path = Validator
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Validator.git
-	branch = .
-[submodule "ValueView"]
-	path = ValueView
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ValueView.git
 	branch = .
 [submodule "Variables"]
 	path = Variables
@@ -3085,18 +3077,6 @@
 [submodule "WikidataPageBanner"]
 	path = WikidataPageBanner
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikidataPageBanner.git
-	branch = .
-[submodule "WikidataQuality"]
-	path = WikidataQuality
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikidataQuality.git
-	branch = .
-[submodule "WikidataQualityConstraints"]
-	path = WikidataQualityConstraints
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikidataQualityConstraints.git
-	branch = .
-[submodule "WikidataQualityExternalValidation"]
-	path = WikidataQualityExternalValidation
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikidataQualityExternalValidation.git
 	branch = .
 [submodule "Wikilog"]
 	path = Wikilog
