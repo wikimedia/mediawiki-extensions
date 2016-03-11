@@ -194,9 +194,17 @@
 	path = BSExtendedSearch
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/BSExtendedSearch.git
 	branch = .
+[submodule "BSSMWConnector"]
+	path = BSSMWConnector
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/BSSMWConnector.git
+	branch = .
 [submodule "Babel"]
 	path = Babel
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Babel.git
+	branch = .
+[submodule "BaseHooks"]
+	path = BaseHooks
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/BaseHooks.git
 	branch = .
 [submodule "BatchUserRights"]
 	path = BatchUserRights
@@ -558,6 +566,10 @@
 	path = CustomUserSignup
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CustomUserSignup.git
 	branch = .
+[submodule "D3Loader"]
+	path = D3Loader
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/D3Loader.git
+	branch = .
 [submodule "DPLforum"]
 	path = DPLforum
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DPLforum.git
@@ -717,6 +729,10 @@
 [submodule "EmailCapture"]
 	path = EmailCapture
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/EmailCapture.git
+	branch = .
+[submodule "EmailDiff"]
+	path = EmailDiff
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/EmailDiff.git
 	branch = .
 [submodule "EnhanceContactForm"]
 	path = EnhanceContactForm
@@ -1306,6 +1322,10 @@
 	path = LogEntry
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/LogEntry.git
 	branch = .
+[submodule "LoginNotify"]
+	path = LoginNotify
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/LoginNotify.git
+	branch = .
 [submodule "LogoFunctions"]
 	path = LogoFunctions
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/LogoFunctions.git
@@ -1594,6 +1614,10 @@
 	path = NotebookViewer
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/NotebookViewer.git
 	branch = .
+[submodule "Notifications"]
+	path = Notifications
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Notifications.git
+	branch = .
 [submodule "Nuke"]
 	path = Nuke
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Nuke.git
@@ -1689,6 +1713,10 @@
 [submodule "OpenIDConnect"]
 	path = OpenIDConnect
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/OpenIDConnect.git
+	branch = .
+[submodule "OpenLayers"]
+	path = OpenLayers
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/OpenLayers.git
 	branch = .
 [submodule "OpenSearchXml"]
 	path = OpenSearchXml
@@ -1913,6 +1941,10 @@
 [submodule "PoolCounter"]
 	path = PoolCounter
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PoolCounter.git
+	branch = .
+[submodule "PopcornEditor"]
+	path = PopcornEditor
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PopcornEditor.git
 	branch = .
 [submodule "PopupPages"]
 	path = PopupPages
@@ -2786,6 +2818,10 @@
 	path = UploadWizard
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/UploadWizard.git
 	branch = .
+[submodule "UploadsLink"]
+	path = UploadsLink
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/UploadsLink.git
+	branch = .
 [submodule "UrlGetParameters"]
 	path = UrlGetParameters
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/UrlGetParameters.git
@@ -2817,6 +2853,10 @@
 [submodule "UserOptionStats"]
 	path = UserOptionStats
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/UserOptionStats.git
+	branch = .
+[submodule "UserPageEditProtection"]
+	path = UserPageEditProtection
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/UserPageEditProtection.git
 	branch = .
 [submodule "UserPageViewTracker"]
 	path = UserPageViewTracker
@@ -3029,6 +3069,10 @@
 [submodule "WikibaseLib"]
 	path = WikibaseLib
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseLib.git
+	branch = .
+[submodule "WikibaseMediaInfo"]
+	path = WikibaseMediaInfo
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseMediaInfo.git
 	branch = .
 [submodule "WikibaseMobile"]
 	path = WikibaseMobile
