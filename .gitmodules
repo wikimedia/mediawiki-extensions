@@ -78,10 +78,6 @@
 	path = AdvancedMeta
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/AdvancedMeta.git
 	branch = .
-[submodule "Agora"]
-	path = Agora
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Agora.git
-	branch = .
 [submodule "AjaxLogin"]
 	path = AjaxLogin
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/AjaxLogin.git
@@ -118,14 +114,6 @@
 	path = ApiFeatureUsage
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ApiFeatureUsage.git
 	branch = .
-[submodule "ApiSVGProxy"]
-	path = ApiSVGProxy
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ApiSVGProxy.git
-	branch = .
-[submodule "ApiSandbox"]
-	path = ApiSandbox
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ApiSandbox.git
-	branch = .
 [submodule "ApprovedRevs"]
 	path = ApprovedRevs
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ApprovedRevs.git
@@ -137,10 +125,6 @@
 [submodule "ArticleComments"]
 	path = ArticleComments
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ArticleComments.git
-	branch = .
-[submodule "ArticleCreationWorkflow"]
-	path = ArticleCreationWorkflow
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ArticleCreationWorkflow.git
 	branch = .
 [submodule "ArticleFeedback"]
 	path = ArticleFeedback
@@ -157,10 +141,6 @@
 [submodule "ArticlePlaceholder"]
 	path = ArticlePlaceholder
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ArticlePlaceholder.git
-	branch = .
-[submodule "AssertEdit"]
-	path = AssertEdit
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/AssertEdit.git
 	branch = .
 [submodule "Auth_remoteuser"]
 	path = Auth_remoteuser
@@ -518,10 +498,6 @@
 	path = ContributorsAddon
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ContributorsAddon.git
 	branch = .
-[submodule "ConventionExtension"]
-	path = ConventionExtension
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ConventionExtension.git
-	branch = .
 [submodule "Convert2Wiki"]
 	path = Convert2Wiki
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Convert2Wiki.git
@@ -618,10 +594,6 @@
 	path = Diagnosis
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Diagnosis.git
 	branch = .
-[submodule "Dice"]
-	path = Dice
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Dice.git
-	branch = .
 [submodule "DidYouKnow"]
 	path = DidYouKnow
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DidYouKnow.git
@@ -685,10 +657,6 @@
 [submodule "DynamicSidebar"]
 	path = DynamicSidebar
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DynamicSidebar.git
-	branch = .
-[submodule "E3Experiments"]
-	path = E3Experiments
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/E3Experiments.git
 	branch = .
 [submodule "Echo"]
 	path = Echo
@@ -757,10 +725,6 @@
 [submodule "EventLogging"]
 	path = EventLogging
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/EventLogging.git
-	branch = .
-[submodule "ExpandTemplates"]
-	path = ExpandTemplates
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ExpandTemplates.git
 	branch = .
 [submodule "ExtTab"]
 	path = ExtTab
@@ -1242,10 +1206,6 @@
 	path = LdapAuthentication
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/LdapAuthentication.git
 	branch = .
-[submodule "Less"]
-	path = Less
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Less.git
-	branch = .
 [submodule "LifeWeb"]
 	path = LifeWeb
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/LifeWeb.git
@@ -1257,10 +1217,6 @@
 [submodule "LightweightRDFa"]
 	path = LightweightRDFa
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/LightweightRDFa.git
-	branch = .
-[submodule "Limn"]
-	path = Limn
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Limn.git
 	branch = .
 [submodule "Lingo"]
 	path = Lingo
@@ -1542,10 +1498,6 @@
 	path = NamespaceRelations
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/NamespaceRelations.git
 	branch = .
-[submodule "Narayam"]
-	path = Narayam
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Narayam.git
-	branch = .
 [submodule "NaturalLanguageList"]
 	path = NaturalLanguageList
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/NaturalLanguageList.git
@@ -1605,10 +1557,6 @@
 [submodule "Nonlinear"]
 	path = Nonlinear
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Nonlinear.git
-	branch = .
-[submodule "Nostalgia"]
-	path = Nostalgia
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Nostalgia.git
 	branch = .
 [submodule "NotebookViewer"]
 	path = NotebookViewer
@@ -1674,10 +1622,6 @@
 	path = OdbcDatabase
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/OdbcDatabase.git
 	branch = .
-[submodule "Offline"]
-	path = Offline
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Offline.git
-	branch = .
 [submodule "OfflineImportLexicon"]
 	path = OfflineImportLexicon
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/OfflineImportLexicon.git
@@ -1718,10 +1662,6 @@
 	path = OpenLayers
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/OpenLayers.git
 	branch = .
-[submodule "OpenSearchXml"]
-	path = OpenSearchXml
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/OpenSearchXml.git
-	branch = .
 [submodule "OpenStackManager"]
 	path = OpenStackManager
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/OpenStackManager.git
@@ -1733,10 +1673,6 @@
 [submodule "OracleTextSearch"]
 	path = OracleTextSearch
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/OracleTextSearch.git
-	branch = .
-[submodule "Oversight"]
-	path = Oversight
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Oversight.git
 	branch = .
 [submodule "PCRGUIInserts"]
 	path = PCRGUIInserts
@@ -1990,10 +1926,6 @@
 	path = ProtectSite
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ProtectSite.git
 	branch = .
-[submodule "ProxyListDb"]
-	path = ProxyListDb
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ProxyListDb.git
-	branch = .
 [submodule "PubSubHubbub"]
 	path = PubSubHubbub
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PubSubHubbub.git
@@ -2077,10 +2009,6 @@
 [submodule "RandomInCategory"]
 	path = RandomInCategory
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/RandomInCategory.git
-	branch = .
-[submodule "RandomRootPage"]
-	path = RandomRootPage
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/RandomRootPage.git
 	branch = .
 [submodule "RandomUsersWithAvatars"]
 	path = RandomUsersWithAvatars
@@ -2586,10 +2514,6 @@
 	path = StopForumSpam
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/StopForumSpam.git
 	branch = .
-[submodule "StrategyWiki"]
-	path = StrategyWiki
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/StrategyWiki.git
-	branch = .
 [submodule "StringFunctionsEscaped"]
 	path = StringFunctionsEscaped
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/StringFunctionsEscaped.git
@@ -2637,10 +2561,6 @@
 [submodule "SyntaxHighlight_GeSHi"]
 	path = SyntaxHighlight_GeSHi
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SyntaxHighlight_GeSHi.git
-	branch = .
-[submodule "SyntaxHighlighter"]
-	path = SyntaxHighlighter
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SyntaxHighlighter.git
 	branch = .
 [submodule "Tabber"]
 	path = Tabber
@@ -2830,10 +2750,6 @@
 	path = UrlShortener
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/UrlShortener.git
 	branch = .
-[submodule "UserDailyContribs"]
-	path = UserDailyContribs
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/UserDailyContribs.git
-	branch = .
 [submodule "UserExport"]
 	path = UserExport
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/UserExport.git
@@ -2961,10 +2877,6 @@
 [submodule "WebChat"]
 	path = WebChat
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WebChat.git
-	branch = .
-[submodule "WebFonts"]
-	path = WebFonts
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WebFonts.git
 	branch = .
 [submodule "WebPlatformAuth"]
 	path = WebPlatformAuth
@@ -3098,10 +3010,6 @@
 	path = WikibaseRepository
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseRepository.git
 	branch = .
-[submodule "WikibaseSolr"]
-	path = WikibaseSolr
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseSolr.git
-	branch = .
 [submodule "WikibaseView"]
 	path = WikibaseView
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseView.git
@@ -3221,10 +3129,6 @@
 [submodule "normal"]
 	path = normal
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/normal.git
-	branch = .
-[submodule "skins"]
-	path = skins
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/skins.git
 	branch = .
 [submodule "timeline"]
 	path = timeline
