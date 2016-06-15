@@ -2090,6 +2090,10 @@
 	path = RevisionCommentSupplement
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/RevisionCommentSupplement.git
 	branch = .
+[submodule "RevisionSlider"]
+	path = RevisionSlider
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/RevisionSlider.git
+	branch = .
 [submodule "RightFunctions"]
 	path = RightFunctions
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/RightFunctions.git
