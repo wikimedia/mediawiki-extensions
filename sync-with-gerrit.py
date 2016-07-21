@@ -25,6 +25,7 @@ def main():
     # strip out subprojects in extensions
     projects = json.loads(projects)
     log.info("Checking modules")
+    gitmodules = []
     for p in sorted(projects.iterkeys()):
         basename = project_basename(p)
         if '/' in basename:
@@ -32,9 +33,10 @@ def main():
         desc = projects.get(p).get('description')
 
         if desc != None and any(word in desc.decode('utf-8').lower() for word in ['archived', 'inactive', 'obsolete']):
-            print [p, ' skipping, obsolete or similar']
+            print "".join([p, 'skipping, obsolete or similar'])
             continue
 
+        gitmodules.append(p)
         if not os.path.isdir(basename):
             log.info("Adding submodule for %s" % p)
             try:
@@ -44,7 +46,7 @@ def main():
 
     log.info("Rewriting .gitmodules")
     f = open('.gitmodules', 'w')
-    f.write(generate_gitmodules(projects))
+    f.write(generate_gitmodules(gitmodules))
     f.close()
 
     log.info("Review change and submit!\nDone")
