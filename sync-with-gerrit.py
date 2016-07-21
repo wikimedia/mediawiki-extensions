@@ -3,6 +3,7 @@
 import logging
 import os.path
 import subprocess
+import json
 
 # Configuration
 basepath = "mediawiki/extensions/"
@@ -19,16 +20,21 @@ log = logging.getLogger()
 
 def main():
     log.info("Fetching projects from gerrit (prefix: %s)" % basepath)
-    projects = gerrit('ls-projects', ['-p', basepath]).splitlines()
+    projects = gerrit('ls-projects', ['-p', basepath, '-d', '--format', 'json'])
 
     # strip out subprojects in extensions
-    projects = [p for p in projects if '/' not in project_basename(p)]
-
-    projects.sort()
-
+    projects = json.loads(projects)
     log.info("Checking modules")
-    for p in projects:
+    for p in sorted(projects.iterkeys()):
         basename = project_basename(p)
+        if '/' in basename:
+            continue
+        desc = projects.get(p).get('description')
+
+        if desc != None and any(word in desc.decode('utf-8').lower() for word in ['archived', 'inactive', 'obsolete']):
+            print [p, ' skipping, obsolete or similar']
+            continue
+
         if not os.path.isdir(basename):
             log.info("Adding submodule for %s" % p)
             try:
