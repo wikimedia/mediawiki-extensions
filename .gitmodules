@@ -3190,3 +3190,6 @@
 	path = wikihiero
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/wikihiero.git
 	branch = .
+[submodule "ChangeAuthor"]
+	path = ChangeAuthor
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ChangeAuthor.git
