@@ -658,6 +658,10 @@
 	path = EditAccount
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/EditAccount.git
 	branch = .
+[submodule "EditOwn"]
+	path = EditOwn
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/EditOwn.git
+	branch = .
 [submodule "EditPageTracking"]
 	path = EditPageTracking
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/EditPageTracking.git
