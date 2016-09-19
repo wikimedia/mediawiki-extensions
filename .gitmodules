@@ -382,6 +382,10 @@
 	path = Cognate
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Cognate.git
 	branch = .
+[submodule "CookieWarning"]
+	path = CookieWarning
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CookieWarning.git
+	branch = .
 [submodule "CollaborationKit"]
 	path = CollaborationKit
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/CollaborationKit.git
