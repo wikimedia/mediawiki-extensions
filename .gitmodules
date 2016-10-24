@@ -1774,6 +1774,10 @@
 	path = PageDisqus
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PageDisqus.git
 	branch = .
+[submodule "PageForms"]
+	path = PageForms
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PageForms.git
+	branch = .
 [submodule "PageImages"]
 	path = PageImages
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PageImages.git
@@ -3093,6 +3097,10 @@
 [submodule "WikibaseJavaScriptApi"]
 	path = WikibaseJavaScriptApi
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseJavaScriptApi.git
+	branch = .
+[submodule "WikibaseLexeme"]
+	path = WikibaseLexeme
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseLexeme.git
 	branch = .
 [submodule "WikibaseLib"]
 	path = WikibaseLib
