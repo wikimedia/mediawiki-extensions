@@ -962,10 +962,6 @@
 	path = GoToShell
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GoToShell.git
 	branch = .
-[submodule "GoogleAPIClient"]
-	path = GoogleAPIClient
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GoogleAPIClient.git
-	branch = .
 [submodule "GoogleAdSense"]
 	path = GoogleAdSense
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GoogleAdSense.git
@@ -3110,10 +3106,6 @@
 	path = WikibaseMediaInfo
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseMediaInfo.git
 	branch = .
-[submodule "WikibaseMobile"]
-	path = WikibaseMobile
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseMobile.git
-	branch = .
 [submodule "WikibaseQuality"]
 	path = WikibaseQuality
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseQuality.git
@@ -3129,10 +3121,6 @@
 [submodule "WikibaseRepository"]
 	path = WikibaseRepository
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseRepository.git
-	branch = .
-[submodule "WikibaseSolr"]
-	path = WikibaseSolr
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseSolr.git
 	branch = .
 [submodule "WikibaseView"]
 	path = WikibaseView
