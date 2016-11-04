@@ -1802,6 +1802,10 @@
 	path = PageTriage
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PageTriage.git
 	branch = .
+[submodule "PageViewInfo"]
+	path = PageViewInfo
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PageViewInfo.git
+	branch = .
 [submodule "PagedTiffHandler"]
 	path = PagedTiffHandler
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PagedTiffHandler.git
@@ -2998,10 +3002,6 @@
 	path = WebPlatformSearchAutocomplete
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WebPlatformSearchAutocomplete.git
 	branch = .
-[submodule "WhatsNearby"]
-	path = WhatsNearby
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WhatsNearby.git
-	branch = .
 [submodule "WhiteSpace"]
 	path = WhiteSpace
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WhiteSpace.git
@@ -3117,10 +3117,6 @@
 [submodule "WikibaseQualityExternalValidation"]
 	path = WikibaseQualityExternalValidation
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseQualityExternalValidation.git
-	branch = .
-[submodule "WikibaseRepository"]
-	path = WikibaseRepository
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikibaseRepository.git
 	branch = .
 [submodule "WikibaseView"]
 	path = WikibaseView
