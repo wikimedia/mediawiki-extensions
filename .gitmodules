@@ -874,6 +874,10 @@
 	path = Genderize
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Genderize.git
 	branch = .
+[submodule "Genealogy"]
+	path = Genealogy
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Genealogy.git
+	branch = .
 [submodule "GeoCrumbs"]
 	path = GeoCrumbs
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/GeoCrumbs.git
@@ -2426,6 +2430,10 @@
 	path = SimpleSecurity
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SimpleSecurity.git
 	branch = .
+[submodule "SimpleSort"]
+	path = SimpleSort
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SimpleSort.git
+	branch = .
 [submodule "SimpleSurvey"]
 	path = SimpleSurvey
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SimpleSurvey.git
@@ -3090,10 +3098,6 @@
 	path = WikimediaMessages
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikimediaMessages.git
 	branch = .
-[submodule "WikimediaPageViewInfo"]
-	path = WikimediaPageViewInfo
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikimediaPageViewInfo.git
-	branch = .
 [submodule "WikimediaShopLink"]
 	path = WikimediaShopLink
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikimediaShopLink.git
@@ -3153,6 +3157,10 @@
 [submodule "ZeroPortal"]
 	path = ZeroPortal
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ZeroPortal.git
+	branch = .
+[submodule "ZoomableImages"]
+	path = ZoomableImages
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ZoomableImages.git
 	branch = .
 [submodule "cldr"]
 	path = cldr
