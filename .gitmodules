@@ -562,6 +562,10 @@
 	path = DPLforum
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DPLforum.git
 	branch = .
+[submodule "Dashiki"]
+	path = Dashiki
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Dashiki.git
+	branch = .
 [submodule "DataTransfer"]
 	path = DataTransfer
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DataTransfer.git
@@ -629,6 +633,10 @@
 [submodule "DismissableSiteNotice"]
 	path = DismissableSiteNotice
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DismissableSiteNotice.git
+	branch = .
+[submodule "DisplayTitle"]
+	path = DisplayTitle
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DisplayTitle.git
 	branch = .
 [submodule "DisqusTag"]
 	path = DisqusTag
