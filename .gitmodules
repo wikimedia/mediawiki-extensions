@@ -718,6 +718,10 @@
 	path = ElectronPdfService
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ElectronPdfService.git
 	branch = .
+[submodule "EmailAuth"]
+	path = EmailAuth
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/EmailAuth.git
+	branch = .
 [submodule "EmailCapture"]
 	path = EmailCapture
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/EmailCapture.git
@@ -3154,6 +3158,3 @@
 	path = wikihiero
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/wikihiero.git
 	branch = .
-[submodule "EmailAuth"]
-	path = EmailAuth
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/EmailAuth.git
