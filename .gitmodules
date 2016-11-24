@@ -170,10 +170,6 @@
 	path = AzharAuth
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/AzharAuth.git
 	branch = .
-[submodule "BSExtendedSearch"]
-	path = BSExtendedSearch
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/BSExtendedSearch.git
-	branch = .
 [submodule "BSSMWConnector"]
 	path = BSSMWConnector
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/BSSMWConnector.git
@@ -597,10 +593,6 @@
 [submodule "Description2"]
 	path = Description2
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Description2.git
-	branch = .
-[submodule "DetectLanguage"]
-	path = DetectLanguage
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DetectLanguage.git
 	branch = .
 [submodule "DeviceMapLogCapture"]
 	path = DeviceMapLogCapture
@@ -1162,10 +1154,6 @@
 	path = InterwikiIntegration
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/InterwikiIntegration.git
 	branch = .
-[submodule "InterwikiMap"]
-	path = InterwikiMap
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/InterwikiMap.git
-	branch = .
 [submodule "InterwikiSorting"]
 	path = InterwikiSorting
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/InterwikiSorting.git
@@ -1173,10 +1161,6 @@
 [submodule "InviteSignup"]
 	path = InviteSignup
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/InviteSignup.git
-	branch = .
-[submodule "IssueTracker"]
-	path = IssueTracker
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/IssueTracker.git
 	branch = .
 [submodule "JSBreadCrumbs"]
 	path = JSBreadCrumbs
@@ -1245,10 +1229,6 @@
 [submodule "LifeWebCore"]
 	path = LifeWebCore
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/LifeWebCore.git
-	branch = .
-[submodule "LightweightRDFa"]
-	path = LightweightRDFa
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/LightweightRDFa.git
 	branch = .
 [submodule "Lingo"]
 	path = Lingo
@@ -1870,10 +1850,6 @@
 	path = PhpTags
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PhpTags.git
 	branch = .
-[submodule "PhpTagsDebugger"]
-	path = PhpTagsDebugger
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PhpTagsDebugger.git
-	branch = .
 [submodule "PhpTagsFunctions"]
 	path = PhpTagsFunctions
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/PhpTagsFunctions.git
@@ -2078,10 +2054,6 @@
 	path = Ratings
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Ratings.git
 	branch = .
-[submodule "RawImageHandler"]
-	path = RawImageHandler
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/RawImageHandler.git
-	branch = .
 [submodule "ReaderFeedback"]
 	path = ReaderFeedback
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ReaderFeedback.git
@@ -2126,10 +2098,6 @@
 	path = Renameuser
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Renameuser.git
 	branch = .
-[submodule "ReorderParserPhases"]
-	path = ReorderParserPhases
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ReorderParserPhases.git
-	branch = .
 [submodule "ReplaceSet"]
 	path = ReplaceSet
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ReplaceSet.git
@@ -2157,10 +2125,6 @@
 [submodule "RightFunctions"]
 	path = RightFunctions
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/RightFunctions.git
-	branch = .
-[submodule "SMWEnrich"]
-	path = SMWEnrich
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SMWEnrich.git
 	branch = .
 [submodule "SSLClientAuthentication"]
 	path = SSLClientAuthentication
@@ -2265,10 +2229,6 @@
 [submodule "SemanticDrilldown"]
 	path = SemanticDrilldown
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticDrilldown.git
-	branch = .
-[submodule "SemanticDummyEditor"]
-	path = SemanticDummyEditor
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SemanticDummyEditor.git
 	branch = .
 [submodule "SemanticExpressiveness"]
 	path = SemanticExpressiveness
@@ -3022,10 +2982,6 @@
 	path = WikiObjectModel
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikiObjectModel.git
 	branch = .
-[submodule "WikiPinger"]
-	path = WikiPinger
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikiPinger.git
-	branch = .
 [submodule "WikiShare"]
 	path = WikiShare
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WikiShare.git
@@ -3129,10 +3085,6 @@
 [submodule "WindowsAzureStorage"]
 	path = WindowsAzureStorage
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/WindowsAzureStorage.git
-	branch = .
-[submodule "Workflow"]
-	path = Workflow
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Workflow.git
 	branch = .
 [submodule "XAnalytics"]
 	path = XAnalytics
