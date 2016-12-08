@@ -5,7 +5,7 @@ import os.path
 import subprocess
 import json
 
-# Configuration
+# Configuration for this script
 basepath = "mediawiki/extensions/"
 gerrit_conf = {
     'host': 'gerrit.wikimedia.org',
