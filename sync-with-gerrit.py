@@ -9,7 +9,7 @@ basepath = "mediawiki/extensions/"
 gerrit_conf = {
     'host': 'gerrit.wikimedia.org',
     'port': '29418',
-    'url': 'https://{host}/r/p/{project}.git'
+    'url': 'https://{host}/r/{project}'
     }
 
 # Global logger
