@@ -1214,10 +1214,6 @@
 	path = LastUserLogin
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LastUserLogin
 	branch = .
-[submodule "Latch"]
-	path = Latch
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Latch
-	branch = .
 [submodule "LdapAuthentication"]
 	path = LdapAuthentication
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LdapAuthentication
@@ -1442,10 +1438,6 @@
 	path = MolHandler
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MolHandler
 	branch = .
-[submodule "MoodBar"]
-	path = MoodBar
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MoodBar
-	branch = .
 [submodule "Moodle"]
 	path = Moodle
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Moodle
@@ -1625,10 +1617,6 @@
 [submodule "NumerAlpha"]
 	path = NumerAlpha
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NumerAlpha
-	branch = .
-[submodule "OAI"]
-	path = OAI
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OAI
 	branch = .
 [submodule "OATHAuth"]
 	path = OATHAuth
@@ -1929,10 +1917,6 @@
 [submodule "PostEdit"]
 	path = PostEdit
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PostEdit
-	branch = .
-[submodule "PrefStats"]
-	path = PrefStats
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PrefStats
 	branch = .
 [submodule "PrefSwitch"]
 	path = PrefSwitch
@@ -2241,10 +2225,6 @@
 [submodule "SemanticExtraSpecialProperties"]
 	path = SemanticExtraSpecialProperties
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticExtraSpecialProperties
-	branch = .
-[submodule "SemanticForms"]
-	path = SemanticForms
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticForms
 	branch = .
 [submodule "SemanticFormsInputs"]
 	path = SemanticFormsInputs
