@@ -234,6 +234,10 @@
 	path = BlueSpicePageAssignments
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpicePageAssignments
 	branch = .
+[submodule "BlueSpicePageVersion"]
+	path = BlueSpicePageVersion
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpicePageVersion
+	branch = .
 [submodule "BlueSpiceSMWConnector"]
 	path = BlueSpiceSMWConnector
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSMWConnector
@@ -521,6 +525,10 @@
 [submodule "CreatePage"]
 	path = CreatePage
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CreatePage
+	branch = .
+[submodule "CreatePageUw"]
+	path = CreatePageUw
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CreatePageUw
 	branch = .
 [submodule "CreateRedirect"]
 	path = CreateRedirect
@@ -1058,6 +1066,10 @@
 	path = HierarchyBuilder
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HierarchyBuilder
 	branch = .
+[submodule "HighlightjsIntegration"]
+	path = HighlightjsIntegration
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HighlightjsIntegration
+	branch = .
 [submodule "HitCounters"]
 	path = HitCounters
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HitCounters
@@ -1081,6 +1093,10 @@
 [submodule "I18nTags"]
 	path = I18nTags
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/I18nTags
+	branch = .
+[submodule "Ids"]
+	path = Ids
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Ids
 	branch = .
 [submodule "IfTemplates"]
 	path = IfTemplates
@@ -2058,6 +2074,10 @@
 	path = RefreshSpecial
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RefreshSpecial
 	branch = .
+[submodule "RegexBlock"]
+	path = RegexBlock
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RegexBlock
+	branch = .
 [submodule "RegexFun"]
 	path = RegexFun
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RegexFun
@@ -2069,6 +2089,10 @@
 [submodule "RelatedArticles"]
 	path = RelatedArticles
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RelatedArticles
+	branch = .
+[submodule "RelatedLinks"]
+	path = RelatedLinks
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RelatedLinks
 	branch = .
 [submodule "RelatedSites"]
 	path = RelatedSites
@@ -2462,6 +2486,10 @@
 	path = SpamDiffTool
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SpamDiffTool
 	branch = .
+[submodule "SpamRegex"]
+	path = SpamRegex
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SpamRegex
+	branch = .
 [submodule "Spark"]
 	path = Spark
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Spark
@@ -2618,6 +2646,10 @@
 	path = Thanks
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Thanks
 	branch = .
+[submodule "TheWikipediaLibrary"]
+	path = TheWikipediaLibrary
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TheWikipediaLibrary
+	branch = .
 [submodule "Theme"]
 	path = Theme
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Theme
@@ -2734,6 +2766,10 @@
 	path = USERNAME
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/USERNAME
 	branch = .
+[submodule "UnCaptcha"]
+	path = UnCaptcha
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UnCaptcha
+	branch = .
 [submodule "UnicodeConverter"]
 	path = UnicodeConverter
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UnicodeConverter
@@ -2761,6 +2797,10 @@
 [submodule "UploadLocal"]
 	path = UploadLocal
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UploadLocal
+	branch = .
+[submodule "UploadLogo"]
+	path = UploadLogo
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UploadLogo
 	branch = .
 [submodule "UploadWizard"]
 	path = UploadWizard
