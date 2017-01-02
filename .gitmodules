@@ -1518,6 +1518,10 @@
 	path = NamespacePaths
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NamespacePaths
 	branch = .
+[submodule "NamespacePopups"]
+	path = NamespacePopups
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NamespacePopups
+	branch = .
 [submodule "NamespaceRelations"]
 	path = NamespaceRelations
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NamespaceRelations
@@ -1749,6 +1753,10 @@
 [submodule "PageNotice"]
 	path = PageNotice
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageNotice
+	branch = .
+[submodule "PagePopups"]
+	path = PagePopups
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PagePopups
 	branch = .
 [submodule "PageSchemas"]
 	path = PageSchemas
