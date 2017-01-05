@@ -114,10 +114,6 @@
 	path = Arrays
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Arrays
 	branch = .
-[submodule "ArticleFeedback"]
-	path = ArticleFeedback
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ArticleFeedback
-	branch = .
 [submodule "ArticleFeedbackv5"]
 	path = ArticleFeedbackv5
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ArticleFeedbackv5
@@ -510,10 +506,6 @@
 	path = Convert2Wiki
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Convert2Wiki
 	branch = .
-[submodule "CookiePolicy"]
-	path = CookiePolicy
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CookiePolicy
-	branch = .
 [submodule "CookieWarning"]
 	path = CookieWarning
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CookieWarning
@@ -533,10 +525,6 @@
 [submodule "CreateRedirect"]
 	path = CreateRedirect
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CreateRedirect
-	branch = .
-[submodule "CreditTab"]
-	path = CreditTab
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CreditTab
 	branch = .
 [submodule "CreditsSource"]
 	path = CreditsSource
@@ -994,10 +982,6 @@
 	path = GoogleLogin
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GoogleLogin
 	branch = .
-[submodule "GoogleMaps"]
-	path = GoogleMaps
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GoogleMaps
-	branch = .
 [submodule "GoogleNewsSitemap"]
 	path = GoogleNewsSitemap
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GoogleNewsSitemap
@@ -1334,10 +1318,6 @@
 	path = MSSQLBackCompat
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MSSQLBackCompat
 	branch = .
-[submodule "MWSearch"]
-	path = MWSearch
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MWSearch
-	branch = .
 [submodule "MWVersionInfo"]
 	path = MWVersionInfo
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MWVersionInfo
@@ -1365,10 +1345,6 @@
 [submodule "MapSources"]
 	path = MapSources
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MapSources
-	branch = .
-[submodule "Maps"]
-	path = Maps
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Maps
 	branch = .
 [submodule "MarkAsHelpful"]
 	path = MarkAsHelpful
@@ -1806,10 +1782,6 @@
 	path = ParserFunctions
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ParserFunctions
 	branch = .
-[submodule "ParserHooks"]
-	path = ParserHooks
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ParserHooks
-	branch = .
 [submodule "ParserMigration"]
 	path = ParserMigration
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ParserMigration
@@ -2013,10 +1985,6 @@
 [submodule "QuizTabulate"]
 	path = QuizTabulate
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/QuizTabulate
-	branch = .
-[submodule "RDFIO"]
-	path = RDFIO
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RDFIO
 	branch = .
 [submodule "RSS"]
 	path = RSS
@@ -2510,10 +2478,6 @@
 	path = StringFunctionsEscaped
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/StringFunctionsEscaped
 	branch = .
-[submodule "SubPageList"]
-	path = SubPageList
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SubPageList
-	branch = .
 [submodule "SubPageList3"]
 	path = SubPageList3
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SubPageList3
@@ -2810,10 +2774,6 @@
 	path = VIKI
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VIKI
 	branch = .
-[submodule "Validator"]
-	path = Validator
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Validator
-	branch = .
 [submodule "Variables"]
 	path = Variables
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Variables
@@ -2869,10 +2829,6 @@
 [submodule "VoteNY"]
 	path = VoteNY
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VoteNY
-	branch = .
-[submodule "WYSIWYG"]
-	path = WYSIWYG
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WYSIWYG
 	branch = .
 [submodule "WantedPagesFromNS"]
 	path = WantedPagesFromNS
