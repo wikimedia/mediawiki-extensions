@@ -2214,17 +2214,9 @@
 	path = SemanticACL
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticACL
 	branch = .
-[submodule "SemanticBreadcrumbLinks"]
-	path = SemanticBreadcrumbLinks
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticBreadcrumbLinks
-	branch = .
 [submodule "SemanticBundle"]
 	path = SemanticBundle
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticBundle
-	branch = .
-[submodule "SemanticCite"]
-	path = SemanticCite
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticCite
 	branch = .
 [submodule "SemanticComments"]
 	path = SemanticComments
@@ -2242,14 +2234,6 @@
 	path = SemanticExpressiveness
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticExpressiveness
 	branch = .
-[submodule "SemanticExternalQueryLookup"]
-	path = SemanticExternalQueryLookup
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticExternalQueryLookup
-	branch = .
-[submodule "SemanticExtraSpecialProperties"]
-	path = SemanticExtraSpecialProperties
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticExtraSpecialProperties
-	branch = .
 [submodule "SemanticFormsInputs"]
 	path = SemanticFormsInputs
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticFormsInputs
@@ -2257,10 +2241,6 @@
 [submodule "SemanticGenealogy"]
 	path = SemanticGenealogy
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticGenealogy
-	branch = .
-[submodule "SemanticGlossary"]
-	path = SemanticGlossary
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticGlossary
 	branch = .
 [submodule "SemanticHighcharts"]
 	path = SemanticHighcharts
@@ -2274,10 +2254,6 @@
 	path = SemanticImageInput
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticImageInput
 	branch = .
-[submodule "SemanticInterlanguageLinks"]
-	path = SemanticInterlanguageLinks
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticInterlanguageLinks
-	branch = .
 [submodule "SemanticInternalObjects"]
 	path = SemanticInternalObjects
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticInternalObjects
@@ -2285,18 +2261,6 @@
 [submodule "SemanticLinks"]
 	path = SemanticLinks
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticLinks
-	branch = .
-[submodule "SemanticMaps"]
-	path = SemanticMaps
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticMaps
-	branch = .
-[submodule "SemanticMediaWiki"]
-	path = SemanticMediaWiki
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticMediaWiki
-	branch = .
-[submodule "SemanticMetaTags"]
-	path = SemanticMetaTags
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticMetaTags
 	branch = .
 [submodule "SemanticPageMaker"]
 	path = SemanticPageMaker
@@ -2310,17 +2274,9 @@
 	path = SemanticRating
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticRating
 	branch = .
-[submodule "SemanticResultFormats"]
-	path = SemanticResultFormats
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticResultFormats
-	branch = .
 [submodule "SemanticSifter"]
 	path = SemanticSifter
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticSifter
-	branch = .
-[submodule "SemanticSignup"]
-	path = SemanticSignup
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticSignup
 	branch = .
 [submodule "SemanticTasks"]
 	path = SemanticTasks
@@ -2333,10 +2289,6 @@
 [submodule "SemanticUpdateOnPurge"]
 	path = SemanticUpdateOnPurge
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticUpdateOnPurge
-	branch = .
-[submodule "SemanticWatchlist"]
-	path = SemanticWatchlist
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticWatchlist
 	branch = .
 [submodule "SemanticWebBrowser"]
 	path = SemanticWebBrowser
