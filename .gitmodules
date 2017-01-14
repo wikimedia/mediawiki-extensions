@@ -1530,10 +1530,6 @@
 	path = NewSignupPage
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NewSignupPage
 	branch = .
-[submodule "NewTalkGlobal"]
-	path = NewTalkGlobal
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NewTalkGlobal
-	branch = .
 [submodule "NewUserActions"]
 	path = NewUserActions
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NewUserActions
@@ -1813,10 +1809,6 @@
 [submodule "PerformanceInspector"]
 	path = PerformanceInspector
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PerformanceInspector
-	branch = .
-[submodule "Persona"]
-	path = Persona
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Persona
 	branch = .
 [submodule "Petition"]
 	path = Petition
@@ -2153,10 +2145,6 @@
 [submodule "SectionDisqus"]
 	path = SectionDisqus
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SectionDisqus
-	branch = .
-[submodule "SecureHTML"]
-	path = SecureHTML
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SecureHTML
 	branch = .
 [submodule "SecurePasswords"]
 	path = SecurePasswords
