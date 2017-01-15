@@ -2266,10 +2266,6 @@
 	path = ShortUrl
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ShortUrl
 	branch = .
-[submodule "ShoutBox"]
-	path = ShoutBox
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ShoutBox
-	branch = .
 [submodule "ShoutWikiAPI"]
 	path = ShoutWikiAPI
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ShoutWikiAPI
