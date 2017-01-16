@@ -2010,10 +2010,6 @@
 	path = RandomUsersWithAvatars
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RandomUsersWithAvatars
 	branch = .
-[submodule "Ratings"]
-	path = Ratings
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Ratings
-	branch = .
 [submodule "ReaderFeedback"]
 	path = ReaderFeedback
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ReaderFeedback
