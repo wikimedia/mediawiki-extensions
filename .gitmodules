@@ -238,6 +238,10 @@
 	path = BlueSpiceSMWConnector
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSMWConnector
 	branch = .
+[submodule "BlueSpiceSubPageTree"]
+	path = BlueSpiceSubPageTree
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSubPageTree
+	branch = .
 [submodule "BoilerPlate"]
 	path = BoilerPlate
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BoilerPlate
@@ -1310,6 +1314,10 @@
 	path = Loops
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Loops
 	branch = .
+[submodule "MOOC"]
+	path = MOOC
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MOOC
+	branch = .
 [submodule "MP3MediaHandler"]
 	path = MP3MediaHandler
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MP3MediaHandler
@@ -1725,6 +1733,10 @@
 [submodule "PageLanguage"]
 	path = PageLanguage
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageLanguage
+	branch = .
+[submodule "PageLanguageApi"]
+	path = PageLanguageApi
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageLanguageApi
 	branch = .
 [submodule "PageNotice"]
 	path = PageNotice
@@ -2213,6 +2225,10 @@
 [submodule "SemanticLinks"]
 	path = SemanticLinks
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticLinks
+	branch = .
+[submodule "SemanticMediaWiki"]
+	path = SemanticMediaWiki
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticMediaWiki
 	branch = .
 [submodule "SemanticPageMaker"]
 	path = SemanticPageMaker
