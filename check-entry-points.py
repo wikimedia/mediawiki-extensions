@@ -28,11 +28,19 @@ for extension in sorted(os.listdir(BASE_DIR)):
     if (extension == '.git' or os.path.isfile(ext_dir)):
         continue
 
-    entry_point = os.path.join(BASE_DIR, extension, extension + ".php")
-    if not os.path.exists(entry_point):
+    # Known entry points (ep):
+    ep_php = os.path.join(BASE_DIR, extension, extension + ".php")
+    has_php = os.path.exists(ep_php)
+    ep_json = os.path.join(BASE_DIR, extension, 'extension.json')
+    has_json = os.path.exists(ep_json)
+
+    if has_json:
+        continue
+
+    if not has_php:
         dir_items = os.listdir(ext_dir)
         cwd = os.getcwd()
         if set(dir_items) - set(DEFAULT_FILES):
-            print "Missing entry point: %s" % os.path.relpath(entry_point, cwd)
+            print "Missing entry point: %s" % os.path.relpath(ep_php, cwd)
         else:
             print "Empty repository: %s" % os.path.relpath(ext_dir, cwd)
