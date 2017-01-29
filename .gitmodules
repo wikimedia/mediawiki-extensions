@@ -2674,10 +2674,6 @@
 	path = URNames
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/URNames
 	branch = .
-[submodule "USERNAME"]
-	path = USERNAME
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/USERNAME
-	branch = .
 [submodule "UnCaptcha"]
 	path = UnCaptcha
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UnCaptcha
