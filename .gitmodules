@@ -1,3 +1,7 @@
+[submodule "3D"]
+	path = 3D
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/3D
+	branch = .
 [submodule "AJAXPoll"]
 	path = AJAXPoll
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AJAXPoll
@@ -214,6 +218,10 @@
 	path = BlueSpiceEditNotifyConnector
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceEditNotifyConnector
 	branch = .
+[submodule "BlueSpiceExtendedFilelist"]
+	path = BlueSpiceExtendedFilelist
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceExtendedFilelist
+	branch = .
 [submodule "BlueSpiceExtendedSearch"]
 	path = BlueSpiceExtendedSearch
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceExtendedSearch
@@ -225,6 +233,10 @@
 [submodule "BlueSpiceFoundation"]
 	path = BlueSpiceFoundation
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceFoundation
+	branch = .
+[submodule "BlueSpiceMultiUpload"]
+	path = BlueSpiceMultiUpload
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceMultiUpload
 	branch = .
 [submodule "BlueSpicePageAssignments"]
 	path = BlueSpicePageAssignments
@@ -249,10 +261,6 @@
 [submodule "BookManager"]
 	path = BookManager
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BookManager
-	branch = .
-[submodule "Bootstrap"]
-	path = Bootstrap
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Bootstrap
 	branch = .
 [submodule "BounceHandler"]
 	path = BounceHandler
@@ -542,6 +550,10 @@
 	path = CustomPage
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CustomPage
 	branch = .
+[submodule "CustomUserSignup"]
+	path = CustomUserSignup
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CustomUserSignup
+	branch = .
 [submodule "D3Loader"]
 	path = D3Loader
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/D3Loader
@@ -718,6 +730,10 @@
 	path = EmailCapture
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EmailCapture
 	branch = .
+[submodule "EmailDiff"]
+	path = EmailDiff
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EmailDiff
+	branch = .
 [submodule "EnhanceContactForm"]
 	path = EnhanceContactForm
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EnhanceContactForm
@@ -785,6 +801,14 @@
 [submodule "FileAnnotations"]
 	path = FileAnnotations
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FileAnnotations
+	branch = .
+[submodule "FileExporter"]
+	path = FileExporter
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FileExporter
+	branch = .
+[submodule "FileImporter"]
+	path = FileImporter
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FileImporter
 	branch = .
 [submodule "FilterListUsers"]
 	path = FilterListUsers
@@ -1102,6 +1126,10 @@
 	path = ImageMetrics
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ImageMetrics
 	branch = .
+[submodule "ImageRating"]
+	path = ImageRating
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ImageRating
+	branch = .
 [submodule "ImageTagging"]
 	path = ImageTagging
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ImageTagging
@@ -1398,6 +1426,10 @@
 	path = Memento
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Memento
 	branch = .
+[submodule "MessageCommons"]
+	path = MessageCommons
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MessageCommons
+	branch = .
 [submodule "MiniInvite"]
 	path = MiniInvite
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MiniInvite
@@ -1437,6 +1469,14 @@
 [submodule "Moodle"]
 	path = Moodle
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Moodle
+	branch = .
+[submodule "MoveToCommons"]
+	path = MoveToCommons
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MoveToCommons
+	branch = .
+[submodule "MoveToCommonsClient"]
+	path = MoveToCommonsClient
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MoveToCommonsClient
 	branch = .
 [submodule "Mpdf"]
 	path = Mpdf
@@ -1858,6 +1898,10 @@
 	path = PhpTagsWiki
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PhpTagsWiki
 	branch = .
+[submodule "Pickle"]
+	path = Pickle
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Pickle
+	branch = .
 [submodule "PictureGame"]
 	path = PictureGame
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PictureGame
@@ -2150,6 +2194,10 @@
 	path = SectionDisqus
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SectionDisqus
 	branch = .
+[submodule "SecureHTML"]
+	path = SecureHTML
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SecureHTML
+	branch = .
 [submodule "SecurePasswords"]
 	path = SecurePasswords
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SecurePasswords
@@ -2281,6 +2329,10 @@
 [submodule "ShoutWikiAds"]
 	path = ShoutWikiAds
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ShoutWikiAds
+	branch = .
+[submodule "ShowMe"]
+	path = ShowMe
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ShowMe
 	branch = .
 [submodule "SideBarMenu"]
 	path = SideBarMenu
@@ -2610,6 +2662,10 @@
 	path = Tooltip
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Tooltip
 	branch = .
+[submodule "TopLists"]
+	path = TopLists
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TopLists
+	branch = .
 [submodule "TopTenPages"]
 	path = TopTenPages
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TopTenPages
@@ -2669,6 +2725,10 @@
 [submodule "URNames"]
 	path = URNames
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/URNames
+	branch = .
+[submodule "USERNAME"]
+	path = USERNAME
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/USERNAME
 	branch = .
 [submodule "UnCaptcha"]
 	path = UnCaptcha
@@ -2793,6 +2853,10 @@
 [submodule "VikiTitleIcon"]
 	path = VikiTitleIcon
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VikiTitleIcon
+	branch = .
+[submodule "Vine"]
+	path = Vine
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Vine
 	branch = .
 [submodule "VipsScaler"]
 	path = VipsScaler
