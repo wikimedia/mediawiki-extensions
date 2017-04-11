@@ -1,7 +1,3 @@
-[submodule "2ColConflict"]
-	path = 2ColConflict
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/2ColConflict
-	branch = .
 [submodule "AJAXPoll"]
 	path = AJAXPoll
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AJAXPoll
