@@ -1622,10 +1622,6 @@
 	path = NotebookViewer
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NotebookViewer
 	branch = .
-[submodule "Notifications"]
-	path = Notifications
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Notifications
-	branch = .
 [submodule "Nuke"]
 	path = Nuke
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Nuke
