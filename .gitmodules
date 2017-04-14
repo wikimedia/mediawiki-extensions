@@ -2074,10 +2074,6 @@
 	path = Ratings
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Ratings
 	branch = .
-[submodule "RawImageHandler"]
-	path = RawImageHandler
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RawImageHandler
-	branch = .
 [submodule "ReaderFeedback"]
 	path = ReaderFeedback
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ReaderFeedback
@@ -2153,10 +2149,6 @@
 [submodule "RightFunctions"]
 	path = RightFunctions
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RightFunctions
-	branch = .
-[submodule "SMWEnrich"]
-	path = SMWEnrich
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SMWEnrich
 	branch = .
 [submodule "SSLClientAuthentication"]
 	path = SSLClientAuthentication
@@ -2269,10 +2261,6 @@
 [submodule "SemanticDrilldown"]
 	path = SemanticDrilldown
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticDrilldown
-	branch = .
-[submodule "SemanticDummyEditor"]
-	path = SemanticDummyEditor
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticDummyEditor
 	branch = .
 [submodule "SemanticExpressiveness"]
 	path = SemanticExpressiveness
@@ -2397,10 +2385,6 @@
 [submodule "ShortUrl"]
 	path = ShortUrl
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ShortUrl
-	branch = .
-[submodule "ShortUrlApi"]
-	path = ShortUrlApi
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ShortUrlApi
 	branch = .
 [submodule "ShoutBox"]
 	path = ShoutBox
@@ -2910,10 +2894,6 @@
 	path = ViewFiles
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ViewFiles
 	branch = .
-[submodule "ViewportMetrics"]
-	path = ViewportMetrics
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ViewportMetrics
-	branch = .
 [submodule "Views"]
 	path = Views
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Views
@@ -3066,10 +3046,6 @@
 	path = Wikibase
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Wikibase
 	branch = .
-[submodule "WikibaseClient"]
-	path = WikibaseClient
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikibaseClient
-	branch = .
 [submodule "WikibaseJavaScriptApi"]
 	path = WikibaseJavaScriptApi
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikibaseJavaScriptApi
@@ -3077,10 +3053,6 @@
 [submodule "WikibaseLexeme"]
 	path = WikibaseLexeme
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikibaseLexeme
-	branch = .
-[submodule "WikibaseLib"]
-	path = WikibaseLib
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikibaseLib
 	branch = .
 [submodule "WikibaseMediaInfo"]
 	path = WikibaseMediaInfo
@@ -3101,10 +3073,6 @@
 [submodule "WikibaseRepository"]
 	path = WikibaseRepository
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikibaseRepository
-	branch = .
-[submodule "WikibaseView"]
-	path = WikibaseView
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikibaseView
 	branch = .
 [submodule "Wikidata"]
 	path = Wikidata
