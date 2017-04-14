@@ -602,10 +602,6 @@
 	path = Description2
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Description2
 	branch = .
-[submodule "DetectLanguage"]
-	path = DetectLanguage
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DetectLanguage
-	branch = .
 [submodule "DeviceMapLogCapture"]
 	path = DeviceMapLogCapture
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DeviceMapLogCapture
