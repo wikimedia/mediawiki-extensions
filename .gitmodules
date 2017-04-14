@@ -1902,10 +1902,6 @@
 	path = PictureGame
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PictureGame
 	branch = .
-[submodule "PipVideoJs"]
-	path = PipVideoJs
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PipVideoJs
-	branch = .
 [submodule "PipeEscape"]
 	path = PipeEscape
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PipeEscape
