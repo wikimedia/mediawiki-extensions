@@ -150,6 +150,10 @@
 	path = AutoCreateCategoryPages
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AutoCreateCategoryPages
 	branch = .
+[submodule "AutoGallery"]
+	path = AutoGallery
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AutoGallery
+	branch = .
 [submodule "AutoProxyBlock"]
 	path = AutoProxyBlock
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AutoProxyBlock
@@ -234,6 +238,10 @@
 	path = BlueSpiceFoundation
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceFoundation
 	branch = .
+[submodule "BlueSpiceInsertTemplate"]
+	path = BlueSpiceInsertTemplate
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceInsertTemplate
+	branch = .
 [submodule "BlueSpiceMultiUpload"]
 	path = BlueSpiceMultiUpload
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceMultiUpload
@@ -249,6 +257,10 @@
 [submodule "BlueSpiceSMWConnector"]
 	path = BlueSpiceSMWConnector
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSMWConnector
+	branch = .
+[submodule "BlueSpiceSignHere"]
+	path = BlueSpiceSignHere
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSignHere
 	branch = .
 [submodule "BlueSpiceSubPageTree"]
 	path = BlueSpiceSubPageTree
@@ -325,6 +337,10 @@
 [submodule "CategoryTree"]
 	path = CategoryTree
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CategoryTree
+	branch = .
+[submodule "CategoryWatch"]
+	path = CategoryWatch
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CategoryWatch
 	branch = .
 [submodule "CentralAuth"]
 	path = CentralAuth
@@ -573,6 +589,10 @@
 [submodule "DateDiff"]
 	path = DateDiff
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DateDiff
+	branch = .
+[submodule "DebateTree"]
+	path = DebateTree
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DebateTree
 	branch = .
 [submodule "DebugMode"]
 	path = DebugMode
@@ -1246,6 +1266,10 @@
 	path = LdapAuthentication
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LdapAuthentication
 	branch = .
+[submodule "LdapGroups"]
+	path = LdapGroups
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LdapGroups
+	branch = .
 [submodule "LifeWeb"]
 	path = LifeWeb
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LifeWeb
@@ -1361,6 +1385,10 @@
 [submodule "MagicNoCache"]
 	path = MagicNoCache
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MagicNoCache
+	branch = .
+[submodule "MagicNumberedHeadings"]
+	path = MagicNumberedHeadings
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MagicNumberedHeadings
 	branch = .
 [submodule "Mailgun"]
 	path = Mailgun
@@ -1726,6 +1754,10 @@
 	path = OracleTextSearch
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OracleTextSearch
 	branch = .
+[submodule "OrphanedTalkPages"]
+	path = OrphanedTalkPages
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OrphanedTalkPages
+	branch = .
 [submodule "PCRGUIInserts"]
 	path = PCRGUIInserts
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PCRGUIInserts
@@ -1773,6 +1805,10 @@
 [submodule "PageLanguageApi"]
 	path = PageLanguageApi
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageLanguageApi
+	branch = .
+[submodule "PageNameFormula"]
+	path = PageNameFormula
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageNameFormula
 	branch = .
 [submodule "PageNotice"]
 	path = PageNotice
@@ -2241,10 +2277,6 @@
 [submodule "SemanticExpressiveness"]
 	path = SemanticExpressiveness
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticExpressiveness
-	branch = .
-[submodule "SemanticFormsInputs"]
-	path = SemanticFormsInputs
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticFormsInputs
 	branch = .
 [submodule "SemanticGenealogy"]
 	path = SemanticGenealogy
@@ -2809,6 +2841,10 @@
 [submodule "UserPageViewTracker"]
 	path = UserPageViewTracker
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UserPageViewTracker
+	branch = .
+[submodule "UserSnoop"]
+	path = UserSnoop
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UserSnoop
 	branch = .
 [submodule "UserStatus"]
 	path = UserStatus
