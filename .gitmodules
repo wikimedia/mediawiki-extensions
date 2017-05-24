@@ -1802,10 +1802,6 @@
 	path = PageLanguage
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageLanguage
 	branch = .
-[submodule "PageLanguageApi"]
-	path = PageLanguageApi
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageLanguageApi
-	branch = .
 [submodule "PageNameFormula"]
 	path = PageNameFormula
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageNameFormula
