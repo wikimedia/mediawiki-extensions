@@ -26,10 +26,6 @@
 	path = AccessControl
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AccessControl
 	branch = .
-[submodule "AccountAudit"]
-	path = AccountAudit
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AccountAudit
-	branch = .
 [submodule "AccountInfo"]
 	path = AccountInfo
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AccountInfo
