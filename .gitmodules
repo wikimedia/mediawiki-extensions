@@ -1690,10 +1690,6 @@
 	path = OOJsUIAjaxLogin
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OOJsUIAjaxLogin
 	branch = .
-[submodule "OOUIPlayground"]
-	path = OOUIPlayground
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OOUIPlayground
-	branch = .
 [submodule "ORES"]
 	path = ORES
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ORES
