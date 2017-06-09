@@ -1998,6 +1998,10 @@
 	path = ProofreadPage
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ProofreadPage
 	branch = .
+[submodule "PropertySuggester"]
+	path = PropertySuggester
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PropertySuggester
+	branch = .
 [submodule "ProtectSite"]
 	path = ProtectSite
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ProtectSite
