@@ -10,10 +10,6 @@
 	path = AWS
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AWS
 	branch = .
-[submodule "AWSSDK"]
-	path = AWSSDK
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AWSSDK
-	branch = .
 [submodule "AbsenteeLandlord"]
 	path = AbsenteeLandlord
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AbsenteeLandlord
@@ -3081,10 +3077,6 @@
 [submodule "WikivoteMapsYandex"]
 	path = WikivoteMapsYandex
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikivoteMapsYandex
-	branch = .
-[submodule "WindowsAzureSDK"]
-	path = WindowsAzureSDK
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WindowsAzureSDK
 	branch = .
 [submodule "WindowsAzureStorage"]
 	path = WindowsAzureStorage
