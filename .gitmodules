@@ -66,6 +66,10 @@
 	path = AdvancedMeta
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AdvancedMeta
 	branch = .
+[submodule "AdvancedSearch"]
+	path = AdvancedSearch
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AdvancedSearch
+	branch = .
 [submodule "AjaxLogin"]
 	path = AjaxLogin
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AjaxLogin
@@ -546,6 +550,10 @@
 	path = CreateRedirect
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CreateRedirect
 	branch = .
+[submodule "CreateUserPage"]
+	path = CreateUserPage
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CreateUserPage
+	branch = .
 [submodule "CreditsSource"]
 	path = CreditsSource
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CreditsSource
@@ -737,6 +745,10 @@
 [submodule "EmailAuth"]
 	path = EmailAuth
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EmailAuth
+	branch = .
+[submodule "EmailAuthorization"]
+	path = EmailAuthorization
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EmailAuthorization
 	branch = .
 [submodule "EmailCapture"]
 	path = EmailCapture
@@ -2933,6 +2945,10 @@
 [submodule "WhoIsWatching"]
 	path = WhoIsWatching
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WhoIsWatching
+	branch = .
+[submodule "Whoops"]
+	path = Whoops
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Whoops
 	branch = .
 [submodule "WhosOnline"]
 	path = WhosOnline
