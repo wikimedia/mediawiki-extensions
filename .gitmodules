@@ -1646,10 +1646,6 @@
 	path = NoTitle
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NoTitle
 	branch = .
-[submodule "Nonlinear"]
-	path = Nonlinear
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Nonlinear
-	branch = .
 [submodule "NotebookViewer"]
 	path = NotebookViewer
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NotebookViewer
