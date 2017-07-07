@@ -1922,10 +1922,6 @@
 	path = PhpTagsWiki
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PhpTagsWiki
 	branch = .
-[submodule "Pickle"]
-	path = Pickle
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Pickle
-	branch = .
 [submodule "PictureGame"]
 	path = PictureGame
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PictureGame
