@@ -70,10 +70,6 @@
 	path = AdvancedSearch
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AdvancedSearch
 	branch = .
-[submodule "AjaxLogin"]
-	path = AjaxLogin
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AjaxLogin
-	branch = .
 [submodule "AkismetKlik"]
 	path = AkismetKlik
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AkismetKlik
