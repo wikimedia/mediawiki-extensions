@@ -298,10 +298,6 @@
 	path = Capiunto
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Capiunto
 	branch = .
-[submodule "Cards"]
-	path = Cards
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Cards
-	branch = .
 [submodule "Cargo"]
 	path = Cargo
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Cargo
