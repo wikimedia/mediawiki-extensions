@@ -110,6 +110,10 @@
 	path = Arrays
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Arrays
 	branch = .
+[submodule "ArticleCreationWorkflow"]
+	path = ArticleCreationWorkflow
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ArticleCreationWorkflow
+	branch = .
 [submodule "ArticleFeedbackv5"]
 	path = ArticleFeedbackv5
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ArticleFeedbackv5
@@ -1930,6 +1934,10 @@
 	path = PluggableAuth
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PluggableAuth
 	branch = .
+[submodule "PluggableSSO"]
+	path = PluggableSSO
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PluggableSSO
+	branch = .
 [submodule "Poem"]
 	path = Poem
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Poem
@@ -2078,6 +2086,10 @@
 	path = RandomInCategory
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RandomInCategory
 	branch = .
+[submodule "RandomSelection"]
+	path = RandomSelection
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RandomSelection
+	branch = .
 [submodule "RandomUsersWithAvatars"]
 	path = RandomUsersWithAvatars
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RandomUsersWithAvatars
@@ -2085,6 +2097,10 @@
 [submodule "ReaderFeedback"]
 	path = ReaderFeedback
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ReaderFeedback
+	branch = .
+[submodule "ReadingLists"]
+	path = ReadingLists
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ReadingLists
 	branch = .
 [submodule "ReassignEdits"]
 	path = ReassignEdits
@@ -2941,6 +2957,10 @@
 [submodule "Widgets"]
 	path = Widgets
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Widgets
+	branch = .
+[submodule "Wigo3"]
+	path = Wigo3
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Wigo3
 	branch = .
 [submodule "WikEdDiff"]
 	path = WikEdDiff
