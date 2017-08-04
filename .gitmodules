@@ -2330,10 +2330,6 @@
 	path = SemanticTitle
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticTitle
 	branch = .
-[submodule "SemanticUpdateOnPurge"]
-	path = SemanticUpdateOnPurge
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticUpdateOnPurge
-	branch = .
 [submodule "SemanticWebBrowser"]
 	path = SemanticWebBrowser
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticWebBrowser
