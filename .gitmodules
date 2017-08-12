@@ -1146,10 +1146,6 @@
 	path = ImageRating
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ImageRating
 	branch = .
-[submodule "ImageTagging"]
-	path = ImageTagging
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ImageTagging
-	branch = .
 [submodule "ImageTweaks"]
 	path = ImageTweaks
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ImageTweaks
