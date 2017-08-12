@@ -62,10 +62,6 @@
 	path = Ads
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Ads
 	branch = .
-[submodule "AdvancedMeta"]
-	path = AdvancedMeta
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AdvancedMeta
-	branch = .
 [submodule "AdvancedSearch"]
 	path = AdvancedSearch
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AdvancedSearch
