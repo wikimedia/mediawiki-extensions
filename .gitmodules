@@ -126,6 +126,10 @@
 	path = ArticleRatings
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ArticleRatings
 	branch = .
+[submodule "ArticleToCategory2"]
+	path = ArticleToCategory2
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ArticleToCategory2
+	branch = .
 [submodule "Athena"]
 	path = Athena
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Athena
@@ -277,6 +281,10 @@
 [submodule "BreadCrumbs2"]
 	path = BreadCrumbs2
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BreadCrumbs2
+	branch = .
+[submodule "BrickipediaExtra"]
+	path = BrickipediaExtra
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BrickipediaExtra
 	branch = .
 [submodule "Buggy"]
 	path = Buggy
@@ -722,6 +730,10 @@
 	path = Editcount
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Editcount
 	branch = .
+[submodule "EditcountAdditions"]
+	path = EditcountAdditions
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EditcountAdditions
+	branch = .
 [submodule "EducationProgram"]
 	path = EducationProgram
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EducationProgram
@@ -773,6 +785,10 @@
 [submodule "EventLogging"]
 	path = EventLogging
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EventLogging
+	branch = .
+[submodule "ExtJSBase"]
+	path = ExtJSBase
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ExtJSBase
 	branch = .
 [submodule "ExtTab"]
 	path = ExtTab
@@ -1529,6 +1545,10 @@
 [submodule "MultiBoilerplate"]
 	path = MultiBoilerplate
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MultiBoilerplate
+	branch = .
+[submodule "MultiLanguageManager"]
+	path = MultiLanguageManager
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MultiLanguageManager
 	branch = .
 [submodule "MultiMaps"]
 	path = MultiMaps
@@ -2326,6 +2346,10 @@
 	path = SemanticWebBrowser
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticWebBrowser
 	branch = .
+[submodule "SendGrid"]
+	path = SendGrid
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SendGrid
+	branch = .
 [submodule "Sentry"]
 	path = Sentry
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Sentry
@@ -3069,6 +3093,10 @@
 [submodule "WikipediaExtracts"]
 	path = WikipediaExtracts
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikipediaExtracts
+	branch = .
+[submodule "Wikisource"]
+	path = Wikisource
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Wikisource
 	branch = .
 [submodule "Wikispeech"]
 	path = Wikispeech
