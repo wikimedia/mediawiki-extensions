@@ -6,10 +6,6 @@
 	path = AJAXPoll
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AJAXPoll
 	branch = .
-[submodule "AWS"]
-	path = AWS
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AWS
-	branch = .
 [submodule "AbsenteeLandlord"]
 	path = AbsenteeLandlord
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AbsenteeLandlord
