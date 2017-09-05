@@ -3158,10 +3158,6 @@
 	path = intersection
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/intersection
 	branch = .
-[submodule "normal"]
-	path = normal
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/normal
-	branch = .
 [submodule "reCaptcha"]
 	path = reCaptcha
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/reCaptcha
