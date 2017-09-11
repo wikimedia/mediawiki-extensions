@@ -54,10 +54,6 @@
 	path = AdminLinks
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AdminLinks
 	branch = .
-[submodule "Ads"]
-	path = Ads
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Ads
-	branch = .
 [submodule "AdvancedSearch"]
 	path = AdvancedSearch
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AdvancedSearch
