@@ -1650,10 +1650,6 @@
 	path = NumberFormat
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NumberFormat
 	branch = .
-[submodule "NumberOfComments"]
-	path = NumberOfComments
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NumberOfComments
-	branch = .
 [submodule "NumberOfWikis"]
 	path = NumberOfWikis
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NumberOfWikis
@@ -2734,10 +2730,6 @@
 	path = URNames
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/URNames
 	branch = .
-[submodule "USERNAME"]
-	path = USERNAME
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/USERNAME
-	branch = .
 [submodule "UnCaptcha"]
 	path = UnCaptcha
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UnCaptcha
@@ -2833,10 +2825,6 @@
 [submodule "Variables"]
 	path = Variables
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Variables
-	branch = .
-[submodule "Vector"]
-	path = Vector
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Vector
 	branch = .
 [submodule "VectorBeta"]
 	path = VectorBeta
@@ -2946,10 +2934,6 @@
 	path = WikiForum
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiForum
 	branch = .
-[submodule "WikiLabels"]
-	path = WikiLabels
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiLabels
-	branch = .
 [submodule "WikiLexicalData"]
 	path = WikiLexicalData
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiLexicalData
@@ -3013,10 +2997,6 @@
 [submodule "Wikidata.org"]
 	path = Wikidata.org
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Wikidata.org
-	branch = .
-[submodule "WikidataEntitySuggester"]
-	path = WikidataEntitySuggester
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikidataEntitySuggester
 	branch = .
 [submodule "WikidataPageBanner"]
 	path = WikidataPageBanner
