@@ -3102,10 +3102,6 @@
 	path = XAnalytics
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/XAnalytics
 	branch = .
-[submodule "XMLContentExtension"]
-	path = XMLContentExtension
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/XMLContentExtension
-	branch = .
 [submodule "XenForoAuth"]
 	path = XenForoAuth
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/XenForoAuth
