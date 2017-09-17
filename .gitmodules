@@ -190,10 +190,6 @@
 	path = Blackout
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Blackout
 	branch = .
-[submodule "BlameMaps"]
-	path = BlameMaps
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlameMaps
-	branch = .
 [submodule "BlockAndNuke"]
 	path = BlockAndNuke
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlockAndNuke
@@ -1966,10 +1962,6 @@
 	path = PostEdit
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PostEdit
 	branch = .
-[submodule "PrefSwitch"]
-	path = PrefSwitch
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PrefSwitch
-	branch = .
 [submodule "Premoderation"]
 	path = Premoderation
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Premoderation
@@ -2394,10 +2386,6 @@
 	path = SimpleSort
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SimpleSort
 	branch = .
-[submodule "SimpleSurvey"]
-	path = SimpleSurvey
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SimpleSurvey
-	branch = .
 [submodule "SiteMatrix"]
 	path = SiteMatrix
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SiteMatrix
@@ -2758,10 +2746,6 @@
 	path = UnicodeConverter
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UnicodeConverter
 	branch = .
-[submodule "UnitTest"]
-	path = UnitTest
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UnitTest
-	branch = .
 [submodule "UniversalLanguageSelector"]
 	path = UniversalLanguageSelector
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UniversalLanguageSelector
@@ -2877,10 +2861,6 @@
 [submodule "VikiTitleIcon"]
 	path = VikiTitleIcon
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VikiTitleIcon
-	branch = .
-[submodule "Vine"]
-	path = Vine
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Vine
 	branch = .
 [submodule "VipsScaler"]
 	path = VipsScaler
@@ -3061,10 +3041,6 @@
 [submodule "WikimediaMessages"]
 	path = WikimediaMessages
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikimediaMessages
-	branch = .
-[submodule "WikimediaShopLink"]
-	path = WikimediaShopLink
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikimediaShopLink
 	branch = .
 [submodule "WikipediaExtracts"]
 	path = WikipediaExtracts
