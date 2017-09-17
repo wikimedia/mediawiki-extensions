@@ -1498,14 +1498,6 @@
 	path = Moodle
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Moodle
 	branch = .
-[submodule "MoveToCommons"]
-	path = MoveToCommons
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MoveToCommons
-	branch = .
-[submodule "MoveToCommonsClient"]
-	path = MoveToCommonsClient
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MoveToCommonsClient
-	branch = .
 [submodule "Mpdf"]
 	path = Mpdf
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Mpdf
@@ -1857,10 +1849,6 @@
 [submodule "ParserMigration"]
 	path = ParserMigration
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ParserMigration
-	branch = .
-[submodule "Parsoid"]
-	path = Parsoid
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Parsoid
 	branch = .
 [submodule "ParsoidBatchAPI"]
 	path = ParsoidBatchAPI
