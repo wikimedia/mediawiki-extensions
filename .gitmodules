@@ -2122,10 +2122,6 @@
 	path = RelatedSites
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RelatedSites
 	branch = .
-[submodule "RelationLinks"]
-	path = RelationLinks
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RelationLinks
-	branch = .
 [submodule "Renameuser"]
 	path = Renameuser
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Renameuser
