@@ -866,10 +866,6 @@
 	path = FormatDates
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FormatDates
 	branch = .
-[submodule "FormatNum"]
-	path = FormatNum
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FormatNum
-	branch = .
 [submodule "FormelApplet"]
 	path = FormelApplet
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FormelApplet
