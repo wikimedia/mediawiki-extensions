@@ -2274,10 +2274,6 @@
 	path = SemanticLinks
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticLinks
 	branch = .
-[submodule "SemanticMediaWiki"]
-	path = SemanticMediaWiki
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticMediaWiki
-	branch = .
 [submodule "SemanticPageMaker"]
 	path = SemanticPageMaker
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticPageMaker
