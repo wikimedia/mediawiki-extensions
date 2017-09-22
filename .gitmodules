@@ -2942,10 +2942,6 @@
 	path = WikiTextLoggedInOut
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiTextLoggedInOut
 	branch = .
-[submodule "WikiTwidget"]
-	path = WikiTwidget
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiTwidget
-	branch = .
 [submodule "Wikibase"]
 	path = Wikibase
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Wikibase
