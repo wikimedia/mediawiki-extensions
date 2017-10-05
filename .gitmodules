@@ -74,10 +74,6 @@
 	path = Annotator
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Annotator
 	branch = .
-[submodule "AntiBot"]
-	path = AntiBot
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AntiBot
-	branch = .
 [submodule "AntiSpoof"]
 	path = AntiSpoof
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AntiSpoof
