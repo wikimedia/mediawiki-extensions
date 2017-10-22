@@ -2786,10 +2786,6 @@
 	path = UserPageViewTracker
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UserPageViewTracker
 	branch = .
-[submodule "UserSnoop"]
-	path = UserSnoop
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UserSnoop
-	branch = .
 [submodule "UserStatus"]
 	path = UserStatus
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UserStatus
