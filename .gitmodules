@@ -414,10 +414,6 @@
 	path = Collection
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Collection
 	branch = .
-[submodule "CommentPages"]
-	path = CommentPages
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CommentPages
-	branch = .
 [submodule "CommentStreams"]
 	path = CommentStreams
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CommentStreams
@@ -806,10 +802,6 @@
 	path = FeaturedFeeds
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FeaturedFeeds
 	branch = .
-[submodule "FeedsFromPrivateWikis"]
-	path = FeedsFromPrivateWikis
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FeedsFromPrivateWikis
-	branch = .
 [submodule "FileAnnotations"]
 	path = FileAnnotations
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FileAnnotations
@@ -866,21 +858,9 @@
 	path = FormelApplet
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FormelApplet
 	branch = .
-[submodule "Foxway"]
-	path = Foxway
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Foxway
-	branch = .
 [submodule "FundraiserLandingPage"]
 	path = FundraiserLandingPage
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FundraiserLandingPage
-	branch = .
-[submodule "FundraisingChart"]
-	path = FundraisingChart
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FundraisingChart
-	branch = .
-[submodule "FundraisingEmailUnsubscribe"]
-	path = FundraisingEmailUnsubscribe
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FundraisingEmailUnsubscribe
 	branch = .
 [submodule "FundraisingTranslateWorkflow"]
 	path = FundraisingTranslateWorkflow
@@ -1121,10 +1101,6 @@
 [submodule "IframePage"]
 	path = IframePage
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/IframePage
-	branch = .
-[submodule "ImageLink"]
-	path = ImageLink
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ImageLink
 	branch = .
 [submodule "ImageMap"]
 	path = ImageMap
@@ -1477,10 +1453,6 @@
 [submodule "MolHandler"]
 	path = MolHandler
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MolHandler
-	branch = .
-[submodule "Moodle"]
-	path = Moodle
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Moodle
 	branch = .
 [submodule "Mpdf"]
 	path = Mpdf
@@ -1942,10 +1914,6 @@
 	path = Popups
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Popups
 	branch = .
-[submodule "PostEdit"]
-	path = PostEdit
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PostEdit
-	branch = .
 [submodule "Premoderation"]
 	path = Premoderation
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Premoderation
@@ -2062,10 +2030,6 @@
 	path = RandomUsersWithAvatars
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RandomUsersWithAvatars
 	branch = .
-[submodule "ReaderFeedback"]
-	path = ReaderFeedback
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ReaderFeedback
-	branch = .
 [submodule "ReadingLists"]
 	path = ReadingLists
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ReadingLists
@@ -2125,10 +2089,6 @@
 [submodule "RestBaseUpdateJobs"]
 	path = RestBaseUpdateJobs
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RestBaseUpdateJobs
-	branch = .
-[submodule "RevealEmail"]
-	path = RevealEmail
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RevealEmail
 	branch = .
 [submodule "RevisionCommentSupplement"]
 	path = RevisionCommentSupplement
@@ -2197,10 +2157,6 @@
 [submodule "SecureHTML"]
 	path = SecureHTML
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SecureHTML
-	branch = .
-[submodule "SecurePasswords"]
-	path = SecurePasswords
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SecurePasswords
 	branch = .
 [submodule "SecurePoll"]
 	path = SecurePoll
@@ -2302,10 +2258,6 @@
 	path = Sentry
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Sentry
 	branch = .
-[submodule "SharedCssJs"]
-	path = SharedCssJs
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SharedCssJs
-	branch = .
 [submodule "SharedHelpPages"]
 	path = SharedHelpPages
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SharedHelpPages
@@ -2337,10 +2289,6 @@
 [submodule "SignWritingMediaWikiPlugin"]
 	path = SignWritingMediaWikiPlugin
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SignWritingMediaWikiPlugin
-	branch = .
-[submodule "SimpleAntiSpam"]
-	path = SimpleAntiSpam
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SimpleAntiSpam
 	branch = .
 [submodule "SimpleChanges"]
 	path = SimpleChanges
@@ -2598,10 +2546,6 @@
 	path = Theme
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Theme
 	branch = .
-[submodule "ThemeDesigner"]
-	path = ThemeDesigner
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ThemeDesigner
-	branch = .
 [submodule "ThrottleOverride"]
 	path = ThrottleOverride
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ThrottleOverride
@@ -2697,10 +2641,6 @@
 [submodule "TwoColConflict"]
 	path = TwoColConflict
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TwoColConflict
-	branch = .
-[submodule "TwoFactorAuthentication"]
-	path = TwoFactorAuthentication
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TwoFactorAuthentication
 	branch = .
 [submodule "UIFeedback"]
 	path = UIFeedback
@@ -2921,10 +2861,6 @@
 [submodule "WikiObjectModel"]
 	path = WikiObjectModel
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiObjectModel
-	branch = .
-[submodule "WikiShare"]
-	path = WikiShare
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiShare
 	branch = .
 [submodule "WikiTextLoggedInOut"]
 	path = WikiTextLoggedInOut
