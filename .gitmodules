@@ -142,10 +142,6 @@
 	path = AutoProxyBlock
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AutoProxyBlock
 	branch = .
-[submodule "AutomaticBoardWelcome"]
-	path = AutomaticBoardWelcome
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AutomaticBoardWelcome
-	branch = .
 [submodule "Awesomeness"]
 	path = Awesomeness
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Awesomeness
