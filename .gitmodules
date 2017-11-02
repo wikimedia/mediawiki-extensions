@@ -2866,10 +2866,6 @@
 	path = Wikibase
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Wikibase
 	branch = .
-[submodule "WikibaseJavaScriptApi"]
-	path = WikibaseJavaScriptApi
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikibaseJavaScriptApi
-	branch = .
 [submodule "WikibaseLexeme"]
 	path = WikibaseLexeme
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikibaseLexeme
