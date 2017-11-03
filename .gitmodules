@@ -2546,10 +2546,6 @@
 	path = ThrottleOverride
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ThrottleOverride
 	branch = .
-[submodule "ThumbParser"]
-	path = ThumbParser
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ThumbParser
-	branch = .
 [submodule "TimeMachine"]
 	path = TimeMachine
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TimeMachine
