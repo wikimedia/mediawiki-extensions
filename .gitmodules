@@ -246,10 +246,6 @@
 	path = BoilerPlate
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BoilerPlate
 	branch = .
-[submodule "BookManager"]
-	path = BookManager
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BookManager
-	branch = .
 [submodule "BounceHandler"]
 	path = BounceHandler
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BounceHandler
