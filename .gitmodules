@@ -854,6 +854,10 @@
 	path = FundraiserLandingPage
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FundraiserLandingPage
 	branch = .
+[submodule "FundraisingEmailUnsubscribe"]
+	path = FundraisingEmailUnsubscribe
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FundraisingEmailUnsubscribe
+	branch = .
 [submodule "FundraisingTranslateWorkflow"]
 	path = FundraisingTranslateWorkflow
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FundraisingTranslateWorkflow
