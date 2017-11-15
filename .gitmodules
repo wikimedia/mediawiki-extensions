@@ -30,10 +30,6 @@
 	path = ActiveAbstract
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ActiveAbstract
 	branch = .
-[submodule "ActivityMonitor"]
-	path = ActivityMonitor
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ActivityMonitor
-	branch = .
 [submodule "AdManager"]
 	path = AdManager
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AdManager
