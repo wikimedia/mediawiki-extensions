@@ -22,10 +22,6 @@
 	path = AccountInfo
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AccountInfo
 	branch = .
-[submodule "ActionEditSubmit"]
-	path = ActionEditSubmit
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ActionEditSubmit
-	branch = .
 [submodule "ActiveAbstract"]
 	path = ActiveAbstract
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ActiveAbstract
