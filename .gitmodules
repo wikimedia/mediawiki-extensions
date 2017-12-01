@@ -322,6 +322,14 @@
 	path = BlueSpiceSubPageTree
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSubPageTree
 	branch = .
+[submodule "BlueSpiceWatchList"]
+	path = BlueSpiceWatchList
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceWatchList
+	branch = .
+[submodule "BlueSpiceWhoIsOnline"]
+	path = BlueSpiceWhoIsOnline
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceWhoIsOnline
+	branch = .
 [submodule "BoilerPlate"]
 	path = BoilerPlate
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BoilerPlate
