@@ -322,6 +322,10 @@
 	path = BlueSpiceSubPageTree
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSubPageTree
 	branch = .
+[submodule "BlueSpiceTagCloud"]
+	path = BlueSpiceTagCloud
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceTagCloud
+	branch = .
 [submodule "BlueSpiceWatchList"]
 	path = BlueSpiceWatchList
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceWatchList
