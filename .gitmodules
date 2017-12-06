@@ -2978,10 +2978,6 @@
 	path = WikibaseQualityExternalValidation
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikibaseQualityExternalValidation
 	branch = .
-[submodule "Wikidata"]
-	path = Wikidata
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Wikidata
-	branch = .
 [submodule "Wikidata.org"]
 	path = Wikidata.org
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Wikidata.org
