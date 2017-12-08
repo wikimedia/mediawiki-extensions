@@ -986,10 +986,6 @@
 	path = Git2Pages
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Git2Pages
 	branch = .
-[submodule "GitHub"]
-	path = GitHub
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GitHub
-	branch = .
 [submodule "Gitweb"]
 	path = Gitweb
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Gitweb
