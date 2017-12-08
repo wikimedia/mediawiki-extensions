@@ -2574,10 +2574,6 @@
 	path = SwarmExport
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SwarmExport
 	branch = .
-[submodule "SwiftCloudFiles"]
-	path = SwiftCloudFiles
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SwiftCloudFiles
-	branch = .
 [submodule "SwiftMailer"]
 	path = SwiftMailer
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SwiftMailer
