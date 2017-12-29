@@ -2174,10 +2174,6 @@
 	path = ReplaceText
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ReplaceText
 	branch = .
-[submodule "RestBaseUpdateJobs"]
-	path = RestBaseUpdateJobs
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RestBaseUpdateJobs
-	branch = .
 [submodule "RevisionCommentSupplement"]
 	path = RevisionCommentSupplement
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RevisionCommentSupplement
