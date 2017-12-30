@@ -178,6 +178,10 @@
 	path = BlogPage
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlogPage
 	branch = .
+[submodule "BlueSpiceAbout"]
+	path = BlueSpiceAbout
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceAbout
+	branch = .
 [submodule "BlueSpiceArticleInfo"]
 	path = BlueSpiceArticleInfo
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceArticleInfo
@@ -3074,3 +3078,90 @@
 	path = wikihiero
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/wikihiero
 	branch = .
+[submodule "BSSMWConnector"]
+	path = BSSMWConnector
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BSSMWConnector
+[submodule "BlueSpiceAbout"]
+	path = BlueSpiceAbout
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceAbout
+[submodule "BlueSpiceHideTitle"]
+	path = BlueSpiceHideTitle
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceHideTitle
+[submodule "BlueSpiceInsertCategory"]
+	path = BlueSpiceInsertCategory
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceInsertCategory
+[submodule "BlueSpiceInsertFile"]
+	path = BlueSpiceInsertFile
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceInsertFile
+[submodule "BlueSpiceInsertLink"]
+	path = BlueSpiceInsertLink
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceInsertLink
+[submodule "BlueSpiceInsertMagic"]
+	path = BlueSpiceInsertMagic
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceInsertMagic
+[submodule "BlueSpiceNamespaceCSS"]
+	path = BlueSpiceNamespaceCSS
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceNamespaceCSS
+[submodule "BlueSpicePageAccess"]
+	path = BlueSpicePageAccess
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpicePageAccess
+[submodule "BlueSpiceRSSFeeder"]
+	path = BlueSpiceRSSFeeder
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceRSSFeeder
+[submodule "BlueSpiceSaferEdit"]
+	path = BlueSpiceSaferEdit
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSaferEdit
+[submodule "BlueSpiceUEModulePDF"]
+	path = BlueSpiceUEModulePDF
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUEModulePDF
+[submodule "BlueSpiceUniversalExport"]
+	path = BlueSpiceUniversalExport
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUniversalExport
+[submodule "BlueSpiceUsageTracker"]
+	path = BlueSpiceUsageTracker
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUsageTracker
+[submodule "DataTypes"]
+	path = DataTypes
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DataTypes
+[submodule "Form"]
+	path = Form
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Form
+[submodule "GitGadgets"]
+	path = GitGadgets
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GitGadgets
+[submodule "GitHub"]
+	path = GitHub
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GitHub
+[submodule "MoveToCommons"]
+	path = MoveToCommons
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MoveToCommons
+[submodule "MoveToCommonsClient"]
+	path = MoveToCommonsClient
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MoveToCommonsClient
+[submodule "NumberOfComments"]
+	path = NumberOfComments
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NumberOfComments
+[submodule "Parsoid"]
+	path = Parsoid
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Parsoid
+[submodule "PreferencesList"]
+	path = PreferencesList
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PreferencesList
+[submodule "PreferencesMaster"]
+	path = PreferencesMaster
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PreferencesMaster
+[submodule "Recoin"]
+	path = Recoin
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Recoin
+[submodule "RelationLinks"]
+	path = RelationLinks
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RelationLinks
+[submodule "ThumbParser"]
+	path = ThumbParser
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ThumbParser
+[submodule "Vine"]
+	path = Vine
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Vine
+[submodule "WikidataEntitySuggester"]
+	path = WikidataEntitySuggester
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikidataEntitySuggester
