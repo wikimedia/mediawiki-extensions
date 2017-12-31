@@ -926,6 +926,10 @@
 	path = ForcePreview
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ForcePreview
 	branch = .
+[submodule "Form"]
+	path = Form
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Form
+	branch = .
 [submodule "FormPreloadPostCache"]
 	path = FormPreloadPostCache
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FormPreloadPostCache
