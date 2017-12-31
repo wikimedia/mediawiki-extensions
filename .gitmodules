@@ -254,6 +254,26 @@
 	path = BlueSpiceGroupManager
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceGroupManager
 	branch = .
+[submodule "BlueSpiceHideTitle"]
+	path = BlueSpiceHideTitle
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceHideTitle
+	branch = .
+[submodule "BlueSpiceInsertCategory"]
+	path = BlueSpiceInsertCategory
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceInsertCategory
+	branch = .
+[submodule "BlueSpiceInsertFile"]
+	path = BlueSpiceInsertFile
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceInsertFile
+	branch = .
+[submodule "BlueSpiceInsertLink"]
+	path = BlueSpiceInsertLink
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceInsertLink
+	branch = .
+[submodule "BlueSpiceInsertMagic"]
+	path = BlueSpiceInsertMagic
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceInsertMagic
+	branch = .
 [submodule "BlueSpiceInsertTemplate"]
 	path = BlueSpiceInsertTemplate
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceInsertTemplate
@@ -266,9 +286,17 @@
 	path = BlueSpiceMultiUpload
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceMultiUpload
 	branch = .
+[submodule "BlueSpiceNamespaceCSS"]
+	path = BlueSpiceNamespaceCSS
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceNamespaceCSS
+	branch = .
 [submodule "BlueSpiceNamespaceManager"]
 	path = BlueSpiceNamespaceManager
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceNamespaceManager
+	branch = .
+[submodule "BlueSpicePageAccess"]
+	path = BlueSpicePageAccess
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpicePageAccess
 	branch = .
 [submodule "BlueSpicePageAssignments"]
 	path = BlueSpicePageAssignments
@@ -290,9 +318,25 @@
 	path = BlueSpicePermissionManager
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpicePermissionManager
 	branch = .
+[submodule "BlueSpiceRSSFeeder"]
+	path = BlueSpiceRSSFeeder
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceRSSFeeder
+	branch = .
 [submodule "BlueSpiceReaders"]
 	path = BlueSpiceReaders
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceReaders
+	branch = .
+[submodule "BlueSpiceUEModulePDF"]
+	path = BlueSpiceUEModulePDF
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUEModulePDF
+	branch = .
+[submodule "BlueSpiceUniversalExport"]
+	path = BlueSpiceUniversalExport
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUniversalExport
+	branch = .
+[submodule "BlueSpiceUsageTracker"]
+	path = BlueSpiceUsageTracker
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUsageTracker
 	branch = .
 [submodule "BlueSpiceUserManager"]
 	path = BlueSpiceUserManager
@@ -305,6 +349,10 @@
 [submodule "BlueSpiceSMWConnector"]
 	path = BlueSpiceSMWConnector
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSMWConnector
+	branch = .
+[submodule "BlueSpiceSaferEdit"]
+	path = BlueSpiceSaferEdit
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSaferEdit
 	branch = .
 [submodule "BlueSpiceSignHere"]
 	path = BlueSpiceSignHere
