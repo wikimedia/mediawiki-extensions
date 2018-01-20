@@ -2874,6 +2874,10 @@
 	path = Variables
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Variables
 	branch = .
+[submodule "VersionCompare"]
+	path = VersionCompare
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VersionCompare
+	branch = .
 [submodule "Video"]
 	path = Video
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Video
