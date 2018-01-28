@@ -566,10 +566,6 @@
 	path = CommunityApplications
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CommunityApplications
 	branch = .
-[submodule "CommunityHiring"]
-	path = CommunityHiring
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CommunityHiring
-	branch = .
 [submodule "CommunityTwitter"]
 	path = CommunityTwitter
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CommunityTwitter
