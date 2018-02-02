@@ -706,6 +706,10 @@
 	path = DeletePagesForGood
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DeletePagesForGood
 	branch = .
+[submodule "DeleteUserPages"]
+	path = DeleteUserPages
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DeleteUserPages
+	branch = .
 [submodule "Description2"]
 	path = Description2
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Description2
