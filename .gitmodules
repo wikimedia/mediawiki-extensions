@@ -2982,10 +2982,6 @@
 	path = WikiLovesMonuments
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiLovesMonuments
 	branch = .
-[submodule "WikiObjectModel"]
-	path = WikiObjectModel
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiObjectModel
-	branch = .
 [submodule "WikiTextLoggedInOut"]
 	path = WikiTextLoggedInOut
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiTextLoggedInOut
