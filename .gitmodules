@@ -1554,10 +1554,6 @@
 	path = MiniInvite
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MiniInvite
 	branch = .
-[submodule "Minifier"]
-	path = Minifier
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Minifier
-	branch = .
 [submodule "MinimumNameLength"]
 	path = MinimumNameLength
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MinimumNameLength
