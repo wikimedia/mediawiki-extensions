@@ -358,9 +358,9 @@
 	path = BlueSpiceSignHere
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSignHere
 	branch = .
-[submodule "BlueSpiceSmartlist"]
-	path = BlueSpiceSmartlist
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSmartlist
+[submodule "BlueSpiceSmartList"]
+	path = BlueSpiceSmartList
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSmartList
 	branch = .
 [submodule "BlueSpiceSubPageTree"]
 	path = BlueSpiceSubPageTree
