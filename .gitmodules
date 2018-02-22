@@ -1298,6 +1298,10 @@
 	path = InviteSignup
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/InviteSignup
 	branch = .
+[submodule "JADE"]
+	path = JADE
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/JADE
+	branch = .
 [submodule "JSBreadCrumbs"]
 	path = JSBreadCrumbs
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/JSBreadCrumbs
