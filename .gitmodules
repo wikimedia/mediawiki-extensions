@@ -510,6 +510,10 @@
 	path = ClientSide
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ClientSide
 	branch = .
+[submodule "CloneDiff"]
+	path = CloneDiff
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CloneDiff
+	branch = .
 [submodule "CloseWikis"]
 	path = CloseWikis
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CloseWikis
