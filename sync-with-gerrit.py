@@ -33,7 +33,7 @@ def main():
         desc = projects.get(p).get('description')
 
         if desc != None and any(word in desc.lower() for word in ['archived', 'inactive', 'obsolete']):
-            print " ".join([p, 'skipping, obsolete or similar'])
+            print(" ".join([p, 'skipping, obsolete or similar']))
             continue
 
         gitmodules.append(p)
