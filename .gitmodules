@@ -1670,6 +1670,10 @@
 	path = NamespaceRelations
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NamespaceRelations
 	branch = .
+[submodule "NamespaceSidebar"]
+	path = NamespaceSidebar
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NamespaceSidebar
+	branch = .
 [submodule "NaturalLanguageList"]
 	path = NaturalLanguageList
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NaturalLanguageList
