@@ -1846,10 +1846,6 @@
 	path = PGFTikZ
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PGFTikZ
 	branch = .
-[submodule "PHPExcel"]
-	path = PHPExcel
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PHPExcel
-	branch = .
 [submodule "PageAssessments"]
 	path = PageAssessments
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageAssessments
