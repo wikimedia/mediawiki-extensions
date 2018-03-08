@@ -2646,6 +2646,10 @@
 	path = TemplateStyles
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TemplateStyles
 	branch = .
+[submodule "TemplateWizard"]
+	path = TemplateWizard
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TemplateWizard
+	branch = .
 [submodule "TestLanguageNameGrammar"]
 	path = TestLanguageNameGrammar
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TestLanguageNameGrammar
