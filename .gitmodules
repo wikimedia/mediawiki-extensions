@@ -62,10 +62,6 @@
 	path = AnchorHandler
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AnchorHandler
 	branch = .
-[submodule "Annotator"]
-	path = Annotator
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Annotator
-	branch = .
 [submodule "AntiSpoof"]
 	path = AntiSpoof
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AntiSpoof
