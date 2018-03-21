@@ -2098,10 +2098,6 @@
 	path = Push
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Push
 	branch = .
-[submodule "PushToWatch"]
-	path = PushToWatch
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PushToWatch
-	branch = .
 [submodule "Quantcast"]
 	path = Quantcast
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Quantcast
