@@ -2134,6 +2134,10 @@
 	path = RT
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RT
 	branch = .
+[submodule "RandomArea"]
+	path = RandomArea
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RandomArea
+	branch = .
 [submodule "RandomFeaturedUser"]
 	path = RandomFeaturedUser
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RandomFeaturedUser
