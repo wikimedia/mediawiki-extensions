@@ -19,10 +19,10 @@ fi
 
 if [[ $TARGET == 'all' ]]
 then
-	find -maxdepth 1 -type d | sed -e'/^.$/d' -e'/.git/d' | xargs -n 1 -P $PROCNUM -I '{}' ./quick-update '{}' $MODE
+	find . -maxdepth 1 -type d | sed -e'/^.$/d' -e'/.git/d' | xargs -n 1 -P $PROCNUM -I '{}' ./quick-update '{}' $MODE
 else
 	cd $TARGET
-	if [[ ! -d ".git" ]]
+	if [[ `git rev-parse --show-toplevel` != `pwd` ]]
 	then
 		echo "Extension $TARGET does not seem like a valid git repository"
 		exit 1
