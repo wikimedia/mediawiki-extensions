@@ -2290,6 +2290,10 @@
 	path = SectionDisqus
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SectionDisqus
 	branch = .
+[submodule "SecureAuth"]
+	path = SecureAuth
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SecureAuth
+	branch = .
 [submodule "SecureHTML"]
 	path = SecureHTML
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SecureHTML
