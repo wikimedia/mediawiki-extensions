@@ -2158,6 +2158,10 @@
 	path = RandomInCategory
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RandomInCategory
 	branch = .
+[submodule "RandomPages"]
+	path = RandomPages
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RandomPages
+	branch = .
 [submodule "RandomSelection"]
 	path = RandomSelection
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RandomSelection
