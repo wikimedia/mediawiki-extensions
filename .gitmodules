@@ -118,6 +118,10 @@
 	path = AuthorProtect
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AuthorProtect
 	branch = .
+[submodule "AutoCategoriseUploads"]
+	path = AutoCategoriseUploads
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AutoCategoriseUploads
+	branch = .
 [submodule "AutoCreateCategoryPages"]
 	path = AutoCreateCategoryPages
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AutoCreateCategoryPages
