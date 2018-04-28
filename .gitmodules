@@ -1730,6 +1730,10 @@
 	path = NoBogusUserpages
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NoBogusUserpages
 	branch = .
+[submodule "NoCat"]
+	path = NoCat
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NoCat
+	branch = .
 [submodule "NoTitle"]
 	path = NoTitle
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NoTitle
