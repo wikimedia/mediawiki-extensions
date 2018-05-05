@@ -2870,6 +2870,10 @@
 	path = UserThrottle
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UserThrottle
 	branch = .
+[submodule "VEForAll"]
+	path = VEForAll
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VEForAll
+	branch = .
 [submodule "VIKI"]
 	path = VIKI
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VIKI
