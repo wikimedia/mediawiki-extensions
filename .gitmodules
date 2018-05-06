@@ -66,10 +66,6 @@
 	path = AntiSpoof
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AntiSpoof
 	branch = .
-[submodule "ApiExplorer"]
-	path = ApiExplorer
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ApiExplorer
-	branch = .
 [submodule "ApiFeatureUsage"]
 	path = ApiFeatureUsage
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ApiFeatureUsage
