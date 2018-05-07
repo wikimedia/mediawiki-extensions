@@ -422,10 +422,6 @@
 	path = Carp
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Carp
 	branch = .
-[submodule "CategorySlideShow"]
-	path = CategorySlideShow
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CategorySlideShow
-	branch = .
 [submodule "CategorySortHeaders"]
 	path = CategorySortHeaders
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CategorySortHeaders
