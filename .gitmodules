@@ -922,6 +922,10 @@
 	path = FeaturedFeeds
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FeaturedFeeds
 	branch = .
+[submodule "Figures"]
+	path = Figures
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Figures
+	branch = .
 [submodule "FileAnnotations"]
 	path = FileAnnotations
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FileAnnotations
