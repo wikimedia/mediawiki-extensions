@@ -46,6 +46,10 @@
 	path = AdminLinks
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AdminLinks
 	branch = .
+[submodule "AdvancedMeta"]
+	path = AdvancedMeta
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AdvancedMeta
+	branch = .
 [submodule "AdvancedSearch"]
 	path = AdvancedSearch
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AdvancedSearch
@@ -322,26 +326,6 @@
 	path = BlueSpiceReaders
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceReaders
 	branch = .
-[submodule "BlueSpiceUEModulePDF"]
-	path = BlueSpiceUEModulePDF
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUEModulePDF
-	branch = .
-[submodule "BlueSpiceUniversalExport"]
-	path = BlueSpiceUniversalExport
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUniversalExport
-	branch = .
-[submodule "BlueSpiceUsageTracker"]
-	path = BlueSpiceUsageTracker
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUsageTracker
-	branch = .
-[submodule "BlueSpiceUserManager"]
-	path = BlueSpiceUserManager
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUserManager
-	branch = .
-[submodule "BlueSpiceUserPreferences"]
-	path = BlueSpiceUserPreferences
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUserPreferences
-	branch = .
 [submodule "BlueSpiceSMWConnector"]
 	path = BlueSpiceSMWConnector
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSMWConnector
@@ -365,6 +349,26 @@
 [submodule "BlueSpiceTagCloud"]
 	path = BlueSpiceTagCloud
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceTagCloud
+	branch = .
+[submodule "BlueSpiceUEModulePDF"]
+	path = BlueSpiceUEModulePDF
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUEModulePDF
+	branch = .
+[submodule "BlueSpiceUniversalExport"]
+	path = BlueSpiceUniversalExport
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUniversalExport
+	branch = .
+[submodule "BlueSpiceUsageTracker"]
+	path = BlueSpiceUsageTracker
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUsageTracker
+	branch = .
+[submodule "BlueSpiceUserManager"]
+	path = BlueSpiceUserManager
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUserManager
+	branch = .
+[submodule "BlueSpiceUserPreferences"]
+	path = BlueSpiceUserPreferences
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUserPreferences
 	branch = .
 [submodule "BlueSpiceWatchList"]
 	path = BlueSpiceWatchList
