@@ -2410,6 +2410,10 @@
 	path = ShowMe
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ShowMe
 	branch = .
+[submodule "ShowRealUsernames"]
+	path = ShowRealUsernames
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ShowRealUsernames
+	branch = .
 [submodule "SideBarMenu"]
 	path = SideBarMenu
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SideBarMenu
