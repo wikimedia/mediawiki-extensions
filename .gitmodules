@@ -678,6 +678,10 @@
 	path = Dashiki
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Dashiki
 	branch = .
+[submodule "DataTable2"]
+	path = DataTable2
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DataTable2
+	branch = .
 [submodule "DataTransfer"]
 	path = DataTransfer
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DataTransfer
