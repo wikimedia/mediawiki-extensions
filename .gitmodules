@@ -762,6 +762,10 @@
 	path = DjangoAnalytics
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DjangoAnalytics
 	branch = .
+[submodule "DocBookExport"]
+	path = DocBookExport
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DocBookExport
+	branch = .
 [submodule "DonationInterface"]
 	path = DonationInterface
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DonationInterface
