@@ -38,6 +38,10 @@
 	path = AddMessages
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AddMessages
 	branch = .
+[submodule "AddPersonalUrls"]
+	path = AddPersonalUrls
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AddPersonalUrls
+	branch = .
 [submodule "AddThis"]
 	path = AddThis
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AddThis
