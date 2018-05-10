@@ -1214,9 +1214,9 @@
 	path = HostStats
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HostStats
 	branch = .
-[submodule "Hovergallery"]
-	path = Hovergallery
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Hovergallery
+[submodule "HoverGallery"]
+	path = HoverGallery
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HoverGallery
 	branch = .
 [submodule "Hreflang"]
 	path = Hreflang
