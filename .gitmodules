@@ -1482,6 +1482,10 @@
 	path = MOOC
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MOOC
 	branch = .
+[submodule "MontserratFont"]
+	path = MontserratFont
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MontserratFont
+	branch = .
 [submodule "MP3MediaHandler"]
 	path = MP3MediaHandler
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MP3MediaHandler
