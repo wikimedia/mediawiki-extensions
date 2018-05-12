@@ -2866,6 +2866,10 @@
 	path = UrlShortener
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UrlShortener
 	branch = .
+[submodule "UserAgreement"]
+	path = UserAgreement
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UserAgreement
+	branch = .
 [submodule "UserExport"]
 	path = UserExport
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UserExport
