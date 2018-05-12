@@ -3050,6 +3050,10 @@
 	path = Wikibase
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Wikibase
 	branch = .
+[submodule "WikibaseCirrusSearch"]
+	path = WikibaseCirrusSearch
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikibaseCirrusSearch
+	branch = .
 [submodule "WikibaseLexeme"]
 	path = WikibaseLexeme
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikibaseLexeme
