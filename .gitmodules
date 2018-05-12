@@ -1050,6 +1050,10 @@
 	path = Git2Pages
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Git2Pages
 	branch = .
+[submodule "GitGadgets"]
+	path = GitGadgets
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GitGadgets
+	branch = .
 [submodule "Gitweb"]
 	path = Gitweb
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Gitweb
