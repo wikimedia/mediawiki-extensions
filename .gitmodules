@@ -666,6 +666,10 @@
 	path = CustomPage
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CustomPage
 	branch = .
+[submodule "CustomSidebar"]
+	path = CustomSidebar
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CustomSidebar
+	branch = .
 [submodule "D3Loader"]
 	path = D3Loader
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/D3Loader
