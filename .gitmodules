@@ -2082,6 +2082,10 @@
 	path = Popups
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Popups
 	branch = .
+[submodule "PreferencesList"]
+	path = PreferencesList
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PreferencesList
+	branch = .
 [submodule "PreferencesMaster"]
 	path = PreferencesMaster
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PreferencesMaster
