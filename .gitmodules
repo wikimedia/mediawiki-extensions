@@ -2742,6 +2742,10 @@
 	path = TimezoneSelector
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TimezoneSelector
 	branch = .
+[submodule "TinyMCE"]
+	path = TinyMCE
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TinyMCE
+	branch = .
 [submodule "TitleBlacklist"]
 	path = TitleBlacklist
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TitleBlacklist
