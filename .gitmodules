@@ -802,6 +802,10 @@
 	path = DynamicPageList
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DynamicPageList
 	branch = .
+[submodule "DynamicPageListEngine"]
+	path = DynamicPageListEngine
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DynamicPageListEngine
+	branch = .
 [submodule "DynamicSidebar"]
 	path = DynamicSidebar
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DynamicSidebar
