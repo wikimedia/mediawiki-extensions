@@ -98,6 +98,10 @@
 	path = ArticleIndex
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ArticleIndex
 	branch = .
+[submodule "ArticleMetaDescription"]
+	path = ArticleMetaDescription
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ArticleMetaDescription
+	branch = .
 [submodule "ArticlePlaceholder"]
 	path = ArticlePlaceholder
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ArticlePlaceholder
