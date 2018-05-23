@@ -1498,10 +1498,6 @@
 	path = MOOC
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MOOC
 	branch = .
-[submodule "MontserratFont"]
-	path = MontserratFont
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MontserratFont
-	branch = .
 [submodule "MP3MediaHandler"]
 	path = MP3MediaHandler
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MP3MediaHandler
@@ -1629,6 +1625,10 @@
 [submodule "MolHandler"]
 	path = MolHandler
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MolHandler
+	branch = .
+[submodule "MontserratFont"]
+	path = MontserratFont
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MontserratFont
 	branch = .
 [submodule "Mpdf"]
 	path = Mpdf
@@ -2109,6 +2109,10 @@
 [submodule "Prezi"]
 	path = Prezi
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Prezi
+	branch = .
+[submodule "PrimarySources"]
+	path = PrimarySources
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PrimarySources
 	branch = .
 [submodule "PrivateDomains"]
 	path = PrivateDomains
