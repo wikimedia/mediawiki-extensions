@@ -1746,10 +1746,6 @@
 	path = NewUserNotif
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NewUserNotif
 	branch = .
-[submodule "NewUsersList"]
-	path = NewUsersList
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NewUsersList
-	branch = .
 [submodule "NewestPages"]
 	path = NewestPages
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NewestPages
@@ -2198,10 +2194,6 @@
 	path = RandomArea
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RandomArea
 	branch = .
-[submodule "RandomFeaturedUser"]
-	path = RandomFeaturedUser
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RandomFeaturedUser
-	branch = .
 [submodule "RandomGameUnit"]
 	path = RandomGameUnit
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RandomGameUnit
@@ -2225,10 +2217,6 @@
 [submodule "RandomSelection"]
 	path = RandomSelection
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RandomSelection
-	branch = .
-[submodule "RandomUsersWithAvatars"]
-	path = RandomUsersWithAvatars
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RandomUsersWithAvatars
 	branch = .
 [submodule "ReadingLists"]
 	path = ReadingLists
