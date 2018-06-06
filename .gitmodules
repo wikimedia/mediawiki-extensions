@@ -2558,10 +2558,6 @@
 	path = Solarium
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Solarium
 	branch = .
-[submodule "SolrStore"]
-	path = SolrStore
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SolrStore
-	branch = .
 [submodule "SoundManager2Button"]
 	path = SoundManager2Button
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SoundManager2Button
