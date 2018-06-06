@@ -1042,10 +1042,6 @@
 	path = Gadgets
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Gadgets
 	branch = .
-[submodule "Genderize"]
-	path = Genderize
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Genderize
-	branch = .
 [submodule "Genealogy"]
 	path = Genealogy
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Genealogy
