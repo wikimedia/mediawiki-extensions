@@ -3126,10 +3126,6 @@
 	path = Wikispeech
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Wikispeech
 	branch = .
-[submodule "WikivoteMapsYandex"]
-	path = WikivoteMapsYandex
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikivoteMapsYandex
-	branch = .
 [submodule "WindowsAzureStorage"]
 	path = WindowsAzureStorage
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WindowsAzureStorage
