@@ -2518,10 +2518,6 @@
 	path = SiteSettings
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SiteSettings
 	branch = .
-[submodule "SkelJS"]
-	path = SkelJS
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SkelJS
-	branch = .
 [submodule "SkinPerNamespace"]
 	path = SkinPerNamespace
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SkinPerNamespace
