@@ -2766,10 +2766,6 @@
 	path = Tooltip
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Tooltip
 	branch = .
-[submodule "TopLists"]
-	path = TopLists
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TopLists
-	branch = .
 [submodule "TopTenPages"]
 	path = TopTenPages
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TopTenPages
