@@ -834,10 +834,6 @@
 	path = EditNotify
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EditNotify
 	branch = .
-[submodule "EditPageTracking"]
-	path = EditPageTracking
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EditPageTracking
-	branch = .
 [submodule "EditSimilar"]
 	path = EditSimilar
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EditSimilar
