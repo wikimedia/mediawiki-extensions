@@ -750,10 +750,6 @@
 	path = DidYouKnow
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DidYouKnow
 	branch = .
-[submodule "DidYouMean"]
-	path = DidYouMean
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DidYouMean
-	branch = .
 [submodule "DisableAccount"]
 	path = DisableAccount
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DisableAccount
