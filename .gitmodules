@@ -518,10 +518,6 @@
 	path = CleanChanges
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CleanChanges
 	branch = .
-[submodule "ClientSide"]
-	path = ClientSide
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ClientSide
-	branch = .
 [submodule "CloneDiff"]
 	path = CloneDiff
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CloneDiff
