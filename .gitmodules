@@ -670,10 +670,6 @@
 	path = CryoKey
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CryoKey
 	branch = .
-[submodule "CustomPage"]
-	path = CustomPage
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CustomPage
-	branch = .
 [submodule "CustomSidebar"]
 	path = CustomSidebar
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CustomSidebar
