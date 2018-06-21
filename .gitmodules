@@ -878,10 +878,6 @@
 	path = ErrorHandler
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ErrorHandler
 	branch = .
-[submodule "EtherEditor"]
-	path = EtherEditor
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EtherEditor
-	branch = .
 [submodule "EtherpadLite"]
 	path = EtherpadLite
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EtherpadLite
