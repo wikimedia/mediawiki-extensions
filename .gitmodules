@@ -578,10 +578,6 @@
 	path = CommunityTwitter
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CommunityTwitter
 	branch = .
-[submodule "CommunityVoice"]
-	path = CommunityVoice
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CommunityVoice
-	branch = .
 [submodule "ConditionalShowSection"]
 	path = ConditionalShowSection
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ConditionalShowSection
