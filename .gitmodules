@@ -2566,10 +2566,6 @@
 	path = SportsTeams
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SportsTeams
 	branch = .
-[submodule "Spreadsheet"]
-	path = Spreadsheet
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Spreadsheet
-	branch = .
 [submodule "StaffEdits"]
 	path = StaffEdits
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/StaffEdits
