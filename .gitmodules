@@ -2102,10 +2102,6 @@
 	path = ProtectSite
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ProtectSite
 	branch = .
-[submodule "PubSubHubbub"]
-	path = PubSubHubbub
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PubSubHubbub
-	branch = .
 [submodule "PureWikiDeletion"]
 	path = PureWikiDeletion
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PureWikiDeletion
