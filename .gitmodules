@@ -662,10 +662,6 @@
 	path = CreditsSource
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CreditsSource
 	branch = .
-[submodule "CryoKey"]
-	path = CryoKey
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CryoKey
-	branch = .
 [submodule "CustomSidebar"]
 	path = CustomSidebar
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CustomSidebar
