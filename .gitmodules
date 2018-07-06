@@ -934,6 +934,10 @@
 	path = FileImporter
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FileImporter
 	branch = .
+[submodule "FileSystemImageServer"]
+	path = FileSystemImageServer
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FileSystemImageServer
+	branch = .
 [submodule "FilterListUsers"]
 	path = FilterListUsers
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FilterListUsers
