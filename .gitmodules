@@ -1566,6 +1566,10 @@
 	path = MinimumNameLength
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MinimumNameLength
 	branch = .
+[submodule "MintyDocs"]
+	path = MintyDocs
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MintyDocs
+	branch = .
 [submodule "MixedNamespaceSearchSuggestions"]
 	path = MixedNamespaceSearchSuggestions
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MixedNamespaceSearchSuggestions
