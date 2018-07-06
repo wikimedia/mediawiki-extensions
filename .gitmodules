@@ -2622,10 +2622,6 @@
 	path = Survey
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Survey
 	branch = .
-[submodule "SwarmExport"]
-	path = SwarmExport
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SwarmExport
-	branch = .
 [submodule "SwiftMailer"]
 	path = SwiftMailer
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SwiftMailer
