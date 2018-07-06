@@ -2914,10 +2914,6 @@
 	path = VirtualKeyboard
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VirtualKeyboard
 	branch = .
-[submodule "VisualChat"]
-	path = VisualChat
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VisualChat
-	branch = .
 [submodule "VisualEditor"]
 	path = VisualEditor
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VisualEditor
