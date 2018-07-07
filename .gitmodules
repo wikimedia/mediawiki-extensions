@@ -2778,6 +2778,10 @@
 	path = UIFeedback
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UIFeedback
 	branch = .
+[submodule "UILangCode"]
+	path = UILangCode
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UILangCode
+	branch = .
 [submodule "URNames"]
 	path = URNames
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/URNames
