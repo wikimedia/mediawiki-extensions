@@ -2746,10 +2746,6 @@
 	path = TranslationNotifications
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TranslationNotifications
 	branch = .
-[submodule "Transliterator"]
-	path = Transliterator
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Transliterator
-	branch = .
 [submodule "TrustedXFF"]
 	path = TrustedXFF
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TrustedXFF
