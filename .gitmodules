@@ -638,6 +638,10 @@
 	path = CopyToClipboard
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CopyToClipboard
 	branch = .
+[submodule "Copyvio"]
+	path = Copyvio
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Copyvio
+	branch = .
 [submodule "CreatePage"]
 	path = CreatePage
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CreatePage
