@@ -386,6 +386,10 @@
 	path = BlueSpiceUserPreferences
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUserPreferences
 	branch = .
+[submodule "BlueSpiceUserSidebar"]
+	path = BlueSpiceUserSidebar
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUserSidebar
+	branch = .
 [submodule "BlueSpiceWatchList"]
 	path = BlueSpiceWatchList
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceWatchList
