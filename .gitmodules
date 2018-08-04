@@ -658,6 +658,10 @@
 	path = CreateUserPage
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CreateUserPage
 	branch = .
+[submodule "CreatedPagesList"]
+	path = CreatedPagesList
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CreatedPagesList
+	branch = .
 [submodule "CreditsSource"]
 	path = CreditsSource
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CreditsSource
