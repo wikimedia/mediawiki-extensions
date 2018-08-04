@@ -2326,6 +2326,10 @@
 	path = SecureHTML
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SecureHTML
 	branch = .
+[submodule "SecureLinkFixer"]
+	path = SecureLinkFixer
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SecureLinkFixer
+	branch = .
 [submodule "SecurePoll"]
 	path = SecurePoll
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SecurePoll
