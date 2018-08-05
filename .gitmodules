@@ -2210,10 +2210,6 @@
 	path = Recoin
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Recoin
 	branch = .
-[submodule "Reflect"]
-	path = Reflect
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Reflect
-	branch = .
 [submodule "RefreshSpecial"]
 	path = RefreshSpecial
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RefreshSpecial
