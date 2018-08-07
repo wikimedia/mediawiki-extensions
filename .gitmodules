@@ -766,10 +766,6 @@
 	path = DisqusTag
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DisqusTag
 	branch = .
-[submodule "DjangoAnalytics"]
-	path = DjangoAnalytics
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DjangoAnalytics
-	branch = .
 [submodule "DocBookExport"]
 	path = DocBookExport
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DocBookExport
