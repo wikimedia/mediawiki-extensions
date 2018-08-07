@@ -2382,10 +2382,6 @@
 	path = SemanticInternalObjects
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticInternalObjects
 	branch = .
-[submodule "SemanticLinks"]
-	path = SemanticLinks
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticLinks
-	branch = .
 [submodule "SemanticPageSeries"]
 	path = SemanticPageSeries
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticPageSeries
