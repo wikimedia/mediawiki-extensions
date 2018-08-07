@@ -2366,10 +2366,6 @@
 	path = SemanticGenealogy
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticGenealogy
 	branch = .
-[submodule "SemanticHighcharts"]
-	path = SemanticHighcharts
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticHighcharts
-	branch = .
 [submodule "SemanticImageAnnotator"]
 	path = SemanticImageAnnotator
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticImageAnnotator
