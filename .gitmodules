@@ -1658,10 +1658,6 @@
 	path = MultimediaViewer
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MultimediaViewer
 	branch = .
-[submodule "MwEmbedSupport"]
-	path = MwEmbedSupport
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MwEmbedSupport
-	branch = .
 [submodule "MyVariables"]
 	path = MyVariables
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MyVariables
