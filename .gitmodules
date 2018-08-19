@@ -1958,10 +1958,6 @@
 	path = Patroller
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Patroller
 	branch = .
-[submodule "PdfExport"]
-	path = PdfExport
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PdfExport
-	branch = .
 [submodule "PdfHandler"]
 	path = PdfHandler
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PdfHandler
