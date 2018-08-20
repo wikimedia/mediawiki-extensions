@@ -1658,6 +1658,10 @@
 	path = MultimediaViewer
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MultimediaViewer
 	branch = .
+[submodule "MusicBrainzAuth"]
+	path = MusicBrainzAuth
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MusicBrainzAuth
+	branch = .
 [submodule "MyVariables"]
 	path = MyVariables
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MyVariables
