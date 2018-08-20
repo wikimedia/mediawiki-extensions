@@ -986,6 +986,10 @@
 	path = FormPreloadPostCache
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FormPreloadPostCache
 	branch = .
+[submodule "FormWizard"]
+	path = FormWizard
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FormWizard
+	branch = .
 [submodule "FormatDates"]
 	path = FormatDates
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FormatDates
