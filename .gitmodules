@@ -1470,10 +1470,6 @@
 	path = Loops
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Loops
 	branch = .
-[submodule "MOOC"]
-	path = MOOC
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MOOC
-	branch = .
 [submodule "MP3MediaHandler"]
 	path = MP3MediaHandler
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MP3MediaHandler
