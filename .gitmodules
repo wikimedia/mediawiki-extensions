@@ -810,6 +810,10 @@
 	path = DynamicSidebar
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DynamicSidebar
 	branch = .
+[submodule "EUCopyrightCampaign"]
+	path = EUCopyrightCampaign
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EUCopyrightCampaign
+	branch = .
 [submodule "Echo"]
 	path = Echo
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Echo
