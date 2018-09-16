@@ -582,10 +582,6 @@
 	path = CommonsMetadata
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CommonsMetadata
 	branch = .
-[submodule "CommunityTwitter"]
-	path = CommunityTwitter
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CommunityTwitter
-	branch = .
 [submodule "ConditionalShowSection"]
 	path = ConditionalShowSection
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ConditionalShowSection
