@@ -1762,6 +1762,10 @@
 	path = NotebookViewer
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NotebookViewer
 	branch = .
+[submodule "NotesLink"]
+	path = NotesLink
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NotesLink
+	branch = .
 [submodule "Nuke"]
 	path = Nuke
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Nuke
