@@ -1118,6 +1118,10 @@
 	path = GoogleAppEngine
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GoogleAppEngine
 	branch = .
+[submodule "GoogleAuthenticator"]
+	path = GoogleAuthenticator
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GoogleAuthenticator
+	branch = .
 [submodule "GoogleCustomWikiSearch"]
 	path = GoogleCustomWikiSearch
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GoogleCustomWikiSearch
