@@ -1170,6 +1170,10 @@
 	path = GroupsSidebar
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GroupsSidebar
 	branch = .
+[submodule "GrowthExperiments"]
+	path = GrowthExperiments
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GrowthExperiments
+	branch = .
 [submodule "GuidedTour"]
 	path = GuidedTour
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GuidedTour
