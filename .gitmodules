@@ -646,6 +646,10 @@
 	path = Copyvio
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Copyvio
 	branch = .
+[submodule "CountDownClock"]
+	path = CountDownClock
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CountDownClock
+	branch = .
 [submodule "CreatePage"]
 	path = CreatePage
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CreatePage
