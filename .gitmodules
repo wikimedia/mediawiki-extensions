@@ -70,6 +70,10 @@
 	path = AnchorHandler
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AnchorHandler
 	branch = .
+[submodule "AnonPrivacy"]
+	path = AnonPrivacy
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AnonPrivacy
+	branch = .
 [submodule "AntiSpoof"]
 	path = AntiSpoof
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AntiSpoof
