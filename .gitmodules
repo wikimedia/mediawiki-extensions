@@ -398,6 +398,10 @@
 	path = BlueSpiceUserSidebar
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUserSidebar
 	branch = .
+[submodule "BlueSpiceVisualEditorConnector"]
+	path = BlueSpiceVisualEditorConnector
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceVisualEditorConnector
+	branch = .
 [submodule "BlueSpiceWatchList"]
 	path = BlueSpiceWatchList
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceWatchList
