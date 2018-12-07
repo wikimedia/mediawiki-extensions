@@ -2158,6 +2158,10 @@
 	path = PushToWatch
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PushToWatch
 	branch = .
+[submodule "PwnedPasswords"]
+	path = PwnedPasswords
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PwnedPasswords
+	branch = .
 [submodule "Quantcast"]
 	path = Quantcast
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Quantcast
