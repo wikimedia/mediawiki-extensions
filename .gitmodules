@@ -1386,6 +1386,10 @@
 	path = LDAPAuthentication2
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LDAPAuthentication2
 	branch = .
+[submodule "LDAPProvider"]
+	path = LDAPProvider
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LDAPProvider
+	branch = .
 [submodule "LabeledSectionTransclusion"]
 	path = LabeledSectionTransclusion
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LabeledSectionTransclusion
