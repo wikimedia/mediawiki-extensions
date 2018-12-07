@@ -230,6 +230,10 @@
 	path = BlueSpiceCountThings
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceCountThings
 	branch = .
+[submodule "BlueSpiceCustomMenu"]
+	path = BlueSpiceCustomMenu
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceCustomMenu
+	branch = .
 [submodule "BlueSpiceDashboards"]
 	path = BlueSpiceDashboards
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceDashboards
