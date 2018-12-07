@@ -342,6 +342,10 @@
 	path = BlueSpicePermissionManager
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpicePermissionManager
 	branch = .
+[submodule "BlueSpicePrivacy"]
+	path = BlueSpicePrivacy
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpicePrivacy
+	branch = .
 [submodule "BlueSpiceQrCode"]
 	path = BlueSpiceQrCode
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceQrCode
