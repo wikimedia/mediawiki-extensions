@@ -338,6 +338,10 @@
 	path = BlueSpicePermissionManager
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpicePermissionManager
 	branch = .
+[submodule "BlueSpiceQrCode"]
+	path = BlueSpiceQrCode
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceQrCode
+	branch = .
 [submodule "BlueSpiceRSSFeeder"]
 	path = BlueSpiceRSSFeeder
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceRSSFeeder
