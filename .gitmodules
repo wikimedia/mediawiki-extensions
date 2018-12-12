@@ -602,10 +602,6 @@
 	path = CommonsMetadata
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CommonsMetadata
 	branch = .
-[submodule "ConditionalShowSection"]
-	path = ConditionalShowSection
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ConditionalShowSection
-	branch = .
 [submodule "Configure"]
 	path = Configure
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Configure
