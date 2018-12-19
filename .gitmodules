@@ -930,6 +930,9 @@
 	path = ExternalData
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ExternalData
 	branch = .
+[submodule "ExternalGuidance"]
+	path = ExternalGuidance
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ExternalGuidance
 [submodule "ExtraLanguageLink"]
 	path = ExtraLanguageLink
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ExtraLanguageLink
@@ -1374,13 +1377,13 @@
 	path = Kartographer
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Kartographer
 	branch = .
-[submodule "LDAPAuthorization"]
-	path = LDAPAuthorization
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LDAPAuthorization
-	branch = .
 [submodule "LDAPAuthentication2"]
 	path = LDAPAuthentication2
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LDAPAuthentication2
+	branch = .
+[submodule "LDAPAuthorization"]
+	path = LDAPAuthorization
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LDAPAuthorization
 	branch = .
 [submodule "LDAPProvider"]
 	path = LDAPProvider
