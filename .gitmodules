@@ -933,6 +933,7 @@
 [submodule "ExternalGuidance"]
 	path = ExternalGuidance
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ExternalGuidance
+	branch = .
 [submodule "ExtraLanguageLink"]
 	path = ExtraLanguageLink
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ExtraLanguageLink
@@ -1284,6 +1285,10 @@
 [submodule "IframePage"]
 	path = IframePage
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/IframePage
+	branch = .
+[submodule "ImageCompare"]
+	path = ImageCompare
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ImageCompare
 	branch = .
 [submodule "ImageMap"]
 	path = ImageMap
