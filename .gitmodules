@@ -626,10 +626,6 @@
 	path = ContentTranslation
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ContentTranslation
 	branch = .
-[submodule "Contest"]
-	path = Contest
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Contest
-	branch = .
 [submodule "ContributionScores"]
 	path = ContributionScores
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ContributionScores
