@@ -2666,10 +2666,6 @@
 	path = Sudo
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Sudo
 	branch = .
-[submodule "Suhosin"]
-	path = Suhosin
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Suhosin
-	branch = .
 [submodule "Survey"]
 	path = Survey
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Survey
