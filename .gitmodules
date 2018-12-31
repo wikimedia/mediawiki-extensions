@@ -1566,10 +1566,6 @@
 	path = MarkAsHelpful
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MarkAsHelpful
 	branch = .
-[submodule "MassAction"]
-	path = MassAction
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MassAction
-	branch = .
 [submodule "MassEditRegex"]
 	path = MassEditRegex
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MassEditRegex
