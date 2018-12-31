@@ -534,6 +534,10 @@
 	path = Cite
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Cite
 	branch = .
+[submodule "CiteDrawer"]
+	path = CiteDrawer
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CiteDrawer
+	branch = .
 [submodule "CiteThisPage"]
 	path = CiteThisPage
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CiteThisPage
