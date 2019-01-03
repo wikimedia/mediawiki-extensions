@@ -2586,6 +2586,10 @@
 	path = Spark
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Spark
 	branch = .
+[submodule "SparkPost"]
+	path = SparkPost
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SparkPost
+	branch = .
 [submodule "Special404"]
 	path = Special404
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Special404
