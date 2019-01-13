@@ -606,6 +606,10 @@
 	path = CommonsMetadata
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CommonsMetadata
 	branch = .
+[submodule "ConfigurableCounters"]
+	path = ConfigurableCounters
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ConfigurableCounters
+	branch = .
 [submodule "Configure"]
 	path = Configure
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Configure
@@ -977,6 +981,10 @@
 [submodule "FilterListUsers"]
 	path = FilterListUsers
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FilterListUsers
+	branch = .
+[submodule "FilterSpecialPages"]
+	path = FilterSpecialPages
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FilterSpecialPages
 	branch = .
 [submodule "FirstSteps"]
 	path = FirstSteps
