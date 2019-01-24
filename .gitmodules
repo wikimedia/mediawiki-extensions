@@ -126,6 +126,10 @@
 	path = Auth_remoteuser
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Auth_remoteuser
 	branch = .
+[submodule "AuthenticatedKeyValueStore"]
+	path = AuthenticatedKeyValueStore
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AuthenticatedKeyValueStore
+	branch = .
 [submodule "AuthorProtect"]
 	path = AuthorProtect
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AuthorProtect
