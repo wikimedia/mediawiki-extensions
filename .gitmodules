@@ -582,6 +582,10 @@
 	path = CollaborationKit
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CollaborationKit
 	branch = .
+[submodule "CollapsibleHeadings"]
+	path = CollapsibleHeadings
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CollapsibleHeadings
+	branch = .
 [submodule "CollapsibleVector"]
 	path = CollapsibleVector
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CollapsibleVector
