@@ -3118,6 +3118,10 @@
 	path = WikimediaBadges
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikimediaBadges
 	branch = .
+[submodule "WikimediaEditorTasks"]
+	path = WikimediaEditorTasks
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikimediaEditorTasks
+	branch = .
 [submodule "WikimediaEvents"]
 	path = WikimediaEvents
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikimediaEvents
