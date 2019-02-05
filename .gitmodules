@@ -2374,6 +2374,10 @@
 	path = Scribunto
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Scribunto
 	branch = .
+[submodule "ScrollableTables"]
+	path = ScrollableTables
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ScrollableTables
+	branch = .
 [submodule "SearchExtraNS"]
 	path = SearchExtraNS
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SearchExtraNS
@@ -2697,6 +2701,10 @@
 [submodule "SyntaxHighlight_GeSHi"]
 	path = SyntaxHighlight_GeSHi
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SyntaxHighlight_GeSHi
+	branch = .
+[submodule "TEI"]
+	path = TEI
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TEI
 	branch = .
 [submodule "Tabber"]
 	path = Tabber
