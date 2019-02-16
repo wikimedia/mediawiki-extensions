@@ -3014,10 +3014,6 @@
 	path = WebChat
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WebChat
 	branch = .
-[submodule "WebPlatformAuth"]
-	path = WebPlatformAuth
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WebPlatformAuth
-	branch = .
 [submodule "WhiteSpace"]
 	path = WhiteSpace
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WhiteSpace
