@@ -3014,6 +3014,10 @@
 	path = WebChat
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WebChat
 	branch = .
+[submodule "WebDAV"]
+	path = WebDAV
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WebDAV
+	branch = .
 [submodule "WhiteSpace"]
 	path = WhiteSpace
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WhiteSpace
