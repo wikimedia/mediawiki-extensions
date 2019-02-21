@@ -1190,10 +1190,6 @@
 	path = GooglePlaces
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GooglePlaces
 	branch = .
-[submodule "GooglePlusOne"]
-	path = GooglePlusOne
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GooglePlusOne
-	branch = .
 [submodule "GoogleSiteSearch"]
 	path = GoogleSiteSearch
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GoogleSiteSearch
