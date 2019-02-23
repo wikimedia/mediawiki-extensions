@@ -3098,10 +3098,6 @@
 	path = WikibaseQualityConstraints
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikibaseQualityConstraints
 	branch = .
-[submodule "WikibaseQualityExternalValidation"]
-	path = WikibaseQualityExternalValidation
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikibaseQualityExternalValidation
-	branch = .
 [submodule "WikibaseSchema"]
 	path = WikibaseSchema
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikibaseSchema
