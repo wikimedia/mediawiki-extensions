@@ -582,6 +582,10 @@
 	path = CollaborationKit
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CollaborationKit
 	branch = .
+[submodule "CollapsibleSections"]
+	path = CollapsibleSections
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CollapsibleSections
+	branch = .
 [submodule "CollapsibleVector"]
 	path = CollapsibleVector
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CollapsibleVector
@@ -1798,6 +1802,10 @@
 	path = NewsBox
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NewsBox
 	branch = .
+[submodule "NewsTicker"]
+	path = NewsTicker
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NewsTicker
+	branch = .
 [submodule "Newsletter"]
 	path = Newsletter
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Newsletter
@@ -2349,6 +2357,10 @@
 [submodule "Sarcasm"]
 	path = Sarcasm
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Sarcasm
+	branch = .
+[submodule "SaveSpinner"]
+	path = SaveSpinner
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SaveSpinner
 	branch = .
 [submodule "ScanSet"]
 	path = ScanSet
