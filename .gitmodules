@@ -878,10 +878,6 @@
 	path = EditcountAdditions
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EditcountAdditions
 	branch = .
-[submodule "EducationProgram"]
-	path = EducationProgram
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EducationProgram
-	branch = .
 [submodule "Elastica"]
 	path = Elastica
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Elastica
