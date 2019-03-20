@@ -618,10 +618,6 @@
 	path = ConfigurableCounters
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ConfigurableCounters
 	branch = .
-[submodule "Configure"]
-	path = Configure
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Configure
-	branch = .
 [submodule "ConfirmAccount"]
 	path = ConfirmAccount
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ConfirmAccount
