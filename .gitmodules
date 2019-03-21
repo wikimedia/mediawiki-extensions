@@ -678,6 +678,10 @@
 	path = CountDownClock
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CountDownClock
 	branch = .
+[submodule "CrawlableAllPages"]
+	path = CrawlableAllPages
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CrawlableAllPages
+	branch = .
 [submodule "CreatePage"]
 	path = CreatePage
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CreatePage
@@ -2134,6 +2138,10 @@
 	path = PopcornEditor
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PopcornEditor
 	branch = .
+[submodule "PopupAlerts"]
+	path = PopupAlerts
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PopupAlerts
+	branch = .
 [submodule "PopupPages"]
 	path = PopupPages
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PopupPages
@@ -2485,6 +2493,10 @@
 [submodule "SharedHelpPages"]
 	path = SharedHelpPages
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SharedHelpPages
+	branch = .
+[submodule "Shibboleth"]
+	path = Shibboleth
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Shibboleth
 	branch = .
 [submodule "ShortUrl"]
 	path = ShortUrl
