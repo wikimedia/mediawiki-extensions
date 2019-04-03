@@ -638,6 +638,10 @@
 	path = ContentTranslation
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ContentTranslation
 	branch = .
+[submodule "ContributionCredits"]
+	path = ContributionCredits
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ContributionCredits
+	branch = .
 [submodule "ContributionScores"]
 	path = ContributionScores
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ContributionScores
