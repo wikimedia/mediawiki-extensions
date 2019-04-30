@@ -850,10 +850,6 @@
 	path = Echo
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Echo
 	branch = .
-[submodule "EditAccount"]
-	path = EditAccount
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EditAccount
-	branch = .
 [submodule "EditNotify"]
 	path = EditNotify
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EditNotify
