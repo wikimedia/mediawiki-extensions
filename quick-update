@@ -13,7 +13,7 @@ cd $( dirname "${BASH_SOURCE[0]}" )
 
 if [[ $TARGET != 'all' && ! -d "$TARGET" ]]
 then
-	echo "Extension $TARGET does not exists"
+	echo "Extension $TARGET does not exist"
 	exit 1
 fi
 
