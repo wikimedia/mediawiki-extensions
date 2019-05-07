@@ -910,6 +910,10 @@
 	path = EnhanceContactForm
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EnhanceContactForm
 	branch = .
+[submodule "EntitySchema"]
+	path = EntitySchema
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EntitySchema
+	branch = .
 [submodule "ErrorHandler"]
 	path = ErrorHandler
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ErrorHandler
@@ -3121,10 +3125,6 @@
 [submodule "WikibaseQualityConstraints"]
 	path = WikibaseQualityConstraints
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikibaseQualityConstraints
-	branch = .
-[submodule "WikibaseSchema"]
-	path = WikibaseSchema
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikibaseSchema
 	branch = .
 [submodule "Wikidata.org"]
 	path = Wikidata.org
