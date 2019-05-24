@@ -3018,6 +3018,9 @@
 	path = WatchSubpages
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WatchSubpages
 	branch = .
+[submodule "WebAuthn"]
+	path = WebAuthn
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WebAuthn
 [submodule "WebChat"]
 	path = WebChat
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WebChat
