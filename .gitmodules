@@ -2378,6 +2378,10 @@
 	path = Screenplay
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Screenplay
 	branch = .
+[submodule "Scribe"]
+	path = Scribe
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Scribe
+	branch = .
 [submodule "Scribunto"]
 	path = Scribunto
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Scribunto
