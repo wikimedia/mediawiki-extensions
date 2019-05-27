@@ -722,6 +722,10 @@
 	path = DPLforum
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DPLforum
 	branch = .
+[submodule "DarkMode"]
+	path = DarkMode
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DarkMode
+	branch = .
 [submodule "Dashiki"]
 	path = Dashiki
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Dashiki
