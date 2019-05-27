@@ -358,6 +358,10 @@
 	path = BlueSpiceRSSFeeder
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceRSSFeeder
 	branch = .
+[submodule "BlueSpiceRating"]
+	path = BlueSpiceRating
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceRating
+	branch = .
 [submodule "BlueSpiceReaders"]
 	path = BlueSpiceReaders
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceReaders
