@@ -2034,6 +2034,10 @@
 	path = ParsoidBatchAPI
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ParsoidBatchAPI
 	branch = .
+[submodule "PasswordlessLogin"]
+	path = PasswordlessLogin
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PasswordlessLogin
+	branch = .
 [submodule "Patroller"]
 	path = Patroller
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Patroller
@@ -3025,6 +3029,7 @@
 [submodule "WebAuthn"]
 	path = WebAuthn
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WebAuthn
+	branch = .
 [submodule "WebChat"]
 	path = WebChat
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WebChat
