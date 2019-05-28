@@ -3070,6 +3070,10 @@
 	path = WebDAVClientIntegration
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WebDAVClientIntegration
 	branch = .
+[submodule "WebDAVMinorSave"]
+	path = WebDAVMinorSave
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WebDAVMinorSave
+	branch = .
 [submodule "WhiteSpace"]
 	path = WhiteSpace
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WhiteSpace
