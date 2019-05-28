@@ -3066,6 +3066,10 @@
 	path = WebDAV
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WebDAV
 	branch = .
+[submodule "WebDAVClientIntegration"]
+	path = WebDAVClientIntegration
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WebDAVClientIntegration
+	branch = .
 [submodule "WhiteSpace"]
 	path = WhiteSpace
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WhiteSpace
