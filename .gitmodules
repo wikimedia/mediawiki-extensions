@@ -1874,6 +1874,10 @@
 	path = OAuthAuthentication
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OAuthAuthentication
 	branch = .
+[submodule "OOJSPlus"]
+	path = OOJSPlus
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OOJSPlus
+	branch = .
 [submodule "OOJsUIAjaxLogin"]
 	path = OOJsUIAjaxLogin
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OOJsUIAjaxLogin
