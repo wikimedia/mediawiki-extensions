@@ -2742,6 +2742,10 @@
 	path = TEI
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TEI
 	branch = .
+[submodule "THICC"]
+	path = THICC
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/THICC
+	branch = .
 [submodule "Tabber"]
 	path = Tabber
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Tabber
