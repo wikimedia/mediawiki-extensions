@@ -1638,6 +1638,10 @@
 	path = MetaMaster
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MetaMaster
 	branch = .
+[submodule "Metadata"]
+	path = Metadata
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Metadata
+	branch = .
 [submodule "MiniInvite"]
 	path = MiniInvite
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MiniInvite
