@@ -410,6 +410,10 @@
 	path = BlueSpiceTagCloud
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceTagCloud
 	branch = .
+[submodule "BlueSpiceUEModuleDOCX"]
+	path = BlueSpiceUEModuleDOCX
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUEModuleDOCX
+	branch = .
 [submodule "BlueSpiceUEModulePDF"]
 	path = BlueSpiceUEModulePDF
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUEModulePDF
