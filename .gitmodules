@@ -214,6 +214,10 @@
 	path = BlueSpiceBlog
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceBlog
 	branch = .
+[submodule "BlueSpiceCategoryCheck"]
+	path = BlueSpiceCategoryCheck
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceCategoryCheck
+	branch = .
 [submodule "BlueSpiceCategoryManager"]
 	path = BlueSpiceCategoryManager
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceCategoryManager
