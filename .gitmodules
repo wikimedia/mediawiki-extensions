@@ -374,6 +374,10 @@
 	path = BlueSpiceRating
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceRating
 	branch = .
+[submodule "BlueSpiceReadConfirmation"]
+	path = BlueSpiceReadConfirmation
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceReadConfirmation
+	branch = .
 [submodule "BlueSpiceReaders"]
 	path = BlueSpiceReaders
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceReaders
