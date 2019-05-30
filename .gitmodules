@@ -414,6 +414,10 @@
 	path = BlueSpiceUEModuleDOCX
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUEModuleDOCX
 	branch = .
+[submodule "BlueSpiceUEModuleHTML"]
+	path = BlueSpiceUEModuleHTML
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUEModuleHTML
+	branch = .
 [submodule "BlueSpiceUEModulePDF"]
 	path = BlueSpiceUEModulePDF
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUEModulePDF
