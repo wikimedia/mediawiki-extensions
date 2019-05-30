@@ -438,6 +438,10 @@
 	path = BlueSpiceSocialTags
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSocialTags
 	branch = .
+[submodule "BlueSpiceSocialTimelineUpdate"]
+	path = BlueSpiceSocialTimelineUpdate
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSocialTimelineUpdate
+	branch = .
 [submodule "BlueSpiceSubPageTree"]
 	path = BlueSpiceSubPageTree
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSubPageTree
