@@ -410,6 +410,10 @@
 	path = BlueSpiceSocialArticleActions
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSocialArticleActions
 	branch = .
+[submodule "BlueSpiceSocialBlog"]
+	path = BlueSpiceSocialBlog
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSocialBlog
+	branch = .
 [submodule "BlueSpiceSubPageTree"]
 	path = BlueSpiceSubPageTree
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSubPageTree
