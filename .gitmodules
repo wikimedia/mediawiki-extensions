@@ -258,6 +258,10 @@
 	path = BlueSpiceEmoticons
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceEmoticons
 	branch = .
+[submodule "BlueSpiceExpiry"]
+	path = BlueSpiceExpiry
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceExpiry
+	branch = .
 [submodule "BlueSpiceExtendedFilelist"]
 	path = BlueSpiceExtendedFilelist
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceExtendedFilelist
