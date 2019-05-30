@@ -426,6 +426,10 @@
 	path = BlueSpiceSocialProfile
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSocialProfile
 	branch = .
+[submodule "BlueSpiceSocialRating"]
+	path = BlueSpiceSocialRating
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSocialRating
+	branch = .
 [submodule "BlueSpiceSubPageTree"]
 	path = BlueSpiceSubPageTree
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSubPageTree
