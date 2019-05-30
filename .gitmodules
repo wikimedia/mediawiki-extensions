@@ -278,6 +278,10 @@
 	path = BlueSpiceExtensions
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceExtensions
 	branch = .
+[submodule "BlueSpiceFilterableTables"]
+	path = BlueSpiceFilterableTables
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceFilterableTables
+	branch = .
 [submodule "BlueSpiceFoundation"]
 	path = BlueSpiceFoundation
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceFoundation
