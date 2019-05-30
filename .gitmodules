@@ -402,6 +402,10 @@
 	path = BlueSpiceSmartList
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSmartList
 	branch = .
+[submodule "BlueSpiceSocial"]
+	path = BlueSpiceSocial
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSocial
+	branch = .
 [submodule "BlueSpiceSubPageTree"]
 	path = BlueSpiceSubPageTree
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSubPageTree
