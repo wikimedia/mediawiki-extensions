@@ -450,6 +450,10 @@
 	path = BlueSpiceSocialWatch
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSocialWatch
 	branch = .
+[submodule "BlueSpiceSocialWikiPage"]
+	path = BlueSpiceSocialWikiPage
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSocialWikiPage
+	branch = .
 [submodule "BlueSpiceSubPageTree"]
 	path = BlueSpiceSubPageTree
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSubPageTree
