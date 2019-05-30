@@ -382,6 +382,10 @@
 	path = BlueSpiceReaders
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceReaders
 	branch = .
+[submodule "BlueSpiceReminder"]
+	path = BlueSpiceReminder
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceReminder
+	branch = .
 [submodule "BlueSpiceSMWConnector"]
 	path = BlueSpiceSMWConnector
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSMWConnector
