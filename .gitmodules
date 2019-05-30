@@ -434,6 +434,10 @@
 	path = BlueSpiceSocialResolve
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSocialResolve
 	branch = .
+[submodule "BlueSpiceSocialTags"]
+	path = BlueSpiceSocialTags
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSocialTags
+	branch = .
 [submodule "BlueSpiceSubPageTree"]
 	path = BlueSpiceSubPageTree
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceSubPageTree
