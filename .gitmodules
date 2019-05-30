@@ -434,6 +434,10 @@
 	path = BlueSpiceUserSidebar
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUserSidebar
 	branch = .
+[submodule "BlueSpiceVisualDiff"]
+	path = BlueSpiceVisualDiff
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceVisualDiff
+	branch = .
 [submodule "BlueSpiceVisualEditorConnector"]
 	path = BlueSpiceVisualEditorConnector
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceVisualEditorConnector
