@@ -2554,6 +2554,10 @@
 	path = SemanticDrilldown
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticDrilldown
 	branch = .
+[submodule "SemanticGenealogy"]
+	path = SemanticGenealogy
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticGenealogy
+	branch = .
 [submodule "SemanticImageAnnotator"]
 	path = SemanticImageAnnotator
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticImageAnnotator
