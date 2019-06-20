@@ -1086,10 +1086,6 @@
 	path = FilterSpecialPages
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FilterSpecialPages
 	branch = .
-[submodule "FirstSteps"]
-	path = FirstSteps
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FirstSteps
-	branch = .
 [submodule "FixedHeaderTable"]
 	path = FixedHeaderTable
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FixedHeaderTable
