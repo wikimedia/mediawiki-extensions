@@ -2006,6 +2006,10 @@
 	path = OpenIDConnect
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OpenIDConnect
 	branch = .
+[submodule "OpenJsCad"]
+	path = OpenJsCad
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OpenJsCad
+	branch = .
 [submodule "OpenLayers"]
 	path = OpenLayers
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OpenLayers
