@@ -3242,10 +3242,6 @@
 	path = WikibaseMediaInfo
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikibaseMediaInfo
 	branch = .
-[submodule "WikibaseQuality"]
-	path = WikibaseQuality
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikibaseQuality
-	branch = .
 [submodule "WikibaseQualityConstraints"]
 	path = WikibaseQualityConstraints
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikibaseQualityConstraints
