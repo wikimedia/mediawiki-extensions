@@ -3314,14 +3314,6 @@
 	path = YouTube
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/YouTube
 	branch = .
-[submodule "ZeroBanner"]
-	path = ZeroBanner
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ZeroBanner
-	branch = .
-[submodule "ZeroPortal"]
-	path = ZeroPortal
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ZeroPortal
-	branch = .
 [submodule "ZoomableImages"]
 	path = ZoomableImages
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ZoomableImages
