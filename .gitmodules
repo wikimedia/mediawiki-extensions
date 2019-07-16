@@ -746,10 +746,6 @@
 	path = Contributors
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Contributors
 	branch = .
-[submodule "Convert2Wiki"]
-	path = Convert2Wiki
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Convert2Wiki
-	branch = .
 [submodule "CookieWarning"]
 	path = CookieWarning
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CookieWarning
