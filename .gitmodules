@@ -754,10 +754,6 @@
 	path = CopyToClipboard
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CopyToClipboard
 	branch = .
-[submodule "Copyvio"]
-	path = Copyvio
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Copyvio
-	branch = .
 [submodule "CountDownClock"]
 	path = CountDownClock
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CountDownClock
