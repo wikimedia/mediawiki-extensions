@@ -2574,10 +2574,6 @@
 	path = SemanticTasks
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticTasks
 	branch = .
-[submodule "SemanticTitle"]
-	path = SemanticTitle
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticTitle
-	branch = .
 [submodule "SemanticWebBrowser"]
 	path = SemanticWebBrowser
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticWebBrowser
