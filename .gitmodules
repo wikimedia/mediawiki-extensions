@@ -786,10 +786,6 @@
 	path = CreditsSource
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CreditsSource
 	branch = .
-[submodule "CustomSidebar"]
-	path = CustomSidebar
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CustomSidebar
-	branch = .
 [submodule "D3Loader"]
 	path = D3Loader
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/D3Loader
