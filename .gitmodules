@@ -3118,10 +3118,6 @@
 	path = Video
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Video
 	branch = .
-[submodule "ViewFiles"]
-	path = ViewFiles
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ViewFiles
-	branch = .
 [submodule "Views"]
 	path = Views
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Views
