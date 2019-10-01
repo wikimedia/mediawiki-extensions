@@ -1946,6 +1946,10 @@
 	path = OAuth
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OAuth
 	branch = .
+[submodule "OAuth2"]
+	path = OAuth2
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OAuth2
+	branch = .
 [submodule "OAuthAuthentication"]
 	path = OAuthAuthentication
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OAuthAuthentication
