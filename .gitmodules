@@ -866,6 +866,10 @@
 	path = Disambiguator
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Disambiguator
 	branch = .
+[submodule "Discourse"]
+	path = Discourse
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Discourse
+	branch = .
 [submodule "DiscussionThreading"]
 	path = DiscussionThreading
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DiscussionThreading
@@ -1145,6 +1149,10 @@
 [submodule "Genealogy"]
 	path = Genealogy
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Genealogy
+	branch = .
+[submodule "GenerateMochaConfig"]
+	path = GenerateMochaConfig
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GenerateMochaConfig
 	branch = .
 [submodule "GeoCrumbs"]
 	path = GeoCrumbs
@@ -2698,6 +2706,10 @@
 	path = SocialProfile
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SocialProfile
 	branch = .
+[submodule "SoftRedirector"]
+	path = SoftRedirector
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SoftRedirector
+	branch = .
 [submodule "SoftwareVersion"]
 	path = SoftwareVersion
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SoftwareVersion
@@ -3153,6 +3165,10 @@
 [submodule "WebDAVMinorSave"]
 	path = WebDAVMinorSave
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WebDAVMinorSave
+	branch = .
+[submodule "WebToolsManager"]
+	path = WebToolsManager
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WebToolsManager
 	branch = .
 [submodule "WhiteSpace"]
 	path = WhiteSpace
