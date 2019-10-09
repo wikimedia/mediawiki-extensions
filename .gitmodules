@@ -874,6 +874,10 @@
 	path = DiscussionThreading
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DiscussionThreading
 	branch = .
+[submodule "DiscussionTools"]
+	path = DiscussionTools
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DiscussionTools
+	branch = .
 [submodule "DismissableSiteNotice"]
 	path = DismissableSiteNotice
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DismissableSiteNotice
@@ -2849,6 +2853,10 @@
 [submodule "Tabs"]
 	path = Tabs
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Tabs
+	branch = .
+[submodule "TagContent"]
+	path = TagContent
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TagContent
 	branch = .
 [submodule "Teahouse"]
 	path = Teahouse
