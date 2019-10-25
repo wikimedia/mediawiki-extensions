@@ -2710,6 +2710,10 @@
 	path = SocialProfile
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SocialProfile
 	branch = .
+[submodule "Sofa"]
+	path = Sofa
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Sofa
+	branch = .
 [submodule "SoftRedirector"]
 	path = SoftRedirector
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SoftRedirector
