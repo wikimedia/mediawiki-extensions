@@ -490,10 +490,6 @@
 	path = BlueSpiceUserManager
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUserManager
 	branch = .
-[submodule "BlueSpiceUserPreferences"]
-	path = BlueSpiceUserPreferences
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUserPreferences
-	branch = .
 [submodule "BlueSpiceUserSidebar"]
 	path = BlueSpiceUserSidebar
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUserSidebar
