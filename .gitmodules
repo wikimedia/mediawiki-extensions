@@ -246,6 +246,10 @@
 	path = BlueSpiceDashboards
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceDashboards
 	branch = .
+[submodule "BlueSpiceDistributionConnector"]
+	path = BlueSpiceDistributionConnector
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceDistributionConnector
+	branch = .
 [submodule "BlueSpiceEchoConnector"]
 	path = BlueSpiceEchoConnector
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceEchoConnector
