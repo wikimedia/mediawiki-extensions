@@ -1006,6 +1006,10 @@
 	path = EventLogging
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EventLogging
 	branch = .
+[submodule "EventStreamConfig"]
+	path = EventStreamConfig
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EventStreamConfig
+	branch = .
 [submodule "ExtJSBase"]
 	path = ExtJSBase
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ExtJSBase
