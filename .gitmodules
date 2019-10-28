@@ -274,6 +274,10 @@
 	path = BlueSpiceExpiry
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceExpiry
 	branch = .
+[submodule "BlueSpiceExportTables"]
+	path = BlueSpiceExportTables
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceExportTables
+	branch = .
 [submodule "BlueSpiceExtendedFilelist"]
 	path = BlueSpiceExtendedFilelist
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceExtendedFilelist
