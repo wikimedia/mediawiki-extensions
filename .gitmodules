@@ -214,6 +214,10 @@
 	path = BlueSpiceAvatars
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceAvatars
 	branch = .
+[submodule "BlueSpiceBookshelf"]
+	path = BlueSpiceBookshelf
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceBookshelf
+	branch = .
 [submodule "BlueSpiceCategoryCheck"]
 	path = BlueSpiceCategoryCheck
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceCategoryCheck
