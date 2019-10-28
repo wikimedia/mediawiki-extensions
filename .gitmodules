@@ -202,6 +202,10 @@
 	path = BlueSpiceArticleInfo
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceArticleInfo
 	branch = .
+[submodule "BlueSpiceArticlePreviewCapture"]
+	path = BlueSpiceArticlePreviewCapture
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceArticlePreviewCapture
+	branch = .
 [submodule "BlueSpiceAuthors"]
 	path = BlueSpiceAuthors
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceAuthors
