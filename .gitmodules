@@ -3150,6 +3150,10 @@
 	path = WantedPagesFromNS
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WantedPagesFromNS
 	branch = .
+[submodule "WSArrays"]
+	path = WSArrays
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WSArrays
+	branch = .
 [submodule "WatchSubpages"]
 	path = WatchSubpages
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WatchSubpages
