@@ -3346,10 +3346,6 @@
 	path = XAnalytics
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/XAnalytics
 	branch = .
-[submodule "XLS"]
-	path = XLS
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/XLS
-	branch = .
 [submodule "XenForoAuth"]
 	path = XenForoAuth
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/XenForoAuth
