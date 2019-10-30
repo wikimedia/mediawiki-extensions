@@ -3166,13 +3166,13 @@
 	path = VoteNY
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VoteNY
 	branch = .
-[submodule "WantedPagesFromNS"]
-	path = WantedPagesFromNS
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WantedPagesFromNS
-	branch = .
 [submodule "WSArrays"]
 	path = WSArrays
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WSArrays
+	branch = .
+[submodule "WantedPagesFromNS"]
+	path = WantedPagesFromNS
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WantedPagesFromNS
 	branch = .
 [submodule "WatchSubpages"]
 	path = WatchSubpages
@@ -3345,6 +3345,10 @@
 [submodule "XAnalytics"]
 	path = XAnalytics
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/XAnalytics
+	branch = .
+[submodule "XLS"]
+	path = XLS
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/XLS
 	branch = .
 [submodule "XenForoAuth"]
 	path = XenForoAuth
