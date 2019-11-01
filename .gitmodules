@@ -342,6 +342,10 @@
 	path = BlueSpiceMultiUpload
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceMultiUpload
 	branch = .
+[submodule "BlueSpiceNSFileRepoConnector"]
+	path = BlueSpiceNSFileRepoConnector
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceNSFileRepoConnector
+	branch = .
 [submodule "BlueSpiceNamespaceCSS"]
 	path = BlueSpiceNamespaceCSS
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceNamespaceCSS
@@ -357,6 +361,10 @@
 [submodule "BlueSpicePageAssignments"]
 	path = BlueSpicePageAssignments
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpicePageAssignments
+	branch = .
+[submodule "BlueSpicePageFormsConnector"]
+	path = BlueSpicePageFormsConnector
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpicePageFormsConnector
 	branch = .
 [submodule "BlueSpicePageTemplates"]
 	path = BlueSpicePageTemplates
@@ -494,6 +502,18 @@
 	path = BlueSpiceUEModulePDF
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUEModulePDF
 	branch = .
+[submodule "BlueSpiceUEModulePDFRecursive"]
+	path = BlueSpiceUEModulePDFRecursive
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUEModulePDFRecursive
+	branch = .
+[submodule "BlueSpiceUEModulePDFSubpages"]
+	path = BlueSpiceUEModulePDFSubpages
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUEModulePDFSubpages
+	branch = .
+[submodule "BlueSpiceUEModuleTable2Excel"]
+	path = BlueSpiceUEModuleTable2Excel
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUEModuleTable2Excel
+	branch = .
 [submodule "BlueSpiceUniversalExport"]
 	path = BlueSpiceUniversalExport
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUniversalExport
@@ -501,6 +521,10 @@
 [submodule "BlueSpiceUsageTracker"]
 	path = BlueSpiceUsageTracker
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUsageTracker
+	branch = .
+[submodule "BlueSpiceUserInfo"]
+	path = BlueSpiceUserInfo
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceUserInfo
 	branch = .
 [submodule "BlueSpiceUserManager"]
 	path = BlueSpiceUserManager
@@ -525,6 +549,10 @@
 [submodule "BlueSpiceWhoIsOnline"]
 	path = BlueSpiceWhoIsOnline
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceWhoIsOnline
+	branch = .
+[submodule "BlueSpiceWikiExplorer"]
+	path = BlueSpiceWikiExplorer
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceWikiExplorer
 	branch = .
 [submodule "BoilerPlate"]
 	path = BoilerPlate
