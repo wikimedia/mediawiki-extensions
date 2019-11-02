@@ -1502,6 +1502,10 @@
 	path = Interwiki
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Interwiki
 	branch = .
+[submodule "InterwikiExtracts"]
+	path = InterwikiExtracts
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/InterwikiExtracts
+	branch = .
 [submodule "InterwikiSorting"]
 	path = InterwikiSorting
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/InterwikiSorting
