@@ -1546,6 +1546,10 @@
 	path = LDAPAuthorization
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LDAPAuthorization
 	branch = .
+[submodule "LDAPGroups"]
+	path = LDAPGroups
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LDAPGroups
+	branch = .
 [submodule "LDAPProvider"]
 	path = LDAPProvider
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LDAPProvider
