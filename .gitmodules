@@ -1586,10 +1586,6 @@
 	path = LdapAuthentication
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LdapAuthentication
 	branch = .
-[submodule "LdapGroups"]
-	path = LdapGroups
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LdapGroups
-	branch = .
 [submodule "LifeWeb"]
 	path = LifeWeb
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LifeWeb
