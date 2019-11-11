@@ -2978,10 +2978,6 @@
 	path = TimelineTable
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TimelineTable
 	branch = .
-[submodule "TimezoneSelector"]
-	path = TimezoneSelector
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TimezoneSelector
-	branch = .
 [submodule "TinyMCE"]
 	path = TinyMCE
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TinyMCE
