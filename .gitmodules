@@ -2350,6 +2350,10 @@
 	path = ProtectSite
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ProtectSite
 	branch = .
+[submodule "ProtectionIndicator"]
+	path = ProtectionIndicator
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ProtectionIndicator
+	branch = .
 [submodule "PurgeClickThrough"]
 	path = PurgeClickThrough
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PurgeClickThrough
