@@ -662,6 +662,10 @@
 	path = Checkpoint
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Checkpoint
 	branch = .
+[submodule "ChessBrowser"]
+	path = ChessBrowser
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ChessBrowser
+	branch = .
 [submodule "CirrusSearch"]
 	path = CirrusSearch
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CirrusSearch
