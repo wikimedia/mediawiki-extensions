@@ -1450,10 +1450,6 @@
 	path = ImageMap
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ImageMap
 	branch = .
-[submodule "ImageMetrics"]
-	path = ImageMetrics
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ImageMetrics
-	branch = .
 [submodule "ImageRating"]
 	path = ImageRating
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ImageRating
