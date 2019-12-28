@@ -1918,6 +1918,10 @@
 	path = NamespaceSidebar
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NamespaceSidebar
 	branch = .
+[submodule "NativeSvgHandler"]
+	path = NativeSvgHandler
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NativeSvgHandler
+	branch = .
 [submodule "NaturalLanguageList"]
 	path = NaturalLanguageList
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NaturalLanguageList
