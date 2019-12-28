@@ -2674,6 +2674,10 @@
 	path = Shibboleth
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Shibboleth
 	branch = .
+[submodule "ShortDescription"]
+	path = ShortDescription
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ShortDescription
+	branch = .
 [submodule "ShortUrl"]
 	path = ShortUrl
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ShortUrl
