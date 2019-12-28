@@ -2446,10 +2446,6 @@
 	path = ReassignEdits
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ReassignEdits
 	branch = .
-[submodule "RecentActivityFeed"]
-	path = RecentActivityFeed
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RecentActivityFeed
-	branch = .
 [submodule "Recoin"]
 	path = Recoin
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Recoin
