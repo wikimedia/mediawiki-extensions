@@ -810,6 +810,10 @@
 	path = CrawlableAllPages
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CrawlableAllPages
 	branch = .
+[submodule "CreateAPage"]
+	path = CreateAPage
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CreateAPage
+	branch = .
 [submodule "CreatePage"]
 	path = CreatePage
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CreatePage
