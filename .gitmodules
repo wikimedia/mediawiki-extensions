@@ -2922,10 +2922,6 @@
 	path = Tabs
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Tabs
 	branch = .
-[submodule "TagContent"]
-	path = TagContent
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TagContent
-	branch = .
 [submodule "Teahouse"]
 	path = Teahouse
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Teahouse
