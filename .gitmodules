@@ -338,10 +338,6 @@
 	path = BlueSpiceInterWikiLinks
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceInterWikiLinks
 	branch = .
-[submodule "BlueSpiceMenues"]
-	path = BlueSpiceMenues
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceMenues
-	branch = .
 [submodule "BlueSpiceMultiUpload"]
 	path = BlueSpiceMultiUpload
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceMultiUpload
