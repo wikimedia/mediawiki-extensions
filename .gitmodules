@@ -2646,10 +2646,6 @@
 	path = SemanticSifter
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticSifter
 	branch = .
-[submodule "SemanticTasks"]
-	path = SemanticTasks
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticTasks
-	branch = .
 [submodule "SemanticWebBrowser"]
 	path = SemanticWebBrowser
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticWebBrowser
