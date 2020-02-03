@@ -2,6 +2,10 @@
 	path = 3D
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/3D
 	branch = .
+[submodule "AControlImageLink"]
+	path = AControlImageLink
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AControlImageLink
+	branch = .
 [submodule "AJAXPoll"]
 	path = AJAXPoll
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AJAXPoll
