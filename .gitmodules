@@ -754,6 +754,10 @@
 	path = CommonsMetadata
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CommonsMetadata
 	branch = .
+[submodule "ConfigManager"]
+	path = ConfigManager
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ConfigManager
+	branch = .
 [submodule "ConfigurableCounters"]
 	path = ConfigurableCounters
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ConfigurableCounters
