@@ -1154,6 +1154,10 @@
 	path = FlaggedRevs
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FlaggedRevs
 	branch = .
+[submodule "FlexiSkin"]
+	path = FlexiSkin
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FlexiSkin
+	branch = .
 [submodule "FlickrAPI"]
 	path = FlickrAPI
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FlickrAPI
