@@ -1770,6 +1770,10 @@
 	path = MediaFunctions
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MediaFunctions
 	branch = .
+[submodule "MediaModeration"]
+	path = MediaModeration
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MediaModeration
+	branch = .
 [submodule "MediaWikiAuth"]
 	path = MediaWikiAuth
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MediaWikiAuth
