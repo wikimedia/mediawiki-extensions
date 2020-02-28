@@ -1942,6 +1942,10 @@
 	path = NavigationTiming
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NavigationTiming
 	branch = .
+[submodule "NearbyPages"]
+	path = NearbyPages
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NearbyPages
+	branch = .
 [submodule "Negref"]
 	path = Negref
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Negref
