@@ -1658,10 +1658,6 @@
 	path = Listings
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Listings
 	branch = .
-[submodule "LiveTranslate"]
-	path = LiveTranslate
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LiveTranslate
-	branch = .
 [submodule "LocalisationUpdate"]
 	path = LocalisationUpdate
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LocalisationUpdate
