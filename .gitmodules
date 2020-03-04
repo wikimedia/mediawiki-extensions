@@ -2390,6 +2390,10 @@
 	path = Push
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Push
 	branch = .
+[submodule "PushNotifications"]
+	path = PushNotifications
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PushNotifications
+	branch = .
 [submodule "PushToWatch"]
 	path = PushToWatch
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PushToWatch
