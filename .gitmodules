@@ -3158,6 +3158,10 @@
 	path = UserPageViewTracker
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UserPageViewTracker
 	branch = .
+[submodule "UserProtect"]
+	path = UserProtect
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UserProtect
+	branch = .
 [submodule "UserStatus"]
 	path = UserStatus
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UserStatus
