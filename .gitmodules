@@ -1698,10 +1698,6 @@
 	path = MP3MediaHandler
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MP3MediaHandler
 	branch = .
-[submodule "MSSQLBackCompat"]
-	path = MSSQLBackCompat
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MSSQLBackCompat
-	branch = .
 [submodule "MWVersionInfo"]
 	path = MWVersionInfo
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MWVersionInfo
