@@ -2102,10 +2102,6 @@
 	path = OpenStreetMapSlippyMap
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OpenStreetMapSlippyMap
 	branch = .
-[submodule "OracleTextSearch"]
-	path = OracleTextSearch
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OracleTextSearch
-	branch = .
 [submodule "OrphanedTalkPages"]
 	path = OrphanedTalkPages
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OrphanedTalkPages
