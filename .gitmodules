@@ -3370,10 +3370,6 @@
 	path = WikimediaMessages
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikimediaMessages
 	branch = .
-[submodule "WikipediaExtracts"]
-	path = WikipediaExtracts
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikipediaExtracts
-	branch = .
 [submodule "Wikisource"]
 	path = Wikisource
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Wikisource
