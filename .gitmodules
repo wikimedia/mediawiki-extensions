@@ -2718,10 +2718,6 @@
 	path = SimpleChanges
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SimpleChanges
 	branch = .
-[submodule "SimpleFarm"]
-	path = SimpleFarm
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SimpleFarm
-	branch = .
 [submodule "SimpleSAMLphp"]
 	path = SimpleSAMLphp
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SimpleSAMLphp
