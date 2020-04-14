@@ -1714,10 +1714,6 @@
 	path = MagicNoCache
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MagicNoCache
 	branch = .
-[submodule "MagicNumberedHeadings"]
-	path = MagicNumberedHeadings
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MagicNumberedHeadings
-	branch = .
 [submodule "Mailgun"]
 	path = Mailgun
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Mailgun
