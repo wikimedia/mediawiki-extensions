@@ -2550,10 +2550,6 @@
 	path = SaveSpinner
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SaveSpinner
 	branch = .
-[submodule "ScanSet"]
-	path = ScanSet
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ScanSet
-	branch = .
 [submodule "Score"]
 	path = Score
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Score
