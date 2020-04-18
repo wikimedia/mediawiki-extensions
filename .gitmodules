@@ -1670,6 +1670,10 @@
 	path = LiveChat
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LiveChat
 	branch = .
+[submodule "LiveStreaming"]
+	path = LiveStreaming
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LiveStreaming
+	branch = .
 [submodule "LocalisationUpdate"]
 	path = LocalisationUpdate
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LocalisationUpdate
