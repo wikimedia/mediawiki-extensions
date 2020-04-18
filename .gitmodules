@@ -974,6 +974,10 @@
 	path = DumpHTML
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DumpHTML
 	branch = .
+[submodule "DumpsOnDemand"]
+	path = DumpsOnDemand
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DumpsOnDemand
+	branch = .
 [submodule "Duplicator"]
 	path = Duplicator
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Duplicator
