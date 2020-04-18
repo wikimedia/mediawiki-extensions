@@ -3382,6 +3382,10 @@
 	path = Wikispeech
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Wikispeech
 	branch = .
+[submodule "WikispeechSpeechDataCollector"]
+	path = WikispeechSpeechDataCollector
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikispeechSpeechDataCollector
+	branch = .
 [submodule "WindowsAzureStorage"]
 	path = WindowsAzureStorage
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WindowsAzureStorage
