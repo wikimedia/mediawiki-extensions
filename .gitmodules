@@ -3306,6 +3306,10 @@
 	path = WikiSEO
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiSEO
 	branch = .
+[submodule "WikiShare"]
+	path = WikiShare
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiShare
+	branch = .
 [submodule "WikiTextLoggedInOut"]
 	path = WikiTextLoggedInOut
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiTextLoggedInOut
