@@ -1370,6 +1370,10 @@
 	path = GraphViz
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GraphViz
 	branch = .
+[submodule "GroupWhitelist"]
+	path = GroupWhitelist
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GroupWhitelist
+	branch = .
 [submodule "GroupsSidebar"]
 	path = GroupsSidebar
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GroupsSidebar
