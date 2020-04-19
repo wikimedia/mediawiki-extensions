@@ -2938,10 +2938,6 @@
 	path = TemplateData
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TemplateData
 	branch = .
-[submodule "TemplateInfo"]
-	path = TemplateInfo
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TemplateInfo
-	branch = .
 [submodule "TemplateSandbox"]
 	path = TemplateSandbox
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TemplateSandbox
