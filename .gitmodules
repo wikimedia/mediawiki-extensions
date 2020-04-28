@@ -3434,10 +3434,6 @@
 	path = intersection
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/intersection
 	branch = .
-[submodule "reCaptcha"]
-	path = reCaptcha
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/reCaptcha
-	branch = .
 [submodule "timeline"]
 	path = timeline
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/timeline
