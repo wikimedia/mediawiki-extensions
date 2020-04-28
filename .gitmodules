@@ -1082,10 +1082,6 @@
 	path = ExtJSBase
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ExtJSBase
 	branch = .
-[submodule "ExtTab"]
-	path = ExtTab
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ExtTab
-	branch = .
 [submodule "ExtensionDistributor"]
 	path = ExtensionDistributor
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ExtensionDistributor
