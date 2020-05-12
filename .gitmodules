@@ -3070,10 +3070,6 @@
 	path = UnCaptcha
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UnCaptcha
 	branch = .
-[submodule "UnblockMe"]
-	path = UnblockMe
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UnblockMe
-	branch = .
 [submodule "UnicodeConverter"]
 	path = UnicodeConverter
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UnicodeConverter
