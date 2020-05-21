@@ -166,6 +166,10 @@
 	path = AzharAuth
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AzharAuth
 	branch = .
+[submodule "BSSMWConnector"]
+	path = BSSMWConnector
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BSSMWConnector
+	branch = .
 [submodule "Babel"]
 	path = Babel
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Babel
@@ -561,6 +565,10 @@
 [submodule "BoilerPlate"]
 	path = BoilerPlate
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BoilerPlate
+	branch = .
+[submodule "Bootstrap"]
+	path = Bootstrap
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Bootstrap
 	branch = .
 [submodule "BounceHandler"]
 	path = BounceHandler
@@ -1250,6 +1258,10 @@
 	path = GitGadgets
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GitGadgets
 	branch = .
+[submodule "GitHub"]
+	path = GitHub
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GitHub
+	branch = .
 [submodule "Gitweb"]
 	path = Gitweb
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Gitweb
@@ -1533,6 +1545,10 @@
 [submodule "InviteSignup"]
 	path = InviteSignup
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/InviteSignup
+	branch = .
+[submodule "JADE"]
+	path = JADE
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/JADE
 	branch = .
 [submodule "JSBreadCrumbs"]
 	path = JSBreadCrumbs
@@ -1846,6 +1862,14 @@
 	path = MontserratFont
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MontserratFont
 	branch = .
+[submodule "MoveToCommons"]
+	path = MoveToCommons
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MoveToCommons
+	branch = .
+[submodule "MoveToCommonsClient"]
+	path = MoveToCommonsClient
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MoveToCommonsClient
+	branch = .
 [submodule "Mpdf"]
 	path = Mpdf
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Mpdf
@@ -2022,6 +2046,10 @@
 	path = NumberFormat
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NumberFormat
 	branch = .
+[submodule "NumberOfComments"]
+	path = NumberOfComments
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NumberOfComments
+	branch = .
 [submodule "NumberOfWikis"]
 	path = NumberOfWikis
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NumberOfWikis
@@ -2138,6 +2166,10 @@
 	path = PageDisqus
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageDisqus
 	branch = .
+[submodule "PageExchange"]
+	path = PageExchange
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageExchange
+	branch = .
 [submodule "PageForms"]
 	path = PageForms
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageForms
@@ -2213,6 +2245,10 @@
 [submodule "ParserMigration"]
 	path = ParserMigration
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ParserMigration
+	branch = .
+[submodule "Parsoid"]
+	path = Parsoid
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Parsoid
 	branch = .
 [submodule "ParsoidBatchAPI"]
 	path = ParsoidBatchAPI
@@ -2466,6 +2502,10 @@
 	path = RandomSelection
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RandomSelection
 	branch = .
+[submodule "RandomUsersWithAvatars"]
+	path = RandomUsersWithAvatars
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RandomUsersWithAvatars
+	branch = .
 [submodule "ReadingLists"]
 	path = ReadingLists
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ReadingLists
@@ -2505,6 +2545,10 @@
 [submodule "RelatedSites"]
 	path = RelatedSites
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RelatedSites
+	branch = .
+[submodule "RelationLinks"]
+	path = RelationLinks
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RelationLinks
 	branch = .
 [submodule "Renameuser"]
 	path = Renameuser
@@ -2665,6 +2709,10 @@
 [submodule "SemanticSifter"]
 	path = SemanticSifter
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticSifter
+	branch = .
+[submodule "SemanticTasks"]
+	path = SemanticTasks
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticTasks
 	branch = .
 [submodule "SemanticWebBrowser"]
 	path = SemanticWebBrowser
@@ -2974,6 +3022,10 @@
 	path = ThrottleOverride
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ThrottleOverride
 	branch = .
+[submodule "ThumbParser"]
+	path = ThumbParser
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ThumbParser
+	branch = .
 [submodule "TimeMachine"]
 	path = TimeMachine
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TimeMachine
@@ -3045,6 +3097,10 @@
 [submodule "TwitterLogin"]
 	path = TwitterLogin
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TwitterLogin
+	branch = .
+[submodule "TwitterTag"]
+	path = TwitterTag
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TwitterTag
 	branch = .
 [submodule "TwnMainPage"]
 	path = TwnMainPage
@@ -3185,6 +3241,10 @@
 [submodule "VikiTitleIcon"]
 	path = VikiTitleIcon
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VikiTitleIcon
+	branch = .
+[submodule "Vine"]
+	path = Vine
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Vine
 	branch = .
 [submodule "VipsScaler"]
 	path = VipsScaler
@@ -3334,9 +3394,17 @@
 	path = WikibaseQualityConstraints
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikibaseQualityConstraints
 	branch = .
+[submodule "WikibaseSchema"]
+	path = WikibaseSchema
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikibaseSchema
+	branch = .
 [submodule "Wikidata.org"]
 	path = Wikidata.org
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Wikidata.org
+	branch = .
+[submodule "WikidataEntitySuggester"]
+	path = WikidataEntitySuggester
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikidataEntitySuggester
 	branch = .
 [submodule "WikidataPageBanner"]
 	path = WikidataPageBanner
@@ -3389,6 +3457,10 @@
 [submodule "XAnalytics"]
 	path = XAnalytics
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/XAnalytics
+	branch = .
+[submodule "XLS"]
+	path = XLS
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/XLS
 	branch = .
 [submodule "XSL"]
 	path = XSL
