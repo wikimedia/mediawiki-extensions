@@ -4,6 +4,7 @@ import logging
 import os.path
 import subprocess
 import json
+import shutil
 
 # Configuration for this script
 basepath = "mediawiki/extensions/"
@@ -34,7 +35,12 @@ def main():
         state = projects.get(p).get('state')
 
         if state == 'READ_ONLY':
-            print(" ".join([p, 'skipping, repo is readonly']))
+            log.info(" ".join([p, 'skipping, repo is readonly']))
+
+            if os.path.isdir(basename):
+                log.info("Removing directory for %s" % p)
+                shutil.rmtree(basename)
+
             continue
 
         gitmodules.append(p)
