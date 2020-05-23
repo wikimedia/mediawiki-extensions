@@ -8,5 +8,5 @@ Several maintenance and utility scripts are included:
 * check-sync.sh - Compare latest submodule pointers with the master branch of each repo.
 * quick-update - Fetch and update submodules in parallel.
 * sort-gitmodules.py - Reorder existing .gitmodules
-* sync-with-gerrit.py - Find all MediaWiki extensions in gerrit, add as submodules and rebuild .gitmodules
-* update-extensions.sh - Fetches any missing extensions.
+* sync-with-gerrit.py - Find all MediaWiki extensions in gerrit, add as submodules, removes any state: READ_ONLY and rebuild .gitmodules
+* update-extensions.sh - Adds missing extensions as submodules.

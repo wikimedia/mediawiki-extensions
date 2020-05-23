@@ -3,7 +3,7 @@
 # Config
 basePath="mediawiki/extensions/"
 
-# Script to clone any missing extensions and updates the others
+# Script to clone any missing submodules. Note it will include archived repos
 ssh -p 29418 gerrit.wikimedia.org gerrit ls-projects | grep "^${basePath}" | sed "s,${basePath},," | while read PROJECT
 do
 	echo "[${PROJECT}]:"
