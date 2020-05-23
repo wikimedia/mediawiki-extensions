@@ -30,10 +30,11 @@ def main():
         basename = project_basename(p)
         if '/' in basename:
             continue
-        desc = projects.get(p).get('description')
 
-        if desc != None and any(word in desc.lower() for word in ['archived', 'inactive', 'obsolete']):
-            print(" ".join([p, 'skipping, obsolete or similar']))
+        state = projects.get(p).get('state')
+
+        if state == 'READ_ONLY':
+            print(" ".join([p, 'skipping, repo is readonly']))
             continue
 
         gitmodules.append(p)
