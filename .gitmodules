@@ -2754,10 +2754,6 @@
 	path = SiteMetrics
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SiteMetrics
 	branch = .
-[submodule "SiteScout"]
-	path = SiteScout
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SiteScout
-	branch = .
 [submodule "SiteSettings"]
 	path = SiteSettings
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SiteSettings
