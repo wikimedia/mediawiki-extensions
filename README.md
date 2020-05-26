@@ -9,4 +9,3 @@ Several maintenance and utility scripts are included:
 * quick-update - Fetch and update submodules in parallel.
 * sort-gitmodules.py - Reorder existing .gitmodules
 * sync-with-gerrit.py - Find all MediaWiki extensions in gerrit, add as submodules if state is not READONLY, removes any that state: READ_ONLY and rebuild .gitmodules
-* update-extensions.sh - Adds missing extensions as submodules.
