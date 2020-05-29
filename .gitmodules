@@ -2334,10 +2334,6 @@
 	path = PopupAlerts
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PopupAlerts
 	branch = .
-[submodule "PopupPages"]
-	path = PopupPages
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PopupPages
-	branch = .
 [submodule "Popups"]
 	path = Popups
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Popups
