@@ -27,14 +27,12 @@ def main():
     projects = json.loads(projects)
     log.info("Checking modules")
     gitmodules = []
-    for p in sorted(projects.iterkeys()):
+    for p in sorted(projects.keys()):
         basename = project_basename(p)
         if '/' in basename:
             continue
 
-        state = projects.get(p).get('state')
-
-        if state == 'READ_ONLY':
+        if projects[p].get('state') == 'READ_ONLY':
             log.info(" ".join([p, 'skipping, repo is readonly']))
 
             if os.path.isdir(basename):
