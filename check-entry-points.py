@@ -41,6 +41,7 @@ for extension in sorted(os.listdir(BASE_DIR)):
         dir_items = os.listdir(ext_dir)
         cwd = os.getcwd()
         if set(dir_items) - set(DEFAULT_FILES):
-            print "Missing entry point: %s" % os.path.relpath(ep_php, cwd)
+            print('Missing entry point: {}'
+                  .format(os.path.relpath(ep_php, cwd)))
         else:
-            print "Empty repository: %s" % os.path.relpath(ext_dir, cwd)
+            print('Empty repository: {}'.format(os.path.relpath(ext_dir, cwd)))
