@@ -1082,6 +1082,10 @@
 	path = EventStreamConfig
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EventStreamConfig
 	branch = .
+[submodule "Expressions"]
+	path = Expressions
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Expressions
+	branch = .
 [submodule "ExtJSBase"]
 	path = ExtJSBase
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ExtJSBase
