@@ -162,10 +162,6 @@
 	path = Awesomeness
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Awesomeness
 	branch = .
-[submodule "AzharAuth"]
-	path = AzharAuth
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AzharAuth
-	branch = .
 [submodule "Babel"]
 	path = Babel
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Babel
