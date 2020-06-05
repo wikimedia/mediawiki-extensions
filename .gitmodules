@@ -606,6 +606,10 @@
 	path = Carp
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Carp
 	branch = .
+[submodule "CatTalk"]
+	path = CatTalk
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CatTalk
+	branch = .
 [submodule "CategorySortHeaders"]
 	path = CategorySortHeaders
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CategorySortHeaders
