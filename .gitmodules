@@ -558,10 +558,6 @@
 	path = BoilerPlate
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BoilerPlate
 	branch = .
-[submodule "Bootstrap"]
-	path = Bootstrap
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Bootstrap
-	branch = .
 [submodule "BounceHandler"]
 	path = BounceHandler
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BounceHandler
