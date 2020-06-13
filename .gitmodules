@@ -790,10 +790,6 @@
 	path = ContributionScores
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ContributionScores
 	branch = .
-[submodule "ContributionTracking"]
-	path = ContributionTracking
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ContributionTracking
-	branch = .
 [submodule "ContributionsList"]
 	path = ContributionsList
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ContributionsList
