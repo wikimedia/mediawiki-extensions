@@ -1298,6 +1298,10 @@
 	path = GlobalUserrights
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GlobalUserrights
 	branch = .
+[submodule "GlobalWatchlist"]
+	path = GlobalWatchlist
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GlobalWatchlist
+	branch = .
 [submodule "GoToShell"]
 	path = GoToShell
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GoToShell
