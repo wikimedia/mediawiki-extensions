@@ -718,6 +718,10 @@
 	path = Cognate
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Cognate
 	branch = .
+[submodule "CognitiveProcessDesigner"]
+	path = CognitiveProcessDesigner
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CognitiveProcessDesigner
+	branch = .
 [submodule "CollaborationKit"]
 	path = CollaborationKit
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CollaborationKit
