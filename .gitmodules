@@ -2058,6 +2058,10 @@
 	path = OAuthAuthentication
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OAuthAuthentication
 	branch = .
+[submodule "OAuthRateLimiter"]
+	path = OAuthRateLimiter
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OAuthRateLimiter
+	branch = .
 [submodule "OOJSPlus"]
 	path = OOJSPlus
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OOJSPlus
