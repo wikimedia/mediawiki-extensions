@@ -3310,6 +3310,10 @@
 	path = WikiForum
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiForum
 	branch = .
+[submodule "WikiLambda"]
+	path = WikiLambda
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiLambda
+	branch = .
 [submodule "WikiLexicalData"]
 	path = WikiLexicalData
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiLexicalData
