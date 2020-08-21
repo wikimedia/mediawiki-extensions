@@ -2510,6 +2510,10 @@
 	path = RegexFunctions
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RegexFunctions
 	branch = .
+[submodule "RelMicroformat"]
+	path = RelMicroformat
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RelMicroformat
+	branch = .
 [submodule "RelatedArticles"]
 	path = RelatedArticles
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RelatedArticles
