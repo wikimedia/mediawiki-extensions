@@ -1458,6 +1458,10 @@
 	path = I18nTags
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/I18nTags
 	branch = .
+[submodule "IPInfo"]
+	path = IPInfo
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/IPInfo
+	branch = .
 [submodule "Ids"]
 	path = Ids
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Ids
@@ -1733,6 +1737,10 @@
 [submodule "MagicNoCache"]
 	path = MagicNoCache
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MagicNoCache
+	branch = .
+[submodule "MagicNumberedHeadings"]
+	path = MagicNumberedHeadings
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MagicNumberedHeadings
 	branch = .
 [submodule "Mailgun"]
 	path = Mailgun
@@ -2901,6 +2909,10 @@
 [submodule "StringFunctionsEscaped"]
 	path = StringFunctionsEscaped
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/StringFunctionsEscaped
+	branch = .
+[submodule "StructuredNavigation"]
+	path = StructuredNavigation
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/StructuredNavigation
 	branch = .
 [submodule "SubPageList3"]
 	path = SubPageList3
