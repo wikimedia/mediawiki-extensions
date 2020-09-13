@@ -2182,6 +2182,10 @@
 	path = PageLanguage
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageLanguage
 	branch = .
+[submodule "PageMagic"]
+	path = PageMagic
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageMagic
+	branch = .
 [submodule "PageNameFormula"]
 	path = PageNameFormula
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageNameFormula
