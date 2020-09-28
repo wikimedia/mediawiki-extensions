@@ -1410,6 +1410,10 @@
 	path = HashTables
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HashTables
 	branch = .
+[submodule "HeadScript"]
+	path = HeadScript
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HeadScript
+	branch = .
 [submodule "HeaderTabs"]
 	path = HeaderTabs
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HeaderTabs
