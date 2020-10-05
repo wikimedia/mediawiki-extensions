@@ -3242,10 +3242,6 @@
 	path = VoteNY
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VoteNY
 	branch = .
-[submodule "WSArrays"]
-	path = WSArrays
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WSArrays
-	branch = .
 [submodule "WSOAuth"]
 	path = WSOAuth
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WSOAuth
