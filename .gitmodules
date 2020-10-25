@@ -1102,6 +1102,10 @@
 	path = ExternalGuidance
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ExternalGuidance
 	branch = .
+[submodule "ExternalLinkConfirm"]
+	path = ExternalLinkConfirm
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ExternalLinkConfirm
+	branch = .
 [submodule "ExtraLanguageLink"]
 	path = ExtraLanguageLink
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ExtraLanguageLink
