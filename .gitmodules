@@ -1598,6 +1598,10 @@
 	path = LDAPProvider
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LDAPProvider
 	branch = .
+[submodule "LDAPSyncAll"]
+	path = LDAPSyncAll
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LDAPSyncAll
+	branch = .
 [submodule "LDAPUserInfo"]
 	path = LDAPUserInfo
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LDAPUserInfo
