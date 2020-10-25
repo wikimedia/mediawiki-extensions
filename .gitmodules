@@ -806,6 +806,10 @@
 	path = CopyToClipboard
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CopyToClipboard
 	branch = .
+[submodule "CosmosProfile"]
+	path = CosmosProfile
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CosmosProfile
+	branch = .
 [submodule "CountDownClock"]
 	path = CountDownClock
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CountDownClock
