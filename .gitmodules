@@ -1638,6 +1638,10 @@
 	path = LdapAuthentication
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LdapAuthentication
 	branch = .
+[submodule "LegalLogin"]
+	path = LegalLogin
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LegalLogin
+	branch = .
 [submodule "LifeWeb"]
 	path = LifeWeb
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LifeWeb
