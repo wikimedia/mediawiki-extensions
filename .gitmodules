@@ -66,6 +66,10 @@
 	path = AdvancedSearch
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AdvancedSearch
 	branch = .
+[submodule "AjaxShowEditors"]
+	path = AjaxShowEditors
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AjaxShowEditors
+	branch = .
 [submodule "AkismetKlik"]
 	path = AkismetKlik
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AkismetKlik
