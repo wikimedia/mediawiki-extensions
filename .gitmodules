@@ -266,10 +266,6 @@
 	path = BlueSpiceEchoConnector
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceEchoConnector
 	branch = .
-[submodule "BlueSpiceEditNotifyConnector"]
-	path = BlueSpiceEditNotifyConnector
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceEditNotifyConnector
-	branch = .
 [submodule "BlueSpiceEmoticons"]
 	path = BlueSpiceEmoticons
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceEmoticons
