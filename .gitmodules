@@ -3414,6 +3414,10 @@
 	path = WikibaseQualityConstraints
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikibaseQualityConstraints
 	branch = .
+[submodule "WikibaseStatementUpdater"]
+	path = WikibaseStatementUpdater
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikibaseStatementUpdater
+	branch = .
 [submodule "Wikidata.org"]
 	path = Wikidata.org
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Wikidata.org
