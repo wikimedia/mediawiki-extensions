@@ -1054,6 +1054,10 @@
 	path = EmailDiff
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EmailDiff
 	branch = .
+[submodule "EncryptedUploads"]
+	path = EncryptedUploads
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EncryptedUploads
+	branch = .
 [submodule "EnhanceContactForm"]
 	path = EnhanceContactForm
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EnhanceContactForm
