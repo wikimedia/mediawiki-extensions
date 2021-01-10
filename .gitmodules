@@ -3002,6 +3002,10 @@
 	path = TemplateSandbox
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TemplateSandbox
 	branch = .
+[submodule "TemplateScripts"]
+	path = TemplateScripts
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TemplateScripts
+	branch = .
 [submodule "TemplateStyles"]
 	path = TemplateStyles
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TemplateStyles
