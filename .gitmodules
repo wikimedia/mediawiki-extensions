@@ -2794,10 +2794,6 @@
 	path = SimpleSAMLphp
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SimpleSAMLphp
 	branch = .
-[submodule "SimpleSecurity"]
-	path = SimpleSecurity
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SimpleSecurity
-	branch = .
 [submodule "SimpleSort"]
 	path = SimpleSort
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SimpleSort
