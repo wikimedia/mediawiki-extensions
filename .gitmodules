@@ -3386,6 +3386,10 @@
 	path = WikiTextLoggedInOut
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiTextLoggedInOut
 	branch = .
+[submodule "WikiToLDAP"]
+	path = WikiToLDAP
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiToLDAP
+	branch = .
 [submodule "Wikibase"]
 	path = Wikibase
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Wikibase
