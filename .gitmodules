@@ -30,6 +30,10 @@
 	path = AccountInfo
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AccountInfo
 	branch = .
+[submodule "Acrolinx"]
+	path = Acrolinx
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Acrolinx
+	branch = .
 [submodule "ActiveAbstract"]
 	path = ActiveAbstract
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ActiveAbstract
