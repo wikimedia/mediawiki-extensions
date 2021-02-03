@@ -3258,10 +3258,6 @@
 	path = VipsScaler
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VipsScaler
 	branch = .
-[submodule "VirtualKeyboard"]
-	path = VirtualKeyboard
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VirtualKeyboard
-	branch = .
 [submodule "VisualEditor"]
 	path = VisualEditor
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VisualEditor
