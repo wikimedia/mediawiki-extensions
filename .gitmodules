@@ -1654,14 +1654,6 @@
 	path = LibraryCheckout
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LibraryCheckout
 	branch = .
-[submodule "LifeWeb"]
-	path = LifeWeb
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LifeWeb
-	branch = .
-[submodule "LifeWebCore"]
-	path = LifeWebCore
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LifeWebCore
-	branch = .
 [submodule "Lingo"]
 	path = Lingo
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Lingo
