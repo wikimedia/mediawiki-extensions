@@ -2838,10 +2838,6 @@
 	path = SoftwareVersion
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SoftwareVersion
 	branch = .
-[submodule "Solarium"]
-	path = Solarium
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Solarium
-	branch = .
 [submodule "SoundManager2Button"]
 	path = SoundManager2Button
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SoundManager2Button
