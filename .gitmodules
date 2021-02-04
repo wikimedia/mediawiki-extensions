@@ -2186,10 +2186,6 @@
 	path = PageAssessments
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageAssessments
 	branch = .
-[submodule "PageBlock"]
-	path = PageBlock
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageBlock
-	branch = .
 [submodule "PageCreationNotif"]
 	path = PageCreationNotif
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageCreationNotif
