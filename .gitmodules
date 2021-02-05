@@ -2154,10 +2154,6 @@
 	path = OpenStackManager
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OpenStackManager
 	branch = .
-[submodule "OpenStreetMapSlippyMap"]
-	path = OpenStreetMapSlippyMap
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OpenStreetMapSlippyMap
-	branch = .
 [submodule "OrphanedTalkPages"]
 	path = OrphanedTalkPages
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OrphanedTalkPages
