@@ -762,10 +762,6 @@
 	path = ConfigManager
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ConfigManager
 	branch = .
-[submodule "ConfigurableCounters"]
-	path = ConfigurableCounters
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ConfigurableCounters
-	branch = .
 [submodule "ConfirmAccount"]
 	path = ConfirmAccount
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ConfirmAccount
