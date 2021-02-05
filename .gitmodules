@@ -2386,10 +2386,6 @@
 	path = PreferencesList
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PreferencesList
 	branch = .
-[submodule "PreferencesMaster"]
-	path = PreferencesMaster
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PreferencesMaster
-	branch = .
 [submodule "Prezi"]
 	path = Prezi
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Prezi
