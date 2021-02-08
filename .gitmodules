@@ -2462,10 +2462,6 @@
 	path = QuizGame
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/QuizGame
 	branch = .
-[submodule "QuizTabulate"]
-	path = QuizTabulate
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/QuizTabulate
-	branch = .
 [submodule "RSS"]
 	path = RSS
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RSS
