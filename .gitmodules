@@ -1482,10 +1482,6 @@
 	path = Ids
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Ids
 	branch = .
-[submodule "IfTemplates"]
-	path = IfTemplates
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/IfTemplates
-	branch = .
 [submodule "IframePage"]
 	path = IframePage
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/IframePage
