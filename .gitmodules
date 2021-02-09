@@ -1682,10 +1682,6 @@
 	path = LiquidThreads
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LiquidThreads
 	branch = .
-[submodule "ListSignup"]
-	path = ListSignup
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ListSignup
-	branch = .
 [submodule "Listings"]
 	path = Listings
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Listings
