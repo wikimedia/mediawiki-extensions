@@ -1334,10 +1334,6 @@
 	path = GoogleAnalyticsTopPages
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GoogleAnalyticsTopPages
 	branch = .
-[submodule "GoogleAppEngine"]
-	path = GoogleAppEngine
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GoogleAppEngine
-	branch = .
 [submodule "GoogleAuthenticator"]
 	path = GoogleAuthenticator
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GoogleAuthenticator
