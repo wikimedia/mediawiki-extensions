@@ -802,10 +802,6 @@
 	path = CookieWarning
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CookieWarning
 	branch = .
-[submodule "CopyToClipboard"]
-	path = CopyToClipboard
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CopyToClipboard
-	branch = .
 [submodule "CosmosProfile"]
 	path = CosmosProfile
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CosmosProfile
