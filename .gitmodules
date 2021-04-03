@@ -842,10 +842,6 @@
 	path = CreditsSource
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CreditsSource
 	branch = .
-[submodule "D3Loader"]
-	path = D3Loader
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/D3Loader
-	branch = .
 [submodule "DPLforum"]
 	path = DPLforum
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DPLforum
