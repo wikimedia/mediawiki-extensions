@@ -1798,6 +1798,10 @@
 	path = MediaSearch
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MediaSearch
 	branch = .
+[submodule "MediaUploader"]
+	path = MediaUploader
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MediaUploader
+	branch = .
 [submodule "MediaWikiAuth"]
 	path = MediaWikiAuth
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MediaWikiAuth
