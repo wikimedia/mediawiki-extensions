@@ -1390,6 +1390,10 @@
 	path = GraphViz
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GraphViz
 	branch = .
+[submodule "Gravatar"]
+	path = Gravatar
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Gravatar
+	branch = .
 [submodule "GroupWhitelist"]
 	path = GroupWhitelist
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GroupWhitelist
