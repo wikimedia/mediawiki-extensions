@@ -1686,6 +1686,10 @@
 	path = LocalisationUpdate
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LocalisationUpdate
 	branch = .
+[submodule "LockAuthor"]
+	path = LockAuthor
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LockAuthor
+	branch = .
 [submodule "LockDownEnglishPages"]
 	path = LockDownEnglishPages
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LockDownEnglishPages
