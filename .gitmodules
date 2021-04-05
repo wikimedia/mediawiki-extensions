@@ -302,6 +302,10 @@
 	path = BlueSpiceFilterableTables
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceFilterableTables
 	branch = .
+[submodule "BlueSpiceFlaggedRevsConnector"]
+	path = BlueSpiceFlaggedRevsConnector
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceFlaggedRevsConnector
+	branch = .
 [submodule "BlueSpiceFoundation"]
 	path = BlueSpiceFoundation
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceFoundation
