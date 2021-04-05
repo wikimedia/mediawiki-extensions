@@ -670,6 +670,10 @@
 	path = ChessBrowser
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ChessBrowser
 	branch = .
+[submodule "CIForms"]
+	path = CIForms
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CIForms
+	branch = .
 [submodule "CirrusSearch"]
 	path = CirrusSearch
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CirrusSearch
