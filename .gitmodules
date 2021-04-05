@@ -294,10 +294,6 @@
 	path = BlueSpiceExtendedStatistics
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceExtendedStatistics
 	branch = .
-[submodule "BlueSpiceExtensions"]
-	path = BlueSpiceExtensions
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceExtensions
-	branch = .
 [submodule "BlueSpiceFilterableTables"]
 	path = BlueSpiceFilterableTables
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceFilterableTables
