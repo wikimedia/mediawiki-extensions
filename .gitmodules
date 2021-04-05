@@ -226,10 +226,6 @@
 	path = BlueSpiceBookshelf
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceBookshelf
 	branch = .
-[submodule "BlueSpiceBookshelfUI"]
-	path = BlueSpiceBookshelfUI
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceBookshelfUI
-	branch = .
 [submodule "BlueSpiceCategoryCheck"]
 	path = BlueSpiceCategoryCheck
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceCategoryCheck
