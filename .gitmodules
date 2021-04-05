@@ -1510,6 +1510,10 @@
 	path = ImportUsers
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ImportUsers
 	branch = .
+[submodule "Inbox"]
+	path = Inbox
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Inbox
+	branch = .
 [submodule "IndexFunction"]
 	path = IndexFunction
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/IndexFunction
