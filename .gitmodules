@@ -382,6 +382,10 @@
 	path = BlueSpicePermissionManager
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpicePermissionManager
 	branch = .
+[submodule "BlueSpicePlayer"]
+	path = BlueSpicePlayer
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpicePlayer
+	branch = .
 [submodule "BlueSpicePrivacy"]
 	path = BlueSpicePrivacy
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpicePrivacy
