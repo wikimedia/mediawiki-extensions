@@ -1822,6 +1822,10 @@
 	path = Memento
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Memento
 	branch = .
+[submodule "MergeArticles"]
+	path = MergeArticles
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MergeArticles
+	branch = .
 [submodule "MessageCommons"]
 	path = MessageCommons
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MessageCommons
