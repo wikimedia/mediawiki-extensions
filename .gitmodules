@@ -974,10 +974,6 @@
 	path = DrawioEditor
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DrawioEditor
 	branch = .
-[submodule "DumpHTML"]
-	path = DumpHTML
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DumpHTML
-	branch = .
 [submodule "DumpsOnDemand"]
 	path = DumpsOnDemand
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DumpsOnDemand
