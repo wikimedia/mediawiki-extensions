@@ -2806,10 +2806,6 @@
 	path = SmiteSpam
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SmiteSpam
 	branch = .
-[submodule "SmoothGallery"]
-	path = SmoothGallery
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SmoothGallery
-	branch = .
 [submodule "SocialLogin"]
 	path = SocialLogin
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SocialLogin
