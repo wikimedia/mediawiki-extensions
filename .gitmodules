@@ -2222,6 +2222,10 @@
 	path = PagePopups
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PagePopups
 	branch = .
+[submodule "PagePort"]
+	path = PagePort
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PagePort
+	branch = .
 [submodule "PageSchemas"]
 	path = PageSchemas
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageSchemas
