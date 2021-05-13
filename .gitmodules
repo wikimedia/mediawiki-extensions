@@ -1950,6 +1950,10 @@
 	path = MyVariables
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MyVariables
 	branch = .
+[submodule "NCBITaxonomyLookup"]
+	path = NCBITaxonomyLookup
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NCBITaxonomyLookup
+	branch = .
 [submodule "NSFileRepo"]
 	path = NSFileRepo
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NSFileRepo
