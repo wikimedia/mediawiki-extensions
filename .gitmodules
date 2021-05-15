@@ -1814,10 +1814,6 @@
 	path = MediaUploader
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MediaUploader
 	branch = .
-[submodule "MediaWikiAuth"]
-	path = MediaWikiAuth
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MediaWikiAuth
-	branch = .
 [submodule "MediaWikiChat"]
 	path = MediaWikiChat
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MediaWikiChat
