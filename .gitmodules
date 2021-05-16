@@ -2542,10 +2542,6 @@
 	path = RelatedArticles
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RelatedArticles
 	branch = .
-[submodule "RelatedLinks"]
-	path = RelatedLinks
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RelatedLinks
-	branch = .
 [submodule "RelatedSites"]
 	path = RelatedSites
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RelatedSites
