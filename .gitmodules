@@ -3122,10 +3122,6 @@
 	path = UploadBlacklist
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UploadBlacklist
 	branch = .
-[submodule "UploadLogo"]
-	path = UploadLogo
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UploadLogo
-	branch = .
 [submodule "UploadWizard"]
 	path = UploadWizard
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UploadWizard
