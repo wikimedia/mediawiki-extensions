@@ -578,6 +578,10 @@
 	path = Buggy
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Buggy
 	branch = .
+[submodule "CIForms"]
+	path = CIForms
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CIForms
+	branch = .
 [submodule "CSS"]
 	path = CSS
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CSS
@@ -669,10 +673,6 @@
 [submodule "ChessBrowser"]
 	path = ChessBrowser
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ChessBrowser
-	branch = .
-[submodule "CIForms"]
-	path = CIForms
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CIForms
 	branch = .
 [submodule "CirrusSearch"]
 	path = CirrusSearch
@@ -1001,6 +1001,10 @@
 [submodule "Echo"]
 	path = Echo
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Echo
+	branch = .
+[submodule "EditAccount"]
+	path = EditAccount
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EditAccount
 	branch = .
 [submodule "EditNotify"]
 	path = EditNotify
@@ -2558,6 +2562,10 @@
 	path = ReplaceText
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ReplaceText
 	branch = .
+[submodule "Report"]
+	path = Report
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Report
+	branch = .
 [submodule "RevisionCommentSupplement"]
 	path = RevisionCommentSupplement
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RevisionCommentSupplement
@@ -2761,6 +2769,10 @@
 [submodule "SignWritingMediaWikiPlugin"]
 	path = SignWritingMediaWikiPlugin
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SignWritingMediaWikiPlugin
+	branch = .
+[submodule "SimpleCalendar"]
+	path = SimpleCalendar
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SimpleCalendar
 	branch = .
 [submodule "SimpleChanges"]
 	path = SimpleChanges
