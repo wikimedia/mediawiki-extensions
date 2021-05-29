@@ -1930,10 +1930,6 @@
 	path = MultiMaps
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MultiMaps
 	branch = .
-[submodule "MultiUpload"]
-	path = MultiUpload
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MultiUpload
-	branch = .
 [submodule "MultimediaPlayer"]
 	path = MultimediaPlayer
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MultimediaPlayer
@@ -2261,10 +2257,6 @@
 [submodule "ParentPage"]
 	path = ParentPage
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ParentPage
-	branch = .
-[submodule "ParserFun"]
-	path = ParserFun
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ParserFun
 	branch = .
 [submodule "ParserFunctions"]
 	path = ParserFunctions
