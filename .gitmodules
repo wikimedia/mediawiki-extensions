@@ -1566,10 +1566,6 @@
 	path = JSBreadCrumbs
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/JSBreadCrumbs
 	branch = .
-[submodule "Jade"]
-	path = Jade
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Jade
-	branch = .
 [submodule "Josa"]
 	path = Josa
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Josa
