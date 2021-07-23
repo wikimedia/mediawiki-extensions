@@ -1186,10 +1186,6 @@
 	path = Flow
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Flow
 	branch = .
-[submodule "FlvHandler"]
-	path = FlvHandler
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FlvHandler
-	branch = .
 [submodule "ForcePreview"]
 	path = ForcePreview
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ForcePreview
