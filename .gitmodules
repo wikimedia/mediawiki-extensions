@@ -198,6 +198,10 @@
 	path = BlockAndNuke
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlockAndNuke
 	branch = .
+[submodule "BlockInactive"]
+	path = BlockInactive
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlockInactive
+	branch = .
 [submodule "BlogPage"]
 	path = BlogPage
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlogPage
@@ -994,10 +998,6 @@
 	path = DynamicSidebar
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DynamicSidebar
 	branch = .
-[submodule "EUCopyrightCampaign"]
-	path = EUCopyrightCampaign
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EUCopyrightCampaign
-	branch = .
 [submodule "Echo"]
 	path = Echo
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Echo
@@ -1049,6 +1049,10 @@
 [submodule "EmailCapture"]
 	path = EmailCapture
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EmailCapture
+	branch = .
+[submodule "EmailDeletedPages"]
+	path = EmailDeletedPages
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EmailDeletedPages
 	branch = .
 [submodule "EmailDiff"]
 	path = EmailDiff
@@ -1978,6 +1982,10 @@
 	path = NavigationTiming
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NavigationTiming
 	branch = .
+[submodule "NaylorAMS"]
+	path = NaylorAMS
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NaylorAMS
+	branch = .
 [submodule "NearbyPages"]
 	path = NearbyPages
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NearbyPages
@@ -2273,6 +2281,10 @@
 [submodule "PdfHandler"]
 	path = PdfHandler
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PdfHandler
+	branch = .
+[submodule "PerPageLanguage"]
+	path = PerPageLanguage
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PerPageLanguage
 	branch = .
 [submodule "PerPageLicense"]
 	path = PerPageLicense
