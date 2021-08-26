@@ -1206,10 +1206,6 @@
 	path = FormatDates
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FormatDates
 	branch = .
-[submodule "FormelApplet"]
-	path = FormelApplet
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FormelApplet
-	branch = .
 [submodule "FundraiserLandingPage"]
 	path = FundraiserLandingPage
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FundraiserLandingPage
@@ -1873,6 +1869,10 @@
 [submodule "MobileFrontend"]
 	path = MobileFrontend
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MobileFrontend
+	branch = .
+[submodule "MobileFrontendContentProvider"]
+	path = MobileFrontendContentProvider
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MobileFrontendContentProvider
 	branch = .
 [submodule "Model"]
 	path = Model
@@ -3433,6 +3433,10 @@
 [submodule "WikispeechSpeechDataCollector"]
 	path = WikispeechSpeechDataCollector
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikispeechSpeechDataCollector
+	branch = .
+[submodule "Wikistories"]
+	path = Wikistories
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Wikistories
 	branch = .
 [submodule "WindowsAzureStorage"]
 	path = WindowsAzureStorage
