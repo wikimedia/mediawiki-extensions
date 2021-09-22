@@ -3298,10 +3298,6 @@
 	path = Widgets
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Widgets
 	branch = .
-[submodule "Wigo3"]
-	path = Wigo3
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Wigo3
-	branch = .
 [submodule "WikEdDiff"]
 	path = WikEdDiff
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikEdDiff
