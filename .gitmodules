@@ -2266,10 +2266,6 @@
 	path = ParserMigration
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ParserMigration
 	branch = .
-[submodule "ParsoidBatchAPI"]
-	path = ParsoidBatchAPI
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ParsoidBatchAPI
-	branch = .
 [submodule "PasswordlessLogin"]
 	path = PasswordlessLogin
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PasswordlessLogin
