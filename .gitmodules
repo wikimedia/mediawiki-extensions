@@ -614,6 +614,10 @@
 	path = CatTalk
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CatTalk
 	branch = .
+[submodule "CategoryLockdown"]
+	path = CategoryLockdown
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CategoryLockdown
+	branch = .
 [submodule "CategorySortHeaders"]
 	path = CategorySortHeaders
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CategorySortHeaders
@@ -2902,6 +2906,10 @@
 	path = StickToThatLanguage
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/StickToThatLanguage
 	branch = .
+[submodule "StickyTOC"]
+	path = StickyTOC
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/StickyTOC
+	branch = .
 [submodule "StlHandler"]
 	path = StlHandler
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/StlHandler
@@ -3093,10 +3101,6 @@
 [submodule "UILangCode"]
 	path = UILangCode
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UILangCode
-	branch = .
-[submodule "URNames"]
-	path = URNames
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/URNames
 	branch = .
 [submodule "UnCaptcha"]
 	path = UnCaptcha
