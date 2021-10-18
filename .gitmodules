@@ -3102,10 +3102,6 @@
 	path = UILangCode
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UILangCode
 	branch = .
-[submodule "URNames"]
-	path = URNames
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/URNames
-	branch = .
 [submodule "UnCaptcha"]
 	path = UnCaptcha
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UnCaptcha
