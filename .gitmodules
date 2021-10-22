@@ -2178,6 +2178,10 @@
 	path = PageAssessments
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageAssessments
 	branch = .
+[submodule "PageAuthors"]
+	path = PageAuthors
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageAuthors
+	branch = .
 [submodule "PageCreationNotif"]
 	path = PageCreationNotif
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageCreationNotif
@@ -2729,10 +2733,6 @@
 [submodule "Shibboleth"]
 	path = Shibboleth
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Shibboleth
-	branch = .
-[submodule "ShortDescription"]
-	path = ShortDescription
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ShortDescription
 	branch = .
 [submodule "ShortUrl"]
 	path = ShortUrl
