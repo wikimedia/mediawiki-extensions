@@ -2458,6 +2458,10 @@
 	path = QuickGV
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/QuickGV
 	branch = .
+[submodule "QuickInstantCommons"]
+	path = QuickInstantCommons
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/QuickInstantCommons
+	branch = .
 [submodule "QuickResponse"]
 	path = QuickResponse
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/QuickResponse
