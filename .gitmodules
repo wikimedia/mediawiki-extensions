@@ -3454,6 +3454,10 @@
 	path = WindowsAzureStorage
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WindowsAzureStorage
 	branch = .
+[submodule "Workflows"]
+	path = Workflows
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Workflows
+	branch = .
 [submodule "XAnalytics"]
 	path = XAnalytics
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/XAnalytics
