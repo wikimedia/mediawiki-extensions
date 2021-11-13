@@ -3118,6 +3118,10 @@
 	path = UnicodeConverter
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UnicodeConverter
 	branch = .
+[submodule "UnifiedTaskOverview"]
+	path = UnifiedTaskOverview
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UnifiedTaskOverview
+	branch = .
 [submodule "UniversalLanguageSelector"]
 	path = UniversalLanguageSelector
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UniversalLanguageSelector
