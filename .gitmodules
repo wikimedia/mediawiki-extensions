@@ -2902,6 +2902,10 @@
 	path = StalkerLog
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/StalkerLog
 	branch = .
+[submodule "StandardDialogs"]
+	path = StandardDialogs
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/StandardDialogs
+	branch = .
 [submodule "StarterWiki"]
 	path = StarterWiki
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/StarterWiki
