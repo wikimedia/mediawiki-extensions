@@ -2182,6 +2182,10 @@
 	path = PageAuthors
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageAuthors
 	branch = .
+[submodule "PageCheckout"]
+	path = PageCheckout
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageCheckout
+	branch = .
 [submodule "PageCreationNotif"]
 	path = PageCreationNotif
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageCreationNotif
