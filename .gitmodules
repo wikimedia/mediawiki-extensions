@@ -1202,6 +1202,10 @@
 	path = Form
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Form
 	branch = .
+[submodule "Forms"]
+	path = Forms
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Forms
+	branch = .
 [submodule "FormWizard"]
 	path = FormWizard
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FormWizard
