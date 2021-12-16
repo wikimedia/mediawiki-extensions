@@ -2654,6 +2654,10 @@
 	path = SearchStats
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SearchStats
 	branch = .
+[submodule "SearchThumbs"]
+	path = SearchThumbs
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SearchThumbs
+	branch = .
 [submodule "SectionDisqus"]
 	path = SectionDisqus
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SectionDisqus
