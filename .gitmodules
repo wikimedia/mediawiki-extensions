@@ -598,6 +598,10 @@
 	path = Campaigns
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Campaigns
 	branch = .
+[submodule "CampaignEvents"]
+	path = CampaignEvents
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CampaignEvents
+	branch = .
 [submodule "Capiunto"]
 	path = Capiunto
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Capiunto
