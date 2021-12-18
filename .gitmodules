@@ -594,13 +594,13 @@
 	path = Calendar
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Calendar
 	branch = .
-[submodule "Campaigns"]
-	path = Campaigns
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Campaigns
-	branch = .
 [submodule "CampaignEvents"]
 	path = CampaignEvents
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CampaignEvents
+	branch = .
+[submodule "Campaigns"]
+	path = Campaigns
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Campaigns
 	branch = .
 [submodule "Capiunto"]
 	path = Capiunto
@@ -1206,10 +1206,6 @@
 	path = Form
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Form
 	branch = .
-[submodule "Forms"]
-	path = Forms
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Forms
-	branch = .
 [submodule "FormWizard"]
 	path = FormWizard
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FormWizard
@@ -1217,6 +1213,10 @@
 [submodule "FormatDates"]
 	path = FormatDates
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FormatDates
+	branch = .
+[submodule "Forms"]
+	path = Forms
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Forms
 	branch = .
 [submodule "FundraiserLandingPage"]
 	path = FundraiserLandingPage
