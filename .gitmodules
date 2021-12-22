@@ -1350,6 +1350,10 @@
 	path = GoogleCustomWikiSearch
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GoogleCustomWikiSearch
 	branch = .
+[submodule "GoogleDocCreator"]
+	path = GoogleDocCreator
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GoogleDocCreator
+	branch = .
 [submodule "GoogleDocTag"]
 	path = GoogleDocTag
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GoogleDocTag
@@ -2414,6 +2418,10 @@
 	path = PrimarySources
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PrimarySources
 	branch = .
+[submodule "PrincePDF"]
+	path = PrincePDF
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PrincePDF
+	branch = .
 [submodule "PrivateDomains"]
 	path = PrivateDomains
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PrivateDomains
@@ -2681,6 +2689,10 @@
 [submodule "SecureSessions"]
 	path = SecureSessions
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SecureSessions
+	branch = .
+[submodule "SecurityApi"]
+	path = SecurityApi
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SecurityApi
 	branch = .
 [submodule "SelectCategory"]
 	path = SelectCategory
@@ -3093,6 +3105,10 @@
 [submodule "TrustedXFF"]
 	path = TrustedXFF
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TrustedXFF
+	branch = .
+[submodule "TuleapIntegration"]
+	path = TuleapIntegration
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TuleapIntegration
 	branch = .
 [submodule "TweetANew"]
 	path = TweetANew
