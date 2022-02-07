@@ -622,6 +622,10 @@
 	path = CatTalk
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CatTalk
 	branch = .
+[submodule "CategoryExplorer"]
+	path = CategoryExplorer
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CategoryExplorer
+	branch = .
 [submodule "CategoryLockdown"]
 	path = CategoryLockdown
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CategoryLockdown
@@ -2249,6 +2253,10 @@
 [submodule "PagePort"]
 	path = PagePort
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PagePort
+	branch = .
+[submodule "PageProperties"]
+	path = PageProperties
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageProperties
 	branch = .
 [submodule "PageSchemas"]
 	path = PageSchemas
