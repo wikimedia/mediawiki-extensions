@@ -1518,6 +1518,10 @@
 	path = ImageRating
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ImageRating
 	branch = .
+[submodule "ImageSuggestions"]
+	path = ImageSuggestions
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ImageSuggestions
+	branch = .
 [submodule "ImageTweaks"]
 	path = ImageTweaks
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ImageTweaks
@@ -2246,6 +2250,10 @@
 	path = PageNotice
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageNotice
 	branch = .
+[submodule "PageOwnership"]
+	path = PageOwnership
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageOwnership
+	branch = .
 [submodule "PagePopups"]
 	path = PagePopups
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PagePopups
@@ -2558,6 +2566,10 @@
 	path = Recoin
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Recoin
 	branch = .
+[submodule "RedirectManager"]
+	path = RedirectManager
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RedirectManager
+	branch = .
 [submodule "RefreshSpecial"]
 	path = RefreshSpecial
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RefreshSpecial
@@ -2573,6 +2585,10 @@
 [submodule "RegexFunctions"]
 	path = RegexFunctions
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RegexFunctions
+	branch = .
+[submodule "RegularTooltips"]
+	path = RegularTooltips
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RegularTooltips
 	branch = .
 [submodule "RelMicroformat"]
 	path = RelMicroformat
@@ -3121,6 +3137,10 @@
 [submodule "TuleapIntegration"]
 	path = TuleapIntegration
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TuleapIntegration
+	branch = .
+[submodule "TuleapWikiFarm"]
+	path = TuleapWikiFarm
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TuleapWikiFarm
 	branch = .
 [submodule "TweetANew"]
 	path = TweetANew
