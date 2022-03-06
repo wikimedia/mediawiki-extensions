@@ -982,10 +982,6 @@
 	path = DoubleWiki
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DoubleWiki
 	branch = .
-[submodule "DownloadCounter"]
-	path = DownloadCounter
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DownloadCounter
-	branch = .
 [submodule "Drafts"]
 	path = Drafts
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Drafts
@@ -2766,6 +2762,10 @@
 	path = SemanticPageSeries
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticPageSeries
 	branch = .
+[submodule "SemanticRESTAPI"]
+	path = SemanticRESTAPI
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticRESTAPI
+	branch = .
 [submodule "SemanticRating"]
 	path = SemanticRating
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticRating
@@ -3309,6 +3309,10 @@
 [submodule "VoteNY"]
 	path = VoteNY
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VoteNY
+	branch = .
+[submodule "VueTest"]
+	path = VueTest
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VueTest
 	branch = .
 [submodule "WSOAuth"]
 	path = WSOAuth
