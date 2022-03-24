@@ -894,10 +894,6 @@
 	path = DateDiff
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DateDiff
 	branch = .
-[submodule "DebateTree"]
-	path = DebateTree
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DebateTree
-	branch = .
 [submodule "DebugMode"]
 	path = DebugMode
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DebugMode
