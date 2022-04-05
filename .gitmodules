@@ -1006,6 +1006,10 @@
 	path = DynamicSidebar
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DynamicSidebar
 	branch = .
+[submodule "EasyWiki"]
+	path = EasyWiki
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EasyWiki
+	branch = .
 [submodule "Echo"]
 	path = Echo
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Echo
