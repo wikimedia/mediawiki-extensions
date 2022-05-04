@@ -2826,6 +2826,10 @@
 	path = SignWritingMediaWikiPlugin
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SignWritingMediaWikiPlugin
 	branch = .
+[submodule "SimilarEditors"]
+	path = SimilarEditors
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SimilarEditors
+	branch = .
 [submodule "SimpleCalendar"]
 	path = SimpleCalendar
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SimpleCalendar
