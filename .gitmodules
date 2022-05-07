@@ -2338,6 +2338,10 @@
 	path = PhabTaskGraph
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PhabTaskGraph
 	branch = .
+[submodule "PhotoSwipe"]
+	path = PhotoSwipe
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PhotoSwipe
+	branch = .
 [submodule "PhpHighlight"]
 	path = PhpHighlight
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PhpHighlight
