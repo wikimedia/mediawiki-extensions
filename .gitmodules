@@ -1078,6 +1078,10 @@
 	path = EnhanceContactForm
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EnhanceContactForm
 	branch = .
+[submodule "EnhancedUpload"]
+	path = EnhancedUpload
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EnhancedUpload
+	branch = .
 [submodule "EntitySchema"]
 	path = EntitySchema
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EntitySchema
@@ -1534,6 +1538,10 @@
 	path = ImportFreeImages
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ImportFreeImages
 	branch = .
+[submodule "ImportOfficeFiles"]
+	path = ImportOfficeFiles
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ImportOfficeFiles
+	branch = .
 [submodule "ImportUsers"]
 	path = ImportUsers
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ImportUsers
@@ -1589,6 +1597,10 @@
 [submodule "Josa"]
 	path = Josa
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Josa
+	branch = .
+[submodule "Json5Config"]
+	path = Json5Config
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Json5Config
 	branch = .
 [submodule "JsonConfig"]
 	path = JsonConfig
@@ -1845,6 +1857,10 @@
 [submodule "Memento"]
 	path = Memento
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Memento
+	branch = .
+[submodule "MenuEditor"]
+	path = MenuEditor
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MenuEditor
 	branch = .
 [submodule "MergeArticles"]
 	path = MergeArticles
@@ -2337,6 +2353,10 @@
 [submodule "PhabTaskGraph"]
 	path = PhabTaskGraph
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PhabTaskGraph
+	branch = .
+[submodule "Phonos"]
+	path = Phonos
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Phonos
 	branch = .
 [submodule "PhotoSwipe"]
 	path = PhotoSwipe
