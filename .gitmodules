@@ -2814,6 +2814,10 @@
 	path = Sentry
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Sentry
 	branch = .
+[submodule "Share"]
+	path = Share
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Share
+	branch = .
 [submodule "SharedHelpPages"]
 	path = SharedHelpPages
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SharedHelpPages
