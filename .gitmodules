@@ -1962,6 +1962,10 @@
 	path = MultiLanguageManager
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MultiLanguageManager
 	branch = .
+[submodule "MultiMail"]
+	path = MultiMail
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MultiMail
+	branch = .
 [submodule "MultiMaps"]
 	path = MultiMaps
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MultiMaps
