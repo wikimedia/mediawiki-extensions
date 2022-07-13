@@ -2582,6 +2582,10 @@
 	path = ReadingLists
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ReadingLists
 	branch = .
+[submodule "Realnames"]
+	path = Realnames
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Realnames
+	branch = .
 [submodule "ReassignEdits"]
 	path = ReassignEdits
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ReassignEdits
@@ -3145,6 +3149,10 @@
 [submodule "TocTree"]
 	path = TocTree
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TocTree
+	branch = .
+[submodule "Toolhub"]
+	path = Toolhub
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Toolhub
 	branch = .
 [submodule "Tooltip"]
 	path = Tooltip
