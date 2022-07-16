@@ -1070,6 +1070,10 @@
 	path = EmailDiff
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EmailDiff
 	branch = .
+[submodule "EmergencyCaptcha"]
+	path = EmergencyCaptcha
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EmergencyCaptcha
+	branch = .
 [submodule "EncryptedUploads"]
 	path = EncryptedUploads
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EncryptedUploads
