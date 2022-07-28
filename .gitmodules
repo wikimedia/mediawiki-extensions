@@ -2158,10 +2158,6 @@
 	path = OdbcDatabase
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OdbcDatabase
 	branch = .
-[submodule "OfflineImportLexicon"]
-	path = OfflineImportLexicon
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OfflineImportLexicon
-	branch = .
 [submodule "OnionsPorFavor"]
 	path = OnionsPorFavor
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OnionsPorFavor
