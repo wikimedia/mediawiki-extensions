@@ -3238,6 +3238,10 @@
 	path = UniversalLanguageSelector
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UniversalLanguageSelector
 	branch = .
+[submodule "UnlinkedWikibase"]
+	path = UnlinkedWikibase
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UnlinkedWikibase
+	branch = .
 [submodule "UnusedRedirects"]
 	path = UnusedRedirects
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UnusedRedirects
