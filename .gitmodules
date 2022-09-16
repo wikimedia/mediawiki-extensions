@@ -1106,6 +1106,10 @@
 	path = EventLogging
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EventLogging
 	branch = .
+[submodule "EventSimulator"]
+	path = EventSimulator
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EventSimulator
+	branch = .
 [submodule "EventStreamConfig"]
 	path = EventStreamConfig
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EventStreamConfig
@@ -2205,6 +2209,10 @@
 [submodule "OrphanedTalkPages"]
 	path = OrphanedTalkPages
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OrphanedTalkPages
+	branch = .
+[submodule "OurWorldInData"]
+	path = OurWorldInData
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OurWorldInData
 	branch = .
 [submodule "PCRGUIInserts"]
 	path = PCRGUIInserts
