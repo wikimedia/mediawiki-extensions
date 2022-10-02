@@ -1930,6 +1930,10 @@
 	path = MolHandler
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MolHandler
 	branch = .
+[submodule "Monstranto"]
+	path = Monstranto
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Monstranto
+	branch = .
 [submodule "MontserratFont"]
 	path = MontserratFont
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MontserratFont
