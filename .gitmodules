@@ -1438,6 +1438,10 @@
 	path = HSTS
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HSTS
 	branch = .
+[submodule "HTMLPurifier"]
+	path = HTMLPurifier
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HTMLPurifier
+	branch = .
 [submodule "HTMLTags"]
 	path = HTMLTags
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HTMLTags
