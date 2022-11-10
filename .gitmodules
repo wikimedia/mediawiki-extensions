@@ -158,10 +158,6 @@
 	path = AutoGallery
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AutoGallery
 	branch = .
-[submodule "AutoProxyBlock"]
-	path = AutoProxyBlock
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AutoProxyBlock
-	branch = .
 [submodule "Awesomeness"]
 	path = Awesomeness
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Awesomeness
@@ -1290,10 +1286,6 @@
 	path = GitGadgets
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GitGadgets
 	branch = .
-[submodule "Gitweb"]
-	path = Gitweb
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Gitweb
-	branch = .
 [submodule "GlobalBlocking"]
 	path = GlobalBlocking
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GlobalBlocking
@@ -1341,10 +1333,6 @@
 [submodule "GlobalWatchlist"]
 	path = GlobalWatchlist
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GlobalWatchlist
-	branch = .
-[submodule "GoToShell"]
-	path = GoToShell
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GoToShell
 	branch = .
 [submodule "GoogleAdSense"]
 	path = GoogleAdSense
