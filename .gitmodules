@@ -1550,10 +1550,6 @@
 	path = Inbox
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Inbox
 	branch = .
-[submodule "IndexFunction"]
-	path = IndexFunction
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/IndexFunction
-	branch = .
 [submodule "InlineCategorizer"]
 	path = InlineCategorizer
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/InlineCategorizer
