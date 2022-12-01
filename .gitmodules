@@ -2622,6 +2622,10 @@
 	path = RegularTooltips
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RegularTooltips
 	branch = .
+[submodule "RelMe"]
+	path = RelMe
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RelMe
+	branch = .
 [submodule "RelMicroformat"]
 	path = RelMicroformat
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RelMicroformat
