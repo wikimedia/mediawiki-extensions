@@ -2270,6 +2270,10 @@
 	path = PageOwnership
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageOwnership
 	branch = .
+[submodule "PagePermissions"]
+	path = PagePermissions
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PagePermissions
+	branch = .
 [submodule "PagePopups"]
 	path = PagePopups
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PagePopups
