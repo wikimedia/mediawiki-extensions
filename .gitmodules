@@ -102,6 +102,10 @@
 	path = ApprovedRevs
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ApprovedRevs
 	branch = .
+[submodule "ArrayFunctions"]
+	path = ArrayFunctions
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ArrayFunctions
+	branch = .
 [submodule "Arrays"]
 	path = Arrays
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Arrays
@@ -2506,6 +2510,10 @@
 	path = Push
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Push
 	branch = .
+[submodule "PushAll"]
+	path = PushAll
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PushAll
+	branch = .
 [submodule "PushToWatch"]
 	path = PushToWatch
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PushToWatch
@@ -2586,6 +2594,10 @@
 	path = ReadingLists
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ReadingLists
 	branch = .
+[submodule "RealMe"]
+	path = RealMe
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RealMe
+	branch = .
 [submodule "Realnames"]
 	path = Realnames
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Realnames
@@ -2621,10 +2633,6 @@
 [submodule "RegularTooltips"]
 	path = RegularTooltips
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RegularTooltips
-	branch = .
-[submodule "RealMe"]
-	path = RealMe
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RealMe
 	branch = .
 [submodule "RelMicroformat"]
 	path = RelMicroformat
