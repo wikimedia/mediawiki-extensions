@@ -2790,10 +2790,6 @@
 	path = SemanticDependency
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticDependency
 	branch = .
-[submodule "SemanticDrilldown"]
-	path = SemanticDrilldown
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticDrilldown
-	branch = .
 [submodule "SemanticGenealogy"]
 	path = SemanticGenealogy
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticGenealogy
