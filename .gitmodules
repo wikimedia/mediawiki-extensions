@@ -614,10 +614,6 @@
 	path = Cargo
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Cargo
 	branch = .
-[submodule "Carp"]
-	path = Carp
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Carp
-	branch = .
 [submodule "CategoryExplorer"]
 	path = CategoryExplorer
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CategoryExplorer
