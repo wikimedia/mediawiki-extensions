@@ -618,10 +618,6 @@
 	path = Carp
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Carp
 	branch = .
-[submodule "CatTalk"]
-	path = CatTalk
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CatTalk
-	branch = .
 [submodule "CategoryExplorer"]
 	path = CategoryExplorer
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CategoryExplorer
