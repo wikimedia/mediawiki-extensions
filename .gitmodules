@@ -2762,10 +2762,6 @@
 	path = SecurePoll
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SecurePoll
 	branch = .
-[submodule "SecureSessions"]
-	path = SecureSessions
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SecureSessions
-	branch = .
 [submodule "SecurityApi"]
 	path = SecurityApi
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SecurityApi
