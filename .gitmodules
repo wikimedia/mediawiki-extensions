@@ -1910,10 +1910,6 @@
 	path = Model
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Model
 	branch = .
-[submodule "MolHandler"]
-	path = MolHandler
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MolHandler
-	branch = .
 [submodule "Monstranto"]
 	path = Monstranto
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Monstranto
@@ -3017,10 +3013,6 @@
 [submodule "StickyTOC"]
 	path = StickyTOC
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/StickyTOC
-	branch = .
-[submodule "StlHandler"]
-	path = StlHandler
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/StlHandler
 	branch = .
 [submodule "StopForumSpam"]
 	path = StopForumSpam
