@@ -2050,10 +2050,6 @@
 	path = NewestPages
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NewestPages
 	branch = .
-[submodule "News"]
-	path = News
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/News
-	branch = .
 [submodule "NewsBox"]
 	path = NewsBox
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NewsBox
