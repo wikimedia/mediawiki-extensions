@@ -194,10 +194,6 @@
 	path = Blackout
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Blackout
 	branch = .
-[submodule "BlockAndNuke"]
-	path = BlockAndNuke
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlockAndNuke
-	branch = .
 [submodule "BlockInactive"]
 	path = BlockInactive
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlockInactive
