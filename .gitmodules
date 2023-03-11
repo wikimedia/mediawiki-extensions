@@ -2994,6 +2994,10 @@
 	path = StandardDialogs
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/StandardDialogs
 	branch = .
+[submodule "StandardWikitext"]
+	path = StandardWikitext
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/StandardWikitext
+	branch = .
 [submodule "StarterWiki"]
 	path = StarterWiki
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/StarterWiki
