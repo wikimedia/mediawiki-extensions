@@ -3038,6 +3038,10 @@
 	path = SubpageSortkey
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SubpageSortkey
 	branch = .
+[submodule "SubpageWatchlist"]
+	path = SubpageWatchlist
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SubpageWatchlist
+	branch = .
 [submodule "Sudo"]
 	path = Sudo
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Sudo
