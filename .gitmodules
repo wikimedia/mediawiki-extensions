@@ -2710,6 +2710,10 @@
 	path = SearchExtraNS
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SearchExtraNS
 	branch = .
+[submodule "SearchParserFunction"]
+	path = SearchParserFunction
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SearchParserFunction
+	branch = .
 [submodule "SearchStats"]
 	path = SearchStats
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SearchStats
