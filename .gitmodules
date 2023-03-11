@@ -1134,6 +1134,10 @@
 	path = ExtraLanguageLink
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ExtraLanguageLink
 	branch = .
+[submodule "EImage"]
+	path = EImage
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EImage
+	branch = .
 [submodule "FanBoxes"]
 	path = FanBoxes
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FanBoxes
