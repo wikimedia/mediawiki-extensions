@@ -786,6 +786,10 @@
 	path = CongressLookup
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CongressLookup
 	branch = .
+[submodule "ContactManager"]
+	path = ContactManager
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ContactManager
+	branch = .
 [submodule "ContactPage"]
 	path = ContactPage
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ContactPage
