@@ -1290,10 +1290,6 @@
 	path = GlobalBlocking
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GlobalBlocking
 	branch = .
-[submodule "GlobalCheckUser"]
-	path = GlobalCheckUser
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GlobalCheckUser
-	branch = .
 [submodule "GlobalContribs"]
 	path = GlobalContribs
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GlobalContribs
