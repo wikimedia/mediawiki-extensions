@@ -998,6 +998,10 @@
 	path = DynamicSidebar
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DynamicSidebar
 	branch = .
+[submodule "EImage"]
+	path = EImage
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EImage
+	branch = .
 [submodule "EasyWiki"]
 	path = EasyWiki
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EasyWiki
@@ -1137,10 +1141,6 @@
 [submodule "ExtraLanguageLink"]
 	path = ExtraLanguageLink
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ExtraLanguageLink
-	branch = .
-[submodule "EImage"]
-	path = EImage
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EImage
 	branch = .
 [submodule "FanBoxes"]
 	path = FanBoxes
