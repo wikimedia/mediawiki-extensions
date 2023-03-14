@@ -658,10 +658,6 @@
 	path = ChangeAuthor
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ChangeAuthor
 	branch = .
-[submodule "ChangeUserPasswords"]
-	path = ChangeUserPasswords
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ChangeUserPasswords
-	branch = .
 [submodule "CharInsert"]
 	path = CharInsert
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CharInsert
