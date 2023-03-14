@@ -186,10 +186,6 @@
 	path = BiblioPlus
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BiblioPlus
 	branch = .
-[submodule "Blackout"]
-	path = Blackout
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Blackout
-	branch = .
 [submodule "BlockInactive"]
 	path = BlockInactive
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlockInactive
