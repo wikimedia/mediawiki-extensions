@@ -170,10 +170,6 @@
 	path = Babel
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Babel
 	branch = .
-[submodule "BaseHooks"]
-	path = BaseHooks
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BaseHooks
-	branch = .
 [submodule "BatchUserRights"]
 	path = BatchUserRights
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BatchUserRights
