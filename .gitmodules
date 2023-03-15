@@ -654,10 +654,6 @@
 	path = CharInsert
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CharInsert
 	branch = .
-[submodule "CharRangeSpan"]
-	path = CharRangeSpan
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CharRangeSpan
-	branch = .
 [submodule "CheckUser"]
 	path = CheckUser
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CheckUser
