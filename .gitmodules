@@ -558,10 +558,6 @@
 	path = BounceHandler
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BounceHandler
 	branch = .
-[submodule "BreadCrumbs"]
-	path = BreadCrumbs
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BreadCrumbs
-	branch = .
 [submodule "BreadCrumbs2"]
 	path = BreadCrumbs2
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BreadCrumbs2
