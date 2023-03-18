@@ -2402,10 +2402,6 @@
 	path = Polyglot
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Polyglot
 	branch = .
-[submodule "PoolCounter"]
-	path = PoolCounter
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PoolCounter
-	branch = .
 [submodule "PopcornEditor"]
 	path = PopcornEditor
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PopcornEditor
