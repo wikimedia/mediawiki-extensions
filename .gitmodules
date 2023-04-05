@@ -322,6 +322,10 @@
 	path = BlueSpiceInsertTemplate
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceInsertTemplate
 	branch = .
+[submodule "BlueSpiceInstanceStatus"]
+	path = BlueSpiceInstanceStatus
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceInstanceStatus
+	branch = .
 [submodule "BlueSpiceInterWikiLinks"]
 	path = BlueSpiceInterWikiLinks
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceInterWikiLinks
@@ -570,6 +574,10 @@
 	path = Buggy
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Buggy
 	branch = .
+[submodule "BulkBlock"]
+	path = BulkBlock
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BulkBlock
+	branch = .
 [submodule "CIForms"]
 	path = CIForms
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CIForms
@@ -773,6 +781,18 @@
 [submodule "ContactPage"]
 	path = ContactPage
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ContactPage
+	branch = .
+[submodule "ContainerFilter"]
+	path = ContainerFilter
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ContainerFilter
+	branch = .
+[submodule "ContentDroplets"]
+	path = ContentDroplets
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ContentDroplets
+	branch = .
+[submodule "ContentStabilization"]
+	path = ContentStabilization
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ContentStabilization
 	branch = .
 [submodule "ContentTransfer"]
 	path = ContentTransfer
@@ -1485,6 +1505,10 @@
 [submodule "ImageMap"]
 	path = ImageMap
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ImageMap
+	branch = .
+[submodule "ImageMapEdit"]
+	path = ImageMapEdit
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ImageMapEdit
 	branch = .
 [submodule "ImageRating"]
 	path = ImageRating
@@ -2413,6 +2437,10 @@
 [submodule "Popups"]
 	path = Popups
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Popups
+	branch = .
+[submodule "PreToClip"]
+	path = PreToClip
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PreToClip
 	branch = .
 [submodule "PreferencesList"]
 	path = PreferencesList
