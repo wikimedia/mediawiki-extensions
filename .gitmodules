@@ -2290,6 +2290,10 @@
 	path = PageViewInfo
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageViewInfo
 	branch = .
+[submodule "PageViewInfoGA"]
+	path = PageViewInfoGA
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageViewInfoGA
+	branch = .
 [submodule "PagedTiffHandler"]
 	path = PagedTiffHandler
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PagedTiffHandler
