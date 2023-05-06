@@ -2726,6 +2726,10 @@
 	path = SearchVue
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SearchVue
 	branch = .
+[submodule "SectionAnchors"]
+	path = SectionAnchors
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SectionAnchors
+	branch = .
 [submodule "SectionDisqus"]
 	path = SectionDisqus
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SectionDisqus
