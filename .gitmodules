@@ -1550,6 +1550,10 @@
 	path = InlineCategorizer
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/InlineCategorizer
 	branch = .
+[submodule "InlineComments"]
+	path = InlineComments
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/InlineComments
+	branch = .
 [submodule "InputBox"]
 	path = InputBox
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/InputBox
