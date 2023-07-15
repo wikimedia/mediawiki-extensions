@@ -666,6 +666,10 @@
 	path = CheckUser
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CheckUser
 	branch = .
+[submodule "Checklists"]
+	path = Checklists
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Checklists
+	branch = .
 [submodule "Checkpoint"]
 	path = Checkpoint
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Checkpoint
