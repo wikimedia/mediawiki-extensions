@@ -2258,6 +2258,10 @@
 	path = PageDisqus
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageDisqus
 	branch = .
+[submodule "PageEncryption"]
+	path = PageEncryption
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageEncryption
+	branch = .
 [submodule "PageExchange"]
 	path = PageExchange
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageExchange
