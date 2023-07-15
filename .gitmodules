@@ -1454,6 +1454,10 @@
 	path = HeadScript
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HeadScript
 	branch = .
+[submodule "HeaderFooter"]
+	path = HeaderFooter
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HeaderFooter
+	branch = .
 [submodule "HeaderTabs"]
 	path = HeaderTabs
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HeaderTabs
