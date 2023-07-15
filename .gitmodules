@@ -894,6 +894,10 @@
 	path = DateDiff
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DateDiff
 	branch = .
+[submodule "DateTimeTools"]
+	path = DateTimeTools
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DateTimeTools
+	branch = .
 [submodule "DebugMode"]
 	path = DebugMode
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DebugMode
