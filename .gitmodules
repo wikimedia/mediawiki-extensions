@@ -138,6 +138,10 @@
 	path = ArticleToCategory2
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ArticleToCategory2
 	branch = .
+[submodule "AtMentions"]
+	path = AtMentions
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AtMentions
+	branch = .
 [submodule "Athena"]
 	path = Athena
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Athena
