@@ -1442,6 +1442,10 @@
 	path = HTMLTags
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HTMLTags
 	branch = .
+[submodule "HTMLTemplates"]
+	path = HTMLTemplates
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HTMLTemplates
+	branch = .
 [submodule "HTMLets"]
 	path = HTMLets
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HTMLets
