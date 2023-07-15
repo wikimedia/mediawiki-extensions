@@ -1614,6 +1614,10 @@
 	path = JSBreadCrumbs
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/JSBreadCrumbs
 	branch = .
+[submodule "JWTAuth"]
+	path = JWTAuth
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/JWTAuth
+	branch = .
 [submodule "Josa"]
 	path = Josa
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Josa
