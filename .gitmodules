@@ -1490,6 +1490,10 @@
 	path = HostStats
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HostStats
 	branch = .
+[submodule "HotCat"]
+	path = HotCat
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HotCat
+	branch = .
 [submodule "HoverGallery"]
 	path = HoverGallery
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HoverGallery
