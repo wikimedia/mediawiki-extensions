@@ -3418,6 +3418,10 @@
 	path = VisualEditor
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VisualEditor
 	branch = .
+[submodule "VisualEditorPlus"]
+	path = VisualEditorPlus
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VisualEditorPlus
+	branch = .
 [submodule "VoteNY"]
 	path = VoteNY
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VoteNY
