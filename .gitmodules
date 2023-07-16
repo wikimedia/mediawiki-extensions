@@ -2930,6 +2930,10 @@
 	path = SimpleSort
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SimpleSort
 	branch = .
+[submodule "SimpleTasks"]
+	path = SimpleTasks
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SimpleTasks
+	branch = .
 [submodule "SiteMatrix"]
 	path = SiteMatrix
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SiteMatrix
