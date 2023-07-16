@@ -2686,6 +2686,10 @@
 	path = Report
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Report
 	branch = .
+[submodule "ReportIncident"]
+	path = ReportIncident
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ReportIncident
+	branch = .
 [submodule "RevisionCommentSupplement"]
 	path = RevisionCommentSupplement
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RevisionCommentSupplement
