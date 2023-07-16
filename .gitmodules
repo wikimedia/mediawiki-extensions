@@ -3438,6 +3438,10 @@
 	path = WantedPagesFromNS
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WantedPagesFromNS
 	branch = .
+[submodule "WarnNotRecentlyUpdated"]
+	path = WarnNotRecentlyUpdated
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WarnNotRecentlyUpdated
+	branch = .
 [submodule "WatchAnalytics"]
 	path = WatchAnalytics
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WatchAnalytics
