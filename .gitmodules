@@ -3094,6 +3094,10 @@
 	path = SubpageFun
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SubpageFun
 	branch = .
+[submodule "SubpageNavigation"]
+	path = SubpageNavigation
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SubpageNavigation
+	branch = .
 [submodule "SubpageSortkey"]
 	path = SubpageSortkey
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SubpageSortkey
