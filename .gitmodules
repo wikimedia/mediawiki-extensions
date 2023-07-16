@@ -3086,6 +3086,10 @@
 	path = SubPageList3
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SubPageList3
 	branch = .
+[submodule "SubnetCalc"]
+	path = SubnetCalc
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SubnetCalc
+	branch = .
 [submodule "SubpageFun"]
 	path = SubpageFun
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SubpageFun
