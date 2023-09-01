@@ -1158,10 +1158,6 @@
 	path = FanBoxes
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FanBoxes
 	branch = .
-[submodule "Farmer"]
-	path = Farmer
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Farmer
-	branch = .
 [submodule "Favorites"]
 	path = Favorites
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Favorites
