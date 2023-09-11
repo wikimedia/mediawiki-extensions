@@ -2814,10 +2814,6 @@
 	path = SemanticBundle
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticBundle
 	branch = .
-[submodule "SemanticDependency"]
-	path = SemanticDependency
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticDependency
-	branch = .
 [submodule "SemanticGenealogy"]
 	path = SemanticGenealogy
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticGenealogy
