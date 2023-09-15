@@ -2702,10 +2702,6 @@
 	path = S5SlideShow
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/S5SlideShow
 	branch = .
-[submodule "SSLClientAuthentication"]
-	path = SSLClientAuthentication
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SSLClientAuthentication
-	branch = .
 [submodule "SVGEdit"]
 	path = SVGEdit
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SVGEdit
