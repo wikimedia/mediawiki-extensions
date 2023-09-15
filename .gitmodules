@@ -3046,10 +3046,6 @@
 	path = StandardWikitext
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/StandardWikitext
 	branch = .
-[submodule "StarterWiki"]
-	path = StarterWiki
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/StarterWiki
-	branch = .
 [submodule "StatCounter"]
 	path = StatCounter
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/StatCounter
