@@ -2810,10 +2810,6 @@
 	path = SemanticGenealogy
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticGenealogy
 	branch = .
-[submodule "SemanticImageAnnotator"]
-	path = SemanticImageAnnotator
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticImageAnnotator
-	branch = .
 [submodule "SemanticImageInput"]
 	path = SemanticImageInput
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticImageInput
