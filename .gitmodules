@@ -2410,10 +2410,6 @@
 	path = PhpTagsFunctions
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PhpTagsFunctions
 	branch = .
-[submodule "PhpTagsMaps"]
-	path = PhpTagsMaps
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PhpTagsMaps
-	branch = .
 [submodule "PhpTagsSMW"]
 	path = PhpTagsSMW
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PhpTagsSMW
