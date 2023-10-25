@@ -3226,10 +3226,6 @@
 	path = TwitterCards
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TwitterCards
 	branch = .
-[submodule "TwitterLogin"]
-	path = TwitterLogin
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TwitterLogin
-	branch = .
 [submodule "TwitterTag"]
 	path = TwitterTag
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TwitterTag
