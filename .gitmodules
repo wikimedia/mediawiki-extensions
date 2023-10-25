@@ -54,10 +54,6 @@
 	path = AddPersonalUrls
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AddPersonalUrls
 	branch = .
-[submodule "AddThis"]
-	path = AddThis
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AddThis
-	branch = .
 [submodule "AdminLinks"]
 	path = AdminLinks
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AdminLinks
