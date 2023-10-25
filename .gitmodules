@@ -990,10 +990,6 @@
 	path = DumpsOnDemand
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DumpsOnDemand
 	branch = .
-[submodule "Duplicator"]
-	path = Duplicator
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Duplicator
-	branch = .
 [submodule "DynamicPageList"]
 	path = DynamicPageList
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DynamicPageList
@@ -1393,10 +1389,6 @@
 [submodule "GraphQL"]
 	path = GraphQL
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GraphQL
-	branch = .
-[submodule "GraphViz"]
-	path = GraphViz
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GraphViz
 	branch = .
 [submodule "Gravatar"]
 	path = Gravatar
@@ -2193,10 +2185,6 @@
 [submodule "OpenGraphMeta"]
 	path = OpenGraphMeta
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OpenGraphMeta
-	branch = .
-[submodule "OpenID"]
-	path = OpenID
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OpenID
 	branch = .
 [submodule "OpenIDConnect"]
 	path = OpenIDConnect
@@ -3341,10 +3329,6 @@
 [submodule "UserStatus"]
 	path = UserStatus
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UserStatus
-	branch = .
-[submodule "UserThrottle"]
-	path = UserThrottle
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UserThrottle
 	branch = .
 [submodule "VEForAll"]
 	path = VEForAll
