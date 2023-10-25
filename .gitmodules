@@ -3474,10 +3474,6 @@
 	path = WikEdDiff
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikEdDiff
 	branch = .
-[submodule "WikiArticleFeeds"]
-	path = WikiArticleFeeds
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiArticleFeeds
-	branch = .
 [submodule "WikiCategoryTagCloud"]
 	path = WikiCategoryTagCloud
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiCategoryTagCloud
