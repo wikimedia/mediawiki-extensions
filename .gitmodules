@@ -3470,10 +3470,6 @@
 	path = WikiLambda
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiLambda
 	branch = .
-[submodule "WikiLexicalData"]
-	path = WikiLexicalData
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiLexicalData
-	branch = .
 [submodule "WikiLove"]
 	path = WikiLove
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiLove
