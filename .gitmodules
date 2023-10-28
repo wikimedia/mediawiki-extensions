@@ -330,6 +330,10 @@
 	path = BlueSpiceInterWikiLinks
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceInterWikiLinks
 	branch = .
+[submodule "BlueSpiceInterwikiSearch"]
+	path = BlueSpiceInterwikiSearch
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceInterwikiSearch
+	branch = .
 [submodule "BlueSpiceMultiUpload"]
 	path = BlueSpiceMultiUpload
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceMultiUpload
@@ -705,6 +709,10 @@
 [submodule "CloseWikis"]
 	path = CloseWikis
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CloseWikis
+	branch = .
+[submodule "CloudflarePurge"]
+	path = CloudflarePurge
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CloudflarePurge
 	branch = .
 [submodule "CodeEditor"]
 	path = CodeEditor
@@ -1082,6 +1090,10 @@
 	path = EnhanceContactForm
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EnhanceContactForm
 	branch = .
+[submodule "EnhancedStandardUIs"]
+	path = EnhancedStandardUIs
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EnhancedStandardUIs
+	branch = .
 [submodule "EnhancedUpload"]
 	path = EnhancedUpload
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EnhancedUpload
@@ -1381,6 +1393,14 @@
 [submodule "GoogleSiteSearch"]
 	path = GoogleSiteSearch
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GoogleSiteSearch
+	branch = .
+[submodule "GoogleTagManager"]
+	path = GoogleTagManager
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GoogleTagManager
+	branch = .
+[submodule "GoogleTranslate"]
+	path = GoogleTranslate
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GoogleTranslate
 	branch = .
 [submodule "Graph"]
 	path = Graph
@@ -2214,6 +2234,10 @@
 	path = PCRGUIInserts
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PCRGUIInserts
 	branch = .
+[submodule "PDFEmbed"]
+	path = PDFEmbed
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PDFEmbed
+	branch = .
 [submodule "PGFTikZ"]
 	path = PGFTikZ
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PGFTikZ
@@ -2482,6 +2506,10 @@
 	path = PrivateDomains
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PrivateDomains
 	branch = .
+[submodule "PrivatePageProtection"]
+	path = PrivatePageProtection
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PrivatePageProtection
+	branch = .
 [submodule "PronunciationRecording"]
 	path = PronunciationRecording
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PronunciationRecording
@@ -2589,6 +2617,10 @@
 [submodule "RandomSelection"]
 	path = RandomSelection
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RandomSelection
+	branch = .
+[submodule "ReadAloud"]
+	path = ReadAloud
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ReadAloud
 	branch = .
 [submodule "ReadingLists"]
 	path = ReadingLists
@@ -3090,6 +3122,10 @@
 	path = Tabs
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Tabs
 	branch = .
+[submodule "TalkBelow"]
+	path = TalkBelow
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TalkBelow
+	branch = .
 [submodule "TemplateData"]
 	path = TemplateData
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TemplateData
@@ -3553,6 +3589,10 @@
 [submodule "WikimediaBadges"]
 	path = WikimediaBadges
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikimediaBadges
+	branch = .
+[submodule "WikimediaCampaignEvents"]
+	path = WikimediaCampaignEvents
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikimediaCampaignEvents
 	branch = .
 [submodule "WikimediaEditorTasks"]
 	path = WikimediaEditorTasks
