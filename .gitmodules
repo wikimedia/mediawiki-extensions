@@ -2186,10 +2186,6 @@
 	path = OnionsPorFavor
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OnionsPorFavor
 	branch = .
-[submodule "OnlineStatus"]
-	path = OnlineStatus
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OnlineStatus
-	branch = .
 [submodule "OnlineStatusBar"]
 	path = OnlineStatusBar
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OnlineStatusBar
