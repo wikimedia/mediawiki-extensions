@@ -170,10 +170,6 @@
 	path = AzharAuth
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AzharAuth
 	branch = .
-[submodule "BSExtendedSearch"]
-	path = BSExtendedSearch
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BSExtendedSearch
-	branch = .
 [submodule "BSSMWConnector"]
 	path = BSSMWConnector
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BSSMWConnector
