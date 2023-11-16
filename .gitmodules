@@ -2554,14 +2554,6 @@
 	path = Wikibase
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Wikibase
 	branch = .
-[submodule "WikibaseClient"]
-	path = WikibaseClient
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikibaseClient
-	branch = .
-[submodule "WikibaseLib"]
-	path = WikibaseLib
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikibaseLib
-	branch = .
 [submodule "WikibaseMobile"]
 	path = WikibaseMobile
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikibaseMobile
