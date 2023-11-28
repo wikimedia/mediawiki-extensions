@@ -2898,6 +2898,10 @@
 	path = SignWritingMediaWikiPlugin
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SignWritingMediaWikiPlugin
 	branch = .
+[submodule "SimSigCompanion"]
+	path = SimSigCompanion
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SimSigCompanion
+	branch = .
 [submodule "SimilarEditors"]
 	path = SimilarEditors
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SimilarEditors
