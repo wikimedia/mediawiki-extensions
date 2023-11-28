@@ -162,6 +162,10 @@
 	path = AutoGallery
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AutoGallery
 	branch = .
+[submodule "AutoModerator"]
+	path = AutoModerator
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AutoModerator
+	branch = .
 [submodule "Awesomeness"]
 	path = Awesomeness
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Awesomeness
