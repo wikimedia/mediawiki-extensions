@@ -1622,6 +1622,10 @@
 	path = InviteSignup
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/InviteSignup
 	branch = .
+[submodule "IpReputation"]
+	path = IpReputation
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/IpReputation
+	branch = .
 [submodule "JSBreadCrumbs"]
 	path = JSBreadCrumbs
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/JSBreadCrumbs
@@ -2082,6 +2086,10 @@
 	path = NetworkAuth
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NetworkAuth
 	branch = .
+[submodule "NetworkSession"]
+	path = NetworkSession
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NetworkSession
+	branch = .
 [submodule "NewSignupPage"]
 	path = NewSignupPage
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NewSignupPage
@@ -2449,6 +2457,10 @@
 [submodule "PipeEscape"]
 	path = PipeEscape
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PipeEscape
+	branch = .
+[submodule "PlaceNewSection"]
+	path = PlaceNewSection
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PlaceNewSection
 	branch = .
 [submodule "PluggableAuth"]
 	path = PluggableAuth
@@ -3369,6 +3381,10 @@
 [submodule "UserStatus"]
 	path = UserStatus
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UserStatus
+	branch = .
+[submodule "VECancelButton"]
+	path = VECancelButton
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VECancelButton
 	branch = .
 [submodule "VEForAll"]
 	path = VEForAll
