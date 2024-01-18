@@ -1766,10 +1766,6 @@
 	path = LiveStreaming
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LiveStreaming
 	branch = .
-[submodule "LocalisationUpdate"]
-	path = LocalisationUpdate
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LocalisationUpdate
-	branch = .
 [submodule "LockAuthor"]
 	path = LockAuthor
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LockAuthor
