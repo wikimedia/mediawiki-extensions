@@ -1530,6 +1530,10 @@
 	path = IPInfo
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/IPInfo
 	branch = .
+[submodule "IPReputation"]
+	path = IPReputation
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/IPReputation
+	branch = .
 [submodule "IframePage"]
 	path = IframePage
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/IframePage
@@ -1621,10 +1625,6 @@
 [submodule "InviteSignup"]
 	path = InviteSignup
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/InviteSignup
-	branch = .
-[submodule "IpReputation"]
-	path = IpReputation
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/IpReputation
 	branch = .
 [submodule "JSBreadCrumbs"]
 	path = JSBreadCrumbs
@@ -3417,6 +3417,10 @@
 [submodule "VipsScaler"]
 	path = VipsScaler
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VipsScaler
+	branch = .
+[submodule "VisualData"]
+	path = VisualData
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VisualData
 	branch = .
 [submodule "VisualEditor"]
 	path = VisualEditor
