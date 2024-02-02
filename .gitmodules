@@ -778,6 +778,10 @@
 	path = CommonsMetadata
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CommonsMetadata
 	branch = .
+[submodule "CommunityConfiguration"]
+	path = CommunityConfiguration
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CommunityConfiguration
+	branch = .
 [submodule "ConfigManager"]
 	path = ConfigManager
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ConfigManager
@@ -957,6 +961,10 @@
 [submodule "Disambiguator"]
 	path = Disambiguator
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Disambiguator
+	branch = .
+[submodule "DiscordRCFeed"]
+	path = DiscordRCFeed
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DiscordRCFeed
 	branch = .
 [submodule "Discourse"]
 	path = Discourse
