@@ -1294,10 +1294,6 @@
 	path = GeoGebra
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GeoGebra
 	branch = .
-[submodule "GettingStarted"]
-	path = GettingStarted
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GettingStarted
-	branch = .
 [submodule "Git2Pages"]
 	path = Git2Pages
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Git2Pages
