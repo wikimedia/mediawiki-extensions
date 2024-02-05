@@ -1266,10 +1266,6 @@
 	path = GPGMail
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GPGMail
 	branch = .
-[submodule "GWToolset"]
-	path = GWToolset
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GWToolset
-	branch = .
 [submodule "Gadgets"]
 	path = Gadgets
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Gadgets
