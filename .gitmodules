@@ -3518,6 +3518,10 @@
 	path = WikEdDiff
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikEdDiff
 	branch = .
+[submodule "WikiApiary"]
+	path = WikiApiary
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiApiary
+	branch = .
 [submodule "WikiCategoryTagCloud"]
 	path = WikiCategoryTagCloud
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiCategoryTagCloud
