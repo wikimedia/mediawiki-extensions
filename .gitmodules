@@ -30,6 +30,10 @@
 	path = AccountInfo
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AccountInfo
 	branch = .
+[submodule "AchievementBadges"]
+	path = AchievementBadges
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AchievementBadges
+	branch = .
 [submodule "Acrolinx"]
 	path = Acrolinx
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Acrolinx
@@ -1173,6 +1177,10 @@
 [submodule "ExtraLanguageLink"]
 	path = ExtraLanguageLink
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ExtraLanguageLink
+	branch = .
+[submodule "FacetedCategory"]
+	path = FacetedCategory
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FacetedCategory
 	branch = .
 [submodule "FanBoxes"]
 	path = FanBoxes
@@ -2737,6 +2745,10 @@
 [submodule "SafeDelete"]
 	path = SafeDelete
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SafeDelete
+	branch = .
+[submodule "Sanctions"]
+	path = Sanctions
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Sanctions
 	branch = .
 [submodule "SandboxLink"]
 	path = SandboxLink
