@@ -1510,6 +1510,10 @@
 	path = HitCounters
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HitCounters
 	branch = .
+[submodule "HoneyPot"]
+	path = HoneyPot
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HoneyPot
+	branch = .
 [submodule "HostStats"]
 	path = HostStats
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/HostStats
