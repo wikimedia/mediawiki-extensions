@@ -734,10 +734,6 @@
 	path = CodeMirror
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CodeMirror
 	branch = .
-[submodule "CodeReview"]
-	path = CodeReview
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CodeReview
-	branch = .
 [submodule "Cognate"]
 	path = Cognate
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Cognate
