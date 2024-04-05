@@ -1818,10 +1818,6 @@
 	path = MWVersionInfo
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MWVersionInfo
 	branch = .
-[submodule "MachineVision"]
-	path = MachineVision
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MachineVision
-	branch = .
 [submodule "MadLib"]
 	path = MadLib
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MadLib
