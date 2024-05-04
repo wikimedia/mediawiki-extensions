@@ -206,6 +206,10 @@
 	path = BlogPage
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlogPage
 	branch = .
+[submodule "BlueSpice"]
+	path = BlueSpice
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpice
+	branch = .
 [submodule "BlueSpiceAbout"]
 	path = BlueSpiceAbout
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceAbout
@@ -1926,6 +1930,10 @@
 	path = Metadata
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Metadata
 	branch = .
+[submodule "MetricsPlatform"]
+	path = MetricsPlatform
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MetricsPlatform
+	branch = .
 [submodule "MiniInvite"]
 	path = MiniInvite
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MiniInvite
@@ -3245,10 +3253,6 @@
 [submodule "Translate"]
 	path = Translate
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Translate
-	branch = .
-[submodule "TranslateSvg"]
-	path = TranslateSvg
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TranslateSvg
 	branch = .
 [submodule "TranslationNotifications"]
 	path = TranslationNotifications
