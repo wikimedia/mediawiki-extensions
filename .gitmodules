@@ -330,10 +330,6 @@
 	path = BlueSpiceInsertLink
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceInsertLink
 	branch = .
-[submodule "BlueSpiceInsertMagic"]
-	path = BlueSpiceInsertMagic
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceInsertMagic
-	branch = .
 [submodule "BlueSpiceInsertTemplate"]
 	path = BlueSpiceInsertTemplate
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceInsertTemplate
