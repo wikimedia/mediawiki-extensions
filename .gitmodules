@@ -1014,10 +1014,6 @@
 	path = DumpsOnDemand
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DumpsOnDemand
 	branch = .
-[submodule "DynamicPageList"]
-	path = DynamicPageList
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DynamicPageList
-	branch = .
 [submodule "DynamicPageListEngine"]
 	path = DynamicPageListEngine
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DynamicPageListEngine
