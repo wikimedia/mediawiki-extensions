@@ -3314,10 +3314,6 @@
 	path = UpdateMediaWiki
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UpdateMediaWiki
 	branch = .
-[submodule "UploadBlacklist"]
-	path = UploadBlacklist
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UploadBlacklist
-	branch = .
 [submodule "UploadWizard"]
 	path = UploadWizard
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UploadWizard
