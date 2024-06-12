@@ -2394,6 +2394,10 @@
 	path = PerPageLanguage
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PerPageLanguage
 	branch = .
+[submodule "PerPageLicense"]
+	path = PerPageLicense
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PerPageLicense
+	branch = .
 [submodule "PerformanceInspector"]
 	path = PerformanceInspector
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PerformanceInspector
