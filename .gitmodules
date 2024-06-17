@@ -1602,10 +1602,6 @@
 	path = InteractiveBlockMessage
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/InteractiveBlockMessage
 	branch = .
-[submodule "Interlanguage"]
-	path = Interlanguage
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Interlanguage
-	branch = .
 [submodule "Interwiki"]
 	path = Interwiki
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Interwiki
