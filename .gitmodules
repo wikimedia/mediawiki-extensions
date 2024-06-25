@@ -2218,10 +2218,6 @@
 	path = OpenLayers
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OpenLayers
 	branch = .
-[submodule "OpenStackManager"]
-	path = OpenStackManager
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OpenStackManager
-	branch = .
 [submodule "OrphanedTalkPages"]
 	path = OrphanedTalkPages
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OrphanedTalkPages
