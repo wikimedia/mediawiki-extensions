@@ -994,10 +994,6 @@
 	path = DonationInterface
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DonationInterface
 	branch = .
-[submodule "DoubleWiki"]
-	path = DoubleWiki
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DoubleWiki
-	branch = .
 [submodule "Drafts"]
 	path = Drafts
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Drafts
