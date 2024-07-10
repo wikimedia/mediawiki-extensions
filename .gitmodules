@@ -1746,10 +1746,6 @@
 	path = LiquidThreads
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LiquidThreads
 	branch = .
-[submodule "Listings"]
-	path = Listings
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Listings
-	branch = .
 [submodule "LiveChat"]
 	path = LiveChat
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LiveChat
