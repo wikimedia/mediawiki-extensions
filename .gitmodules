@@ -1714,6 +1714,10 @@
 	path = Lingo
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Lingo
 	branch = .
+[submodule "LinkCards"]
+	path = LinkCards
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LinkCards
+	branch = .
 [submodule "LinkFilter"]
 	path = LinkFilter
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LinkFilter
