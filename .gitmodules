@@ -2810,10 +2810,6 @@
 	path = SemanticACL
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticACL
 	branch = .
-[submodule "SemanticBundle"]
-	path = SemanticBundle
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticBundle
-	branch = .
 [submodule "SemanticGenealogy"]
 	path = SemanticGenealogy
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticGenealogy
