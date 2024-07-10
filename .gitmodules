@@ -1922,10 +1922,6 @@
 	path = MissedPages
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MissedPages
 	branch = .
-[submodule "MixedNamespaceSearchSuggestions"]
-	path = MixedNamespaceSearchSuggestions
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MixedNamespaceSearchSuggestions
-	branch = .
 [submodule "MobileApp"]
 	path = MobileApp
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MobileApp
