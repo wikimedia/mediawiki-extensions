@@ -1994,10 +1994,6 @@
 	path = MultiMaps
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MultiMaps
 	branch = .
-[submodule "MultimediaPlayer"]
-	path = MultimediaPlayer
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MultimediaPlayer
-	branch = .
 [submodule "MultimediaViewer"]
 	path = MultimediaViewer
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MultimediaViewer
