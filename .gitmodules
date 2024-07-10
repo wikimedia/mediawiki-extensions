@@ -3566,6 +3566,10 @@
 	path = WikidataPageBanner
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikidataPageBanner
 	branch = .
+[submodule "WikifunctionsClient"]
+	path = WikifunctionsClient
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikifunctionsClient
+	branch = .
 [submodule "WikimediaApiPortalOAuth"]
 	path = WikimediaApiPortalOAuth
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikimediaApiPortalOAuth
