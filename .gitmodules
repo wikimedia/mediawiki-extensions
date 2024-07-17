@@ -6,6 +6,10 @@
 	path = AControlImageLink
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AControlImageLink
 	branch = .
+[submodule "AIEditingAssistant"]
+	path = AIEditingAssistant
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AIEditingAssistant
+	branch = .
 [submodule "AJAXPoll"]
 	path = AJAXPoll
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AJAXPoll
@@ -570,6 +574,10 @@
 	path = BlueSpiceWikiExplorer
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceWikiExplorer
 	branch = .
+[submodule "BlueSpiceWikiFarm"]
+	path = BlueSpiceWikiFarm
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceWikiFarm
+	branch = .
 [submodule "BoilerPlate"]
 	path = BoilerPlate
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BoilerPlate
@@ -674,6 +682,10 @@
 	path = CharInsert
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CharInsert
 	branch = .
+[submodule "Chart"]
+	path = Chart
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Chart
+	branch = .
 [submodule "CheckUser"]
 	path = CheckUser
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CheckUser
@@ -742,6 +754,10 @@
 	path = CognitiveProcessDesigner
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CognitiveProcessDesigner
 	branch = .
+[submodule "CollabPads"]
+	path = CollabPads
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CollabPads
+	branch = .
 [submodule "CollaborationKit"]
 	path = CollaborationKit
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CollaborationKit
@@ -781,6 +797,10 @@
 [submodule "CommunityConfiguration"]
 	path = CommunityConfiguration
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CommunityConfiguration
+	branch = .
+[submodule "CommunityRequests"]
+	path = CommunityRequests
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CommunityRequests
 	branch = .
 [submodule "ConfigManager"]
 	path = ConfigManager
@@ -2130,6 +2150,10 @@
 	path = NumberFormat
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NumberFormat
 	branch = .
+[submodule "NumberHeadings"]
+	path = NumberHeadings
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NumberHeadings
+	branch = .
 [submodule "NumberOfWikis"]
 	path = NumberOfWikis
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NumberOfWikis
@@ -3102,6 +3126,10 @@
 	path = TEI
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TEI
 	branch = .
+[submodule "TableTools"]
+	path = TableTools
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TableTools
+	branch = .
 [submodule "Tabs"]
 	path = Tabs
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Tabs
@@ -3342,6 +3370,10 @@
 	path = UserStatus
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UserStatus
 	branch = .
+[submodule "UserVerification"]
+	path = UserVerification
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UserVerification
+	branch = .
 [submodule "VECancelButton"]
 	path = VECancelButton
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VECancelButton
@@ -3397,6 +3429,10 @@
 [submodule "VoteNY"]
 	path = VoteNY
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VoteNY
+	branch = .
+[submodule "VueJsPlus"]
+	path = VueJsPlus
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VueJsPlus
 	branch = .
 [submodule "VueTest"]
 	path = VueTest
