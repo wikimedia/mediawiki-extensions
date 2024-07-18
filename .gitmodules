@@ -758,10 +758,6 @@
 	path = CollabPads
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CollabPads
 	branch = .
-[submodule "CollaborationKit"]
-	path = CollaborationKit
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CollaborationKit
-	branch = .
 [submodule "CollapsibleSections"]
 	path = CollapsibleSections
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CollapsibleSections
@@ -941,10 +937,6 @@
 [submodule "DeleteBatch"]
 	path = DeleteBatch
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DeleteBatch
-	branch = .
-[submodule "DeleteOwn"]
-	path = DeleteOwn
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DeleteOwn
 	branch = .
 [submodule "DeletePagesForGood"]
 	path = DeletePagesForGood
@@ -2262,10 +2254,6 @@
 	path = PageCheckout
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageCheckout
 	branch = .
-[submodule "PageCreationNotif"]
-	path = PageCreationNotif
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageCreationNotif
-	branch = .
 [submodule "PageDisqus"]
 	path = PageDisqus
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageDisqus
@@ -3061,10 +3049,6 @@
 [submodule "StatCounter"]
 	path = StatCounter
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/StatCounter
-	branch = .
-[submodule "StickToThatLanguage"]
-	path = StickToThatLanguage
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/StickToThatLanguage
 	branch = .
 [submodule "StickyTOC"]
 	path = StickyTOC
