@@ -2886,10 +2886,6 @@
 	path = ShowRealUsernames
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ShowRealUsernames
 	branch = .
-[submodule "SideBarMenu"]
-	path = SideBarMenu
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SideBarMenu
-	branch = .
 [submodule "SidebarDonateBox"]
 	path = SidebarDonateBox
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SidebarDonateBox
