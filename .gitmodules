@@ -90,6 +90,10 @@
 	path = AllTimeZones
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AllTimeZones
 	branch = .
+[submodule "Analytics"]
+	path = Analytics
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Analytics
+	branch = .
 [submodule "AnchorHandler"]
 	path = AnchorHandler
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AnchorHandler
@@ -694,10 +698,6 @@
 	path = Checklists
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Checklists
 	branch = .
-[submodule "Checkpoint"]
-	path = Checkpoint
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Checkpoint
-	branch = .
 [submodule "ChessBrowser"]
 	path = ChessBrowser
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ChessBrowser
@@ -794,6 +794,10 @@
 	path = CommunityConfiguration
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CommunityConfiguration
 	branch = .
+[submodule "CommunityConfigurationExample"]
+	path = CommunityConfigurationExample
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CommunityConfigurationExample
+	branch = .
 [submodule "CommunityRequests"]
 	path = CommunityRequests
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CommunityRequests
@@ -809,10 +813,6 @@
 [submodule "ConfirmEdit"]
 	path = ConfirmEdit
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ConfirmEdit
-	branch = .
-[submodule "CongressLookup"]
-	path = CongressLookup
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CongressLookup
 	branch = .
 [submodule "ContactManager"]
 	path = ContactManager
@@ -1086,13 +1086,9 @@
 	path = EmailCapture
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EmailCapture
 	branch = .
-[submodule "EmailDeletedPages"]
-	path = EmailDeletedPages
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EmailDeletedPages
-	branch = .
-[submodule "EmailDiff"]
-	path = EmailDiff
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EmailDiff
+[submodule "EmailNotifications"]
+	path = EmailNotifications
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EmailNotifications
 	branch = .
 [submodule "EmergencyCaptcha"]
 	path = EmergencyCaptcha
@@ -1313,10 +1309,6 @@
 [submodule "GlobalBlocking"]
 	path = GlobalBlocking
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GlobalBlocking
-	branch = .
-[submodule "GlobalContribs"]
-	path = GlobalContribs
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GlobalContribs
 	branch = .
 [submodule "GlobalContributions"]
 	path = GlobalContributions
@@ -1545,10 +1537,6 @@
 [submodule "IframePage"]
 	path = IframePage
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/IframePage
-	branch = .
-[submodule "ImageCompare"]
-	path = ImageCompare
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ImageCompare
 	branch = .
 [submodule "ImageMap"]
 	path = ImageMap
@@ -1814,10 +1802,6 @@
 	path = MWVersionInfo
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MWVersionInfo
 	branch = .
-[submodule "MadLib"]
-	path = MadLib
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MadLib
-	branch = .
 [submodule "MagicLinkAuthentication"]
 	path = MagicLinkAuthentication
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MagicLinkAuthentication
@@ -2030,10 +2014,6 @@
 	path = NSFileRepo
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NSFileRepo
 	branch = .
-[submodule "NamespaceHTML"]
-	path = NamespaceHTML
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NamespaceHTML
-	branch = .
 [submodule "NamespacePaths"]
 	path = NamespacePaths
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NamespacePaths
@@ -2106,10 +2086,6 @@
 	path = NewsBox
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NewsBox
 	branch = .
-[submodule "NewsTicker"]
-	path = NewsTicker
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NewsTicker
-	branch = .
 [submodule "Newsletter"]
 	path = Newsletter
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Newsletter
@@ -2133,6 +2109,10 @@
 [submodule "NotesLink"]
 	path = NotesLink
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NotesLink
+	branch = .
+[submodule "NotifyMe"]
+	path = NotifyMe
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NotifyMe
 	branch = .
 [submodule "Nuke"]
 	path = Nuke
@@ -2954,10 +2934,6 @@
 	path = SmiteSpam
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SmiteSpam
 	branch = .
-[submodule "SocialLogin"]
-	path = SocialLogin
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SocialLogin
-	branch = .
 [submodule "SocialProfile"]
 	path = SocialProfile
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SocialProfile
@@ -3585,10 +3561,6 @@
 [submodule "WikidataPageBanner"]
 	path = WikidataPageBanner
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikidataPageBanner
-	branch = .
-[submodule "WikifunctionsClient"]
-	path = WikifunctionsClient
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikifunctionsClient
 	branch = .
 [submodule "WikimediaApiPortalOAuth"]
 	path = WikimediaApiPortalOAuth
