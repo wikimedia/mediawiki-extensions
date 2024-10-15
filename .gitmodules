@@ -3026,10 +3026,6 @@
 	path = StatCounter
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/StatCounter
 	branch = .
-[submodule "StickyTOC"]
-	path = StickyTOC
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/StickyTOC
-	branch = .
 [submodule "StopForumSpam"]
 	path = StopForumSpam
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/StopForumSpam
