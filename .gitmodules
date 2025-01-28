@@ -214,10 +214,6 @@
 	path = BlogPage
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlogPage
 	branch = .
-[submodule "BlueSpice"]
-	path = BlueSpice
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpice
-	branch = .
 [submodule "BlueSpiceAbout"]
 	path = BlueSpiceAbout
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceAbout
