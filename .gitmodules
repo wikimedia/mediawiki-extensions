@@ -854,6 +854,10 @@
 	path = Contributors
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Contributors
 	branch = .
+[submodule "CookieConsent"]
+	path = CookieConsent
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CookieConsent
+	branch = .
 [submodule "CookieWarning"]
 	path = CookieWarning
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CookieWarning
@@ -2214,6 +2218,10 @@
 	path = PCRGUIInserts
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PCRGUIInserts
 	branch = .
+[submodule "PDFCreator"]
+	path = PDFCreator
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PDFCreator
+	branch = .
 [submodule "PDFEmbed"]
 	path = PDFEmbed
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PDFEmbed
@@ -2881,6 +2889,10 @@
 [submodule "SimilarEditors"]
 	path = SimilarEditors
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SimilarEditors
+	branch = .
+[submodule "SimpleBlogPage"]
+	path = SimpleBlogPage
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SimpleBlogPage
 	branch = .
 [submodule "SimpleCalendar"]
 	path = SimpleCalendar
