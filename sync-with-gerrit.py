@@ -22,6 +22,7 @@ log = logging.getLogger()
 def main():
     log.info("Fetching projects from gerrit (prefix: %s)" % basepath)
     projects = gerrit('ls-projects', [
+        '--type', 'CODE',
         '--prefix', basepath,
         '--description',
         '--format', 'json',
