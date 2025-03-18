@@ -146,6 +146,10 @@
 	path = ArticleRatings
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ArticleRatings
 	branch = .
+[submodule "ArticleSummaries"]
+	path = ArticleSummaries
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ArticleSummaries
+	branch = .
 [submodule "ArticleToCategory2"]
 	path = ArticleToCategory2
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ArticleToCategory2
@@ -965,6 +969,10 @@
 [submodule "DisableAccount"]
 	path = DisableAccount
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DisableAccount
+	branch = .
+[submodule "DisableSpecialPages"]
+	path = DisableSpecialPages
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DisableSpecialPages
 	branch = .
 [submodule "Disambiguator"]
 	path = Disambiguator
