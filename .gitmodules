@@ -3682,3 +3682,6 @@
 	path = wikihiero
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/wikihiero
 	branch = .
+[submodule "Springboard"]
+	path = Springboard
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Springboard
