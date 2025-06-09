@@ -42,10 +42,6 @@
 	path = Acrolinx
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Acrolinx
 	branch = .
-[submodule "ActiveAbstract"]
-	path = ActiveAbstract
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ActiveAbstract
-	branch = .
 [submodule "AdManager"]
 	path = AdManager
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AdManager
