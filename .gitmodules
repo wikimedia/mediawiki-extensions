@@ -1342,6 +1342,10 @@
 	path = GlobalUserPage
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GlobalUserPage
 	branch = .
+[submodule "GlobalUserSSO"]
+	path = GlobalUserSSO
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GlobalUserSSO
+	branch = .
 [submodule "GlobalUserrights"]
 	path = GlobalUserrights
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GlobalUserrights
@@ -2834,6 +2838,10 @@
 	path = SemanticSifter
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticSifter
 	branch = .
+[submodule "SemanticVersion"]
+	path = SemanticVersion
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticVersion
+	branch = .
 [submodule "SemanticWebBrowser"]
 	path = SemanticWebBrowser
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticWebBrowser
@@ -3013,6 +3021,10 @@
 [submodule "SportsTeams"]
 	path = SportsTeams
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SportsTeams
+	branch = .
+[submodule "Springboard"]
+	path = Springboard
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Springboard
 	branch = .
 [submodule "StaffEdits"]
 	path = StaffEdits
@@ -3678,6 +3690,3 @@
 	path = wikihiero
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/wikihiero
 	branch = .
-[submodule "Springboard"]
-	path = Springboard
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Springboard
