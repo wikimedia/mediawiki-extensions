@@ -1706,10 +1706,6 @@
 	path = LastUserLogin
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LastUserLogin
 	branch = .
-[submodule "LdapAuthentication"]
-	path = LdapAuthentication
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LdapAuthentication
-	branch = .
 [submodule "LegalLogin"]
 	path = LegalLogin
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LegalLogin
