@@ -2394,34 +2394,6 @@
 	path = PhpHighlight
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PhpHighlight
 	branch = .
-[submodule "PhpTags"]
-	path = PhpTags
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PhpTags
-	branch = .
-[submodule "PhpTagsFunctions"]
-	path = PhpTagsFunctions
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PhpTagsFunctions
-	branch = .
-[submodule "PhpTagsSMW"]
-	path = PhpTagsSMW
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PhpTagsSMW
-	branch = .
-[submodule "PhpTagsSPARQL"]
-	path = PhpTagsSPARQL
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PhpTagsSPARQL
-	branch = .
-[submodule "PhpTagsStorage"]
-	path = PhpTagsStorage
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PhpTagsStorage
-	branch = .
-[submodule "PhpTagsWidgets"]
-	path = PhpTagsWidgets
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PhpTagsWidgets
-	branch = .
-[submodule "PhpTagsWiki"]
-	path = PhpTagsWiki
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PhpTagsWiki
-	branch = .
 [submodule "PictureGame"]
 	path = PictureGame
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PictureGame
