@@ -1246,6 +1246,10 @@
 	path = ForcePreview
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ForcePreview
 	branch = .
+[submodule "ForceSkin"]
+	path = ForceSkin
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ForceSkin
+	branch = .
 [submodule "Form"]
 	path = Form
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Form
@@ -2969,6 +2973,10 @@
 [submodule "SpecialNamespaces"]
 	path = SpecialNamespaces
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SpecialNamespaces
+	branch = .
+[submodule "SpecialPageCaptcha"]
+	path = SpecialPageCaptcha
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SpecialPageCaptcha
 	branch = .
 [submodule "SpellingApi"]
 	path = SpellingApi
