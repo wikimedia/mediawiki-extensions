@@ -3470,14 +3470,6 @@
 	path = WebDAV
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WebDAV
 	branch = .
-[submodule "WebDAVClientIntegration"]
-	path = WebDAVClientIntegration
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WebDAVClientIntegration
-	branch = .
-[submodule "WebDAVMinorSave"]
-	path = WebDAVMinorSave
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WebDAVMinorSave
-	branch = .
 [submodule "WebToolsManager"]
 	path = WebToolsManager
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WebToolsManager
