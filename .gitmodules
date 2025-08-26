@@ -58,6 +58,10 @@
 	path = AddPersonalUrls
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AddPersonalUrls
 	branch = .
+[submodule "AdhocTranslation"]
+	path = AdhocTranslation
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AdhocTranslation
+	branch = .
 [submodule "Adiutor"]
 	path = Adiutor
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Adiutor
@@ -173,6 +177,10 @@
 [submodule "AutoCreateCategoryPages"]
 	path = AutoCreateCategoryPages
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AutoCreateCategoryPages
+	branch = .
+[submodule "AutoCreatePage"]
+	path = AutoCreatePage
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AutoCreatePage
 	branch = .
 [submodule "AutoGallery"]
 	path = AutoGallery
@@ -350,6 +358,10 @@
 	path = BlueSpiceInterwikiSearch
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceInterwikiSearch
 	branch = .
+[submodule "BlueSpiceMatomoConnector"]
+	path = BlueSpiceMatomoConnector
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceMatomoConnector
+	branch = .
 [submodule "BlueSpiceMultiUpload"]
 	path = BlueSpiceMultiUpload
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceMultiUpload
@@ -505,6 +517,10 @@
 [submodule "BlueSpiceTagCloud"]
 	path = BlueSpiceTagCloud
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceTagCloud
+	branch = .
+[submodule "BlueSpiceTranslationTransfer"]
+	path = BlueSpiceTranslationTransfer
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceTranslationTransfer
 	branch = .
 [submodule "BlueSpiceUEModuleBookPDF"]
 	path = BlueSpiceUEModuleBookPDF
@@ -826,6 +842,10 @@
 	path = ContentDroplets
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ContentDroplets
 	branch = .
+[submodule "ContentProvisioning"]
+	path = ContentProvisioning
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ContentProvisioning
+	branch = .
 [submodule "ContentStabilization"]
 	path = ContentStabilization
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ContentStabilization
@@ -1093,6 +1113,10 @@
 [submodule "EmailNotifications"]
 	path = EmailNotifications
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EmailNotifications
+	branch = .
+[submodule "EmbedSpotify"]
+	path = EmbedSpotify
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EmbedSpotify
 	branch = .
 [submodule "EmergencyCaptcha"]
 	path = EmergencyCaptcha
@@ -1638,6 +1662,10 @@
 	path = JWTAuth
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/JWTAuth
 	branch = .
+[submodule "JavascriptSlideshow"]
+	path = JavascriptSlideshow
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/JavascriptSlideshow
+	branch = .
 [submodule "Josa"]
 	path = Josa
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Josa
@@ -1809,6 +1837,10 @@
 [submodule "MWVersionInfo"]
 	path = MWVersionInfo
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MWVersionInfo
+	branch = .
+[submodule "MachineTranslation"]
+	path = MachineTranslation
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MachineTranslation
 	branch = .
 [submodule "MagicLinkAuthentication"]
 	path = MagicLinkAuthentication
@@ -2454,6 +2486,10 @@
 	path = PreferencesList
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PreferencesList
 	branch = .
+[submodule "Preloader"]
+	path = Preloader
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Preloader
+	branch = .
 [submodule "Prezi"]
 	path = Prezi
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Prezi
@@ -2585,6 +2621,10 @@
 [submodule "ReadAloud"]
 	path = ReadAloud
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ReadAloud
+	branch = .
+[submodule "ReaderExperiments"]
+	path = ReaderExperiments
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ReaderExperiments
 	branch = .
 [submodule "ReadingLists"]
 	path = ReadingLists
@@ -3317,6 +3357,10 @@
 [submodule "UserPageViewTracker"]
 	path = UserPageViewTracker
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UserPageViewTracker
+	branch = .
+[submodule "UserProfile"]
+	path = UserProfile
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UserProfile
 	branch = .
 [submodule "UserProtect"]
 	path = UserProtect
