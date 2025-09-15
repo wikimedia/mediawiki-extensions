@@ -1574,6 +1574,10 @@
 	path = IframePage
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/IframePage
 	branch = .
+[submodule "ImageFilter"]
+	path = ImageFilter
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ImageFilter
+	branch = .
 [submodule "ImageMap"]
 	path = ImageMap
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ImageMap
