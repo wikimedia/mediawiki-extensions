@@ -3,7 +3,7 @@
 echo "Refreshing remote"
 git pull
 echo "Refreshing submodules"
-git submodule update --init
+git submodule update --init --recursive
 
 echo "Comparing HEAD and origin/master of each repository..."
 echo "------------------------------------------------------"
