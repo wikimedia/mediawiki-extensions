@@ -1442,10 +1442,6 @@
 	path = GoogleTranslate
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GoogleTranslate
 	branch = .
-[submodule "Graph"]
-	path = Graph
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Graph
-	branch = .
 [submodule "GraphQL"]
 	path = GraphQL
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GraphQL
