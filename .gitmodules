@@ -2414,6 +2414,10 @@
 	path = PerformanceInspector
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PerformanceInspector
 	branch = .
+[submodule "PersonalDashboard"]
+	path = PersonalDashboard
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PersonalDashboard
+	branch = .
 [submodule "Petition"]
 	path = Petition
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Petition
@@ -3442,6 +3446,10 @@
 	path = VueTest
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VueTest
 	branch = .
+[submodule "WP25EasterEggs"]
+	path = WP25EasterEggs
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WP25EasterEggs
+	branch = .
 [submodule "WSOAuth"]
 	path = WSOAuth
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WSOAuth
@@ -3609,6 +3617,10 @@
 [submodule "WikimediaCampaignEvents"]
 	path = WikimediaCampaignEvents
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikimediaCampaignEvents
+	branch = .
+[submodule "WikimediaCustomizations"]
+	path = WikimediaCustomizations
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikimediaCustomizations
 	branch = .
 [submodule "WikimediaEditorTasks"]
 	path = WikimediaEditorTasks
