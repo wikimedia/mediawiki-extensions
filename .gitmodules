@@ -2626,6 +2626,10 @@
 	path = ReadAloud
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ReadAloud
 	branch = .
+[submodule "ReadMode"]
+	path = ReadMode
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ReadMode
+	branch = .
 [submodule "ReaderExperiments"]
 	path = ReaderExperiments
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ReaderExperiments
@@ -3449,6 +3453,10 @@
 [submodule "WSOAuth"]
 	path = WSOAuth
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WSOAuth
+	branch = .
+[submodule "Wanda"]
+	path = Wanda
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Wanda
 	branch = .
 [submodule "WantedPagesFromNS"]
 	path = WantedPagesFromNS
