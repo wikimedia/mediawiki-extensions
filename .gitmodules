@@ -3578,10 +3578,6 @@
 	path = WikibaseCirrusSearch
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikibaseCirrusSearch
 	branch = .
-[submodule "WikibaseLexeme"]
-	path = WikibaseLexeme
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikibaseLexeme
-	branch = .
 [submodule "WikibaseLexemeCirrusSearch"]
 	path = WikibaseLexemeCirrusSearch
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikibaseLexemeCirrusSearch
