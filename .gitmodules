@@ -90,6 +90,10 @@
 	path = AllTimeZones
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AllTimeZones
 	branch = .
+[submodule "AllowlistHTMLTags"]
+	path = AllowlistHTMLTags
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AllowlistHTMLTags
+	branch = .
 [submodule "Analytics"]
 	path = Analytics
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Analytics
@@ -3457,6 +3461,14 @@
 [submodule "Wanda"]
 	path = Wanda
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Wanda
+	branch = .
+[submodule "WandaScore"]
+	path = WandaScore
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WandaScore
+	branch = .
+[submodule "WandaScribe"]
+	path = WandaScribe
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WandaScribe
 	branch = .
 [submodule "WantedPagesFromNS"]
 	path = WantedPagesFromNS
