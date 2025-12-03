@@ -1686,6 +1686,10 @@
 	path = JsonData
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/JsonData
 	branch = .
+[submodule "JsonForms"]
+	path = JsonForms
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/JsonForms
+	branch = .
 [submodule "Kartographer"]
 	path = Kartographer
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Kartographer
@@ -2037,6 +2041,10 @@
 [submodule "MultiMaps"]
 	path = MultiMaps
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MultiMaps
+	branch = .
+[submodule "MultiTitle"]
+	path = MultiTitle
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MultiTitle
 	branch = .
 [submodule "MultimediaViewer"]
 	path = MultimediaViewer
@@ -3161,6 +3169,10 @@
 [submodule "TemplateWizard"]
 	path = TemplateWizard
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TemplateWizard
+	branch = .
+[submodule "TestKitchen"]
+	path = TestKitchen
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TestKitchen
 	branch = .
 [submodule "TestLanguageNameGrammar"]
 	path = TestLanguageNameGrammar
