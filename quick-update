@@ -2,7 +2,8 @@
 
 # Code is released into public domain
 
-PROCNUM=10
+# Limit to 8 processes; standard number of allowed authed connections...
+PROCNUM=8
 TARGET=${1:-all}
 MODE=${2:-update}
 
@@ -47,6 +48,5 @@ else
 		* )
 			echo "Invalid mode specified"
 			exit 1
-		
 	esac
 fi
