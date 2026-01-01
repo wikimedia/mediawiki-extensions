@@ -150,10 +150,6 @@
 	path = ArticleRatings
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ArticleRatings
 	branch = .
-[submodule "ArticleSummaries"]
-	path = ArticleSummaries
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ArticleSummaries
-	branch = .
 [submodule "ArticleToCategory2"]
 	path = ArticleToCategory2
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ArticleToCategory2
@@ -1658,6 +1654,10 @@
 	path = InviteSignup
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/InviteSignup
 	branch = .
+[submodule "IssueTrackerLinks"]
+	path = IssueTrackerLinks
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/IssueTrackerLinks
+	branch = .
 [submodule "JSBreadCrumbs"]
 	path = JSBreadCrumbs
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/JSBreadCrumbs
@@ -2505,6 +2505,10 @@
 [submodule "Preloader"]
 	path = Preloader
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Preloader
+	branch = .
+[submodule "PreviewLinks"]
+	path = PreviewLinks
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PreviewLinks
 	branch = .
 [submodule "Prezi"]
 	path = Prezi
@@ -3574,6 +3578,10 @@
 	path = WikiLovesMonuments
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiLovesMonuments
 	branch = .
+[submodule "WikiRAG"]
+	path = WikiRAG
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiRAG
+	branch = .
 [submodule "WikiSEO"]
 	path = WikiSEO
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiSEO
@@ -3649,10 +3657,6 @@
 [submodule "WikimediaCustomizations"]
 	path = WikimediaCustomizations
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikimediaCustomizations
-	branch = .
-[submodule "WikimediaEditorTasks"]
-	path = WikimediaEditorTasks
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikimediaEditorTasks
 	branch = .
 [submodule "WikimediaEvents"]
 	path = WikimediaEvents
