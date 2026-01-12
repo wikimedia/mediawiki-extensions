@@ -3462,10 +3462,6 @@
 	path = VueJsPlus
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VueJsPlus
 	branch = .
-[submodule "VueTest"]
-	path = VueTest
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VueTest
-	branch = .
 [submodule "WP25EasterEggs"]
 	path = WP25EasterEggs
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WP25EasterEggs
