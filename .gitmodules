@@ -2530,6 +2530,10 @@
 	path = PrivatePageProtection
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PrivatePageProtection
 	branch = .
+[submodule "Produnto"]
+	path = Produnto
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Produnto
+	branch = .
 [submodule "PronunciationRecording"]
 	path = PronunciationRecording
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PronunciationRecording
