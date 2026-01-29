@@ -134,6 +134,10 @@
 	path = ArticleFeedbackv5
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ArticleFeedbackv5
 	branch = .
+[submodule "ArticleGuidance"]
+	path = ArticleGuidance
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ArticleGuidance
+	branch = .
 [submodule "ArticleIndex"]
 	path = ArticleIndex
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ArticleIndex
