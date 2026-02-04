@@ -706,6 +706,14 @@
 	path = Chart
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Chart
 	branch = .
+[submodule "ChatBot"]
+	path = ChatBot
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ChatBot
+	branch = .
+[submodule "ChatIntegration"]
+	path = ChatIntegration
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ChatIntegration
+	branch = .
 [submodule "CheckUser"]
 	path = CheckUser
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CheckUser
