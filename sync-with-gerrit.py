@@ -88,8 +88,10 @@ def generate_gitmodules(projects):
     return gitmodules
 
 
-def gerrit(gerrit_cmd, args=[], gerrit_conf=gerrit_conf):
+def gerrit(gerrit_cmd, args=None, gerrit_conf=gerrit_conf):
     "Helper to execute a gerrit command."
+    if args is None:
+        args = []
     ssh = [
         '/usr/bin/ssh',
         '-p', gerrit_conf['port'],
