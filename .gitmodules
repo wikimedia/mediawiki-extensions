@@ -1962,10 +1962,6 @@
 	path = Metadata
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Metadata
 	branch = .
-[submodule "MetricsPlatform"]
-	path = MetricsPlatform
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MetricsPlatform
-	branch = .
 [submodule "MiniInvite"]
 	path = MiniInvite
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MiniInvite
