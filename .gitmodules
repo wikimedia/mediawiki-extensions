@@ -2918,10 +2918,6 @@
 	path = Shibboleth
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Shibboleth
 	branch = .
-[submodule "ShortUrl"]
-	path = ShortUrl
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ShortUrl
-	branch = .
 [submodule "ShoutWikiAPI"]
 	path = ShoutWikiAPI
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ShoutWikiAPI
