@@ -2430,10 +2430,6 @@
 	path = PerPageLanguage
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PerPageLanguage
 	branch = .
-[submodule "PerformanceInspector"]
-	path = PerformanceInspector
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PerformanceInspector
-	branch = .
 [submodule "PersonalDashboard"]
 	path = PersonalDashboard
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PersonalDashboard
