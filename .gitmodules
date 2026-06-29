@@ -3646,10 +3646,6 @@
 	path = WikidataPageBanner
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikidataPageBanner
 	branch = .
-[submodule "WikimediaApiPortalOAuth"]
-	path = WikimediaApiPortalOAuth
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikimediaApiPortalOAuth
-	branch = .
 [submodule "WikimediaBadges"]
 	path = WikimediaBadges
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikimediaBadges
