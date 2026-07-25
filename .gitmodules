@@ -2002,6 +2002,10 @@
 	path = Model
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Model
 	branch = .
+[submodule "ModeratorToolkit"]
+	path = ModeratorToolkit
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ModeratorToolkit
+	branch = .
 [submodule "Monstranto"]
 	path = Monstranto
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Monstranto
@@ -2677,6 +2681,10 @@
 [submodule "ReassignEdits"]
 	path = ReassignEdits
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ReassignEdits
+	branch = .
+[submodule "RecentPageStats"]
+	path = RecentPageStats
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/RecentPageStats
 	branch = .
 [submodule "Recoin"]
 	path = Recoin
