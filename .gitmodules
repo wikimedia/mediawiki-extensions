@@ -2858,10 +2858,6 @@
 	path = SemanticGenealogy
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticGenealogy
 	branch = .
-[submodule "SemanticImageInput"]
-	path = SemanticImageInput
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticImageInput
-	branch = .
 [submodule "SemanticInternalObjects"]
 	path = SemanticInternalObjects
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticInternalObjects
