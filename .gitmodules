@@ -2938,10 +2938,6 @@
 	path = ShowRealUsernames
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ShowRealUsernames
 	branch = .
-[submodule "SidebarDonateBox"]
-	path = SidebarDonateBox
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SidebarDonateBox
-	branch = .
 [submodule "SignWritingMediaWikiPlugin"]
 	path = SignWritingMediaWikiPlugin
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SignWritingMediaWikiPlugin
