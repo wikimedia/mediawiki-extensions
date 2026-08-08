@@ -2846,10 +2846,6 @@
 	path = SecurePoll
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SecurePoll
 	branch = .
-[submodule "SecurityApi"]
-	path = SecurityApi
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SecurityApi
-	branch = .
 [submodule "SelectCategory"]
 	path = SelectCategory
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SelectCategory
