@@ -1890,10 +1890,6 @@
 	path = MapSources
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MapSources
 	branch = .
-[submodule "MarkAsHelpful"]
-	path = MarkAsHelpful
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MarkAsHelpful
-	branch = .
 [submodule "MassEditRegex"]
 	path = MassEditRegex
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MassEditRegex
