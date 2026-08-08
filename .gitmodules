@@ -1938,10 +1938,6 @@
 	path = MediaWikiFarm
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MediaWikiFarm
 	branch = .
-[submodule "Memento"]
-	path = Memento
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Memento
-	branch = .
 [submodule "MenuEditor"]
 	path = MenuEditor
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MenuEditor
