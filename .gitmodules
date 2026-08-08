@@ -3306,10 +3306,6 @@
 	path = TwoColConflict
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TwoColConflict
 	branch = .
-[submodule "UIFeedback"]
-	path = UIFeedback
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UIFeedback
-	branch = .
 [submodule "UILangCode"]
 	path = UILangCode
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UILangCode
