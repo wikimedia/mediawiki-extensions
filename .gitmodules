@@ -2074,10 +2074,6 @@
 	path = NativeSvgHandler
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NativeSvgHandler
 	branch = .
-[submodule "NaturalLanguageList"]
-	path = NaturalLanguageList
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NaturalLanguageList
-	branch = .
 [submodule "NavigationTiming"]
 	path = NavigationTiming
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/NavigationTiming
