@@ -1186,10 +1186,6 @@
 	path = Expressions
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Expressions
 	branch = .
-[submodule "ExtJSBase"]
-	path = ExtJSBase
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ExtJSBase
-	branch = .
 [submodule "ExtensionDistributor"]
 	path = ExtensionDistributor
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ExtensionDistributor
