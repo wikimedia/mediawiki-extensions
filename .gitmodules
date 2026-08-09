@@ -1230,10 +1230,6 @@
 	path = Figures
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Figures
 	branch = .
-[submodule "FileAnnotations"]
-	path = FileAnnotations
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FileAnnotations
-	branch = .
 [submodule "FileExporter"]
 	path = FileExporter
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FileExporter
