@@ -1390,10 +1390,6 @@
 	path = GlobalWatchlist
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GlobalWatchlist
 	branch = .
-[submodule "GoogleAnalyticsMetrics"]
-	path = GoogleAnalyticsMetrics
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GoogleAnalyticsMetrics
-	branch = .
 [submodule "GoogleAnalyticsTopPages"]
 	path = GoogleAnalyticsTopPages
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/GoogleAnalyticsTopPages
