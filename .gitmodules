@@ -2494,6 +2494,10 @@
 	path = Prezi
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Prezi
 	branch = .
+[submodule "Pride"]
+	path = Pride
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Pride
+	branch = .
 [submodule "PrimarySources"]
 	path = PrimarySources
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PrimarySources
