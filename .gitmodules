@@ -1586,10 +1586,6 @@
 	path = ImageSuggestions
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ImageSuggestions
 	branch = .
-[submodule "ImageTweaks"]
-	path = ImageTweaks
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ImageTweaks
-	branch = .
 [submodule "ImapAuthorization"]
 	path = ImapAuthorization
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ImapAuthorization
