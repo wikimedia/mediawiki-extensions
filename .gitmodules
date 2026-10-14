@@ -2838,6 +2838,10 @@
 	path = SemanticGenealogy
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticGenealogy
 	branch = .
+[submodule "SemanticImageInput"]
+	path = SemanticImageInput
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticImageInput
+	branch = .
 [submodule "SemanticInternalObjects"]
 	path = SemanticInternalObjects
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticInternalObjects
@@ -2901,6 +2905,10 @@
 [submodule "ShowRealUsernames"]
 	path = ShowRealUsernames
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ShowRealUsernames
+	branch = .
+[submodule "SidebarDonateBox"]
+	path = SidebarDonateBox
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SidebarDonateBox
 	branch = .
 [submodule "SignWritingMediaWikiPlugin"]
 	path = SignWritingMediaWikiPlugin
@@ -3174,6 +3182,10 @@
 	path = Theme
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Theme
 	branch = .
+[submodule "ThemeToggle"]
+	path = ThemeToggle
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ThemeToggle
+	branch = .
 [submodule "ThrottleOverride"]
 	path = ThrottleOverride
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ThrottleOverride
@@ -3266,9 +3278,17 @@
 	path = TwoColConflict
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TwoColConflict
 	branch = .
+[submodule "UIFeedback"]
+	path = UIFeedback
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UIFeedback
+	branch = .
 [submodule "UILangCode"]
 	path = UILangCode
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UILangCode
+	branch = .
+[submodule "UmamiAnalytics"]
+	path = UmamiAnalytics
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/UmamiAnalytics
 	branch = .
 [submodule "UnCaptcha"]
 	path = UnCaptcha
@@ -3450,6 +3470,10 @@
 	path = WandaScribe
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WandaScribe
 	branch = .
+[submodule "WandaVoice"]
+	path = WandaVoice
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WandaVoice
+	branch = .
 [submodule "WantedPagesFromNS"]
 	path = WantedPagesFromNS
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WantedPagesFromNS
@@ -3549,6 +3573,10 @@
 [submodule "WikiSEO"]
 	path = WikiSEO
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiSEO
+	branch = .
+[submodule "WikiShare"]
+	path = WikiShare
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiShare
 	branch = .
 [submodule "WikiTextLoggedInOut"]
 	path = WikiTextLoggedInOut
