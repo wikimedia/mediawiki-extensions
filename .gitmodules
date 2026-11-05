@@ -1186,6 +1186,10 @@
 	path = Expressions
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Expressions
 	branch = .
+[submodule "ExtendedInputBox"]
+	path = ExtendedInputBox
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ExtendedInputBox
+	branch = .
 [submodule "ExtensionDistributor"]
 	path = ExtensionDistributor
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ExtensionDistributor
@@ -2846,10 +2850,6 @@
 	path = SemanticInternalObjects
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticInternalObjects
 	branch = .
-[submodule "SemanticPageSeries"]
-	path = SemanticPageSeries
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticPageSeries
-	branch = .
 [submodule "SemanticRESTAPI"]
 	path = SemanticRESTAPI
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SemanticRESTAPI
@@ -3669,10 +3669,6 @@
 [submodule "Wikispeech"]
 	path = Wikispeech
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Wikispeech
-	branch = .
-[submodule "WikispeechSpeechDataCollector"]
-	path = WikispeechSpeechDataCollector
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikispeechSpeechDataCollector
 	branch = .
 [submodule "Wikistories"]
 	path = Wikistories
