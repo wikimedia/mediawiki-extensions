@@ -182,10 +182,6 @@
 	path = AutoCreateCategoryPages
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AutoCreateCategoryPages
 	branch = .
-[submodule "AutoCreatePage"]
-	path = AutoCreatePage
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AutoCreatePage
-	branch = .
 [submodule "AutoGallery"]
 	path = AutoGallery
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AutoGallery
