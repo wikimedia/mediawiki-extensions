@@ -774,9 +774,9 @@
 	path = CognitiveProcessDesigner
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CognitiveProcessDesigner
 	branch = .
-[submodule "CollabPads"]
-	path = CollabPads
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CollabPads
+[submodule "CollabPatrol"]
+	path = CollabPatrol
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CollabPatrol
 	branch = .
 [submodule "CollapsibleSections"]
 	path = CollapsibleSections
@@ -3445,10 +3445,6 @@
 [submodule "VueJsPlus"]
 	path = VueJsPlus
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VueJsPlus
-	branch = .
-[submodule "WP25EasterEggs"]
-	path = WP25EasterEggs
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WP25EasterEggs
 	branch = .
 [submodule "WSOAuth"]
 	path = WSOAuth
