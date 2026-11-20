@@ -774,6 +774,10 @@
 	path = CognitiveProcessDesigner
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CognitiveProcessDesigner
 	branch = .
+[submodule "CollabPads"]
+	path = CollabPads
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CollabPads
+	branch = .
 [submodule "CollabPatrol"]
 	path = CollabPatrol
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CollabPatrol
